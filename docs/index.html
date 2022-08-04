@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>
+OHDSI's network of co-authors
+  </title>
+
+<meta charset="utf-8">
+
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+
+p {
+   text-align: left;
+   vertical-align: top;
+   margin-top: 0;
+}
+
+tr {
+   vertical-align: top;
+}
+
+</style>
+</head>
+<body>
+<h1>OHDIS's network of co-authors</h1>
+<svg width="1200" height="900"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody().strength(-175))
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+d3.json("graph.json", function(error, graph) {
+  if (error) throw error;
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); })
+	  .style("opacity", function(d) { return 0.8-0.6/Math.sqrt(d.value); });
+	  	  
+var node = svg.selectAll(".node")
+    .data(graph.nodes)
+    .enter().append("g")
+    .attr("class", "node")
+    .call(d3.drag()
+	      .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+  node.append("circle")
+	.attr("r", function(d) { return 1+Math.sqrt(d.size); })
+	.style("fill", function(d) { return d.color; })
+	.style("opacity", 0.5)
+
+  node.append("text")
+	.attr("dx", 10)
+	.attr("dy", ".35em")
+	.text(function(d) { return d.id });  
+	  
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+		  d3.selectAll("circle").attr("cx", function (d) {
+        return d.x;
+    })
+        .attr("cy", function (d) {
+        return d.y;
+    });
+
+    d3.selectAll("text").attr("x", function (d) {
+        return d.x;
+    })
+        .attr("y", function (d) {
+        return d.y;
+    });
+		
+  
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+</script>
+</body>
+</html>

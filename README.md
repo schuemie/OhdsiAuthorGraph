@@ -24,10 +24,7 @@ File --> Import --> Network from file --> Select `links.tsv`
 
 File --> Import --> Table from file --> Select `authors.tsv`
 
-In Filter:
-
-- `+` --> Node: paperCount --> Change min value to 2
-- 'show' --> Apply (see bottom)
+You probably want to select the 'Always Show Graphics Details' (looks like a pixelated diamond) in the bottom right of the graph pane. Else you won't see the labels etc. in the preview.
 
 In Style - Node (see bottom tab):
 
@@ -37,7 +34,7 @@ In Style - Node (see bottom tab):
 - Label Font Size: 15
 - Label Position (Click Properties dropdown to show): 
     - Node Anchor Points: East
-    - Object Anchor Points: West
+    - Label Anchor Points: West
     - Label Justification: Left Justified
     - X Offset Value: 1
     - Y Offset Value: 0
@@ -57,16 +54,8 @@ In Style - Edge (see bottom tab):
     - Open mapping. Double click left box, set value to 40. Double click right box, set value to 100
 	
 	
-Layout --> Settings
-
-- Layout Algorithm: Prefuse Force Directed OpenCL Layout
-- Edge column: paperCount
-- How to interpret: -Log(value)
-- Iterations: 100
-- Edge-repulsive iterations: 100
-- Default Sprint Coefficient: 2E-5
-- Default Spring Length: 1
-- Default Node Mass: 3
+Layout --> yFiles Organic Layout --> yFiles Remove Overlaps
+(Tip: temporarily change node shape to rectangle, uncheck lock node width and heigh, set height to 25 and width to 50, node anchor to west. This will cause layout to avoid (most) label overlap)
 
 Next, move nodes manually to fill screen and avoid label overlap (may take a while)
 

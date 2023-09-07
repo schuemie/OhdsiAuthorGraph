@@ -4,21 +4,31 @@ library(dplyr)
 library(xml2)
 library(stringi)
 library(readr)
+library(jsonlite)
 
-# Start with list of PMIDs (in this case from CSV provided by Paul Nagy):
-authorList <- read_csv("authorslist.csv")
-pmids <- unique(authorList$pubmedID)
+# Start with list of PMIDs (in this case from JSON provided by Paul Nagy) ------
+authorList <- fromJSON("pubmedJoined.json")
+getPmid <- function(entry) {
+  return(entry$pubmed$pubmedID)
+}
+pmids <- sapply(authorList$pubmedJoined, getPmid)
 
 # Fetch article info from PubMed based on PMIDs --------------------------------
 baseUrl <- "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml&id="
-url <- paste0(baseUrl, paste(pmids, collapse = ","))
-download.file(url, "intermediaryData/pubmed.xml")
+batchSize <- 100
+start <- 1
+while (start <= length(pmids)) {
+  end <- min(start + batchSize - 1, length(pmids))
+  url <- paste0(baseUrl, paste(pmids[start:end], collapse = ","))
+  download.file(url, sprintf("intermediaryData/pubmed%d-%d.xml", start, end))
+  start <- end + 1
+}
 
 # Parse XML --------------------------------------------------------------------
 # Note: This code could probably be made more efficient by someone who is
 # familiar with xml2
 
-root <- read_xml("intermediaryData/pubmed.xml")
+
 # author = authorList[[1]]
 extractAuthor <- function(author) {
   tibble(
@@ -44,9 +54,18 @@ extractAuthors <- function(entry) {
     mutate(pmid = !!pmid,
            year = !!year)
 }
-pmidToAuthors <- lapply(xml_children(root), extractAuthors)
-pmidToAuthors <- bind_rows(pmidToAuthors) %>%
-  filter(!is.na(lastName))
+extractAuthorsFromXmlFile <- function(fileName) {
+  root <- read_xml(fileName)
+  pmidToAuthors <- lapply(xml_children(root), extractAuthors)
+  pmidToAuthors <- bind_rows(pmidToAuthors) %>%
+    filter(!is.na(lastName))
+  return(pmidToAuthors)
+}
+files <- list.files("intermediaryData", "pubmed.*.xml", full.names = TRUE)
+pmidToAuthors <- lapply(files, extractAuthorsFromXmlFile)
+pmidToAuthors <- bind_rows(pmidToAuthors)
+pmidToAuthors <- pmidToAuthors %>%
+  distinct()
 saveRDS(pmidToAuthors, "intermediaryData/pmidToAuthors.rds")
 
 # Normalize authors and merge --------------------------------------------------
@@ -89,12 +108,14 @@ saveRDS(links, "intermediaryData/links.rds")
 authors <- readRDS("intermediaryData/authors.rds")
 lines <- readRDS("intermediaryData/links.rds")
 
-authors %>%
-  select(name = printName, paperCount, firstYear) %>%
-  write_tsv("cytoscape/authors.tsv")
+selectAuthors <- authors %>%
+  filter(paperCount > 1) %>%
+  select(name = printName, paperCount, firstYear)
+write_tsv(selectAuthors, "cytoscape/authors.tsv")
 
-links %>%
-  write_tsv("cytoscape/links.tsv")
+selectLinks <- links %>%
+  filter(source %in% selectAuthors$name, target %in% selectAuthors$name)
+write_tsv(selectLinks, "cytoscape/links.tsv")
 
 # Output for JavaScript viewer--------------------------------------------------
 library(jsonlite)

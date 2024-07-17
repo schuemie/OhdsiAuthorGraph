@@ -7,11 +7,9 @@ library(readr)
 library(jsonlite)
 
 # Start with list of PMIDs (in this case from JSON provided by Paul Nagy) ------
-authorList <- fromJSON("pubmedJoined.json")
-getPmid <- function(entry) {
-  return(entry$pubmed$pubmedID)
-}
-pmids <- sapply(authorList$pubmedJoined, getPmid)
+publications <- read_csv("ohdsi-pubs.csv")
+pmids <- publications$pubmedID
+pmids <- pmids[!is.na(pmids)]
 
 # Fetch article info from PubMed based on PMIDs --------------------------------
 baseUrl <- "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml&id="
@@ -106,7 +104,7 @@ saveRDS(links, "intermediaryData/links.rds")
 
 # Output for Cytoscape ---------------------------------------------------------
 authors <- readRDS("intermediaryData/authors.rds")
-lines <- readRDS("intermediaryData/links.rds")
+links <- readRDS("intermediaryData/links.rds")
 
 selectAuthors <- authors %>%
   filter(paperCount > 1) %>%
@@ -119,7 +117,7 @@ write_tsv(selectLinks, "cytoscape/links.tsv")
 
 # Output for JavaScript viewer--------------------------------------------------
 library(jsonlite)
-minPaperCount <- 5
+minPaperCount <- 1
 
 authors <- readRDS("intermediaryData/authors.rds")
 links <- readRDS("intermediaryData/links.rds")

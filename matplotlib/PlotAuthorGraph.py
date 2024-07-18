@@ -58,7 +58,7 @@ adjust_text(texts,
             force_pull=0.02,
             expand_axes=True,
             ensure_inside_axes=False,
-            iter_lim=10)
+            iter_lim=1000)
 positions = {text.get_text(): (text.get_position()[0], text.get_position()[1]) for text in texts}
 plt.close()
 

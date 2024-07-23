@@ -3,7 +3,8 @@ import csv
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
-from adjustText import adjust_text
+# from adjustText import adjust_text
+import textalloc as ta
 from fa2_modified import ForceAtlas2
 from matplotlib import colors
 
@@ -45,57 +46,77 @@ positions = forceatlas2.forceatlas2_networkx_layout(g, iterations=10000, weight_
 
 # Most important concern is overlapping labels (the plot is no fun if you can"t read all the names).
 # We therefore use adjust_texts to avoid overlap, and adjust the position of the nodes based on that.
+# plt.figure(figsize=(24, 15))
+fig, ax = plt.subplots()
 
-# Recompute node positions to avoid label overlap:
-plt.figure(figsize=(24, 15))
-texts = []
-for node, (x, y) in positions.items():
-    texts.append(plt.text(x, y, node, fontsize=10, ha="center", va="center"))
-adjust_text(texts,
-            pull_threshold=1000,
-            force_text=1.0,
-            force_static=1.0,
-            force_pull=0.02,
-            expand_axes=True,
-            ensure_inside_axes=False,
-            iter_lim=1000)
-positions = {text.get_text(): (text.get_position()[0], text.get_position()[1]) for text in texts}
-plt.close()
-
-# Redraw the graph with updated node positions
-plt.figure(figsize=(24, 15))
-
-# Draw edges
-edge_alpha = np.array([g.edges[edge]["paper_count"] for edge in g.edges])
-edge_alpha = 0.05 + 0.30 * edge_alpha / edge_alpha.max()
-nx.draw_networkx_edges(g,
-                       positions,
-                       alpha=edge_alpha.tolist(),
-                       edge_color=(0.5, 0.5, 0.5))
-
-# Draw nodes
-node_sizes = [g.nodes[node]["paper_count"] * 10 for node in g.nodes]
-first_years = [g.nodes[node]["first_year"] for node in g.nodes]
-cmap = colors.LinearSegmentedColormap.from_list("OHDSI colors", ["#336B91", "#69AED5", "#11A08A", "#FBC511", "#EB6622"])
-norm = colors.Normalize(vmin=min(first_years), vmax=max(first_years))
-node_colors = cmap(norm(first_years))
-nx.draw_networkx_nodes(g,
-                       positions,
-                       alpha=0.7,
-                       node_color=node_colors,
-                       node_size=node_sizes,
-                       linewidths=0)
-nx.draw_networkx_labels(g,
-                        positions,
-                        font_size=10)
-
-sm = plt.cm.ScalarMappable(cmap=cmap, norm=norm)
-colorbar = plt.colorbar(sm,
-                        ax=plt.gca(),
-                        drawedges=False,
-                        shrink=0.25)
-# for t in colorbar.ax.get_yticklabels():
-#      t.set_fontsize(12)
+x = [x for node, (x, y) in positions.items()]
+y = [y for node, (x, y) in positions.items()]
+texts = list(positions.keys())
+ax.scatter(x, y, c='b')
+ta.allocate(ax,
+            x,
+            y,
+            texts,
+            x_scatter=x,
+            y_scatter=y,
+            draw_lines=False,
+            verbose=True,
+            max_distance=10,
+            textsize=10)
 plt.axis("off")
-plt.savefig("plot.png", dpi=300)
+# plt.savefig("plot.png", dpi=300)
 plt.show()
+
+# # Recompute node positions to avoid label overlap:
+# plt.figure(figsize=(24, 15))
+# texts = []
+# for node, (x, y) in positions.items():
+#     texts.append(plt.text(x, y, node, fontsize=10, ha="center", va="center"))
+# adjust_text(texts,
+#             pull_threshold=1000,
+#             force_text=1.0,
+#             force_static=1.0,
+#             force_pull=0.02,
+#             expand_axes=True,
+#             ensure_inside_axes=False,
+#             iter_lim=1000)
+# positions = {text.get_text(): (text.get_position()[0], text.get_position()[1]) for text in texts}
+# plt.close()
+#
+# # Redraw the graph with updated node positions
+# plt.figure(figsize=(24, 15))
+#
+# # Draw edges
+# edge_alpha = np.array([g.edges[edge]["paper_count"] for edge in g.edges])
+# edge_alpha = 0.05 + 0.30 * edge_alpha / edge_alpha.max()
+# nx.draw_networkx_edges(g,
+#                        positions,
+#                        alpha=edge_alpha.tolist(),
+#                        edge_color=(0.5, 0.5, 0.5))
+#
+# # Draw nodes
+# node_sizes = [g.nodes[node]["paper_count"] * 10 for node in g.nodes]
+# first_years = [g.nodes[node]["first_year"] for node in g.nodes]
+# cmap = colors.LinearSegmentedColormap.from_list("OHDSI colors", ["#336B91", "#69AED5", "#11A08A", "#FBC511", "#EB6622"])
+# norm = colors.Normalize(vmin=min(first_years), vmax=max(first_years))
+# node_colors = cmap(norm(first_years))
+# nx.draw_networkx_nodes(g,
+#                        positions,
+#                        alpha=0.7,
+#                        node_color=node_colors,
+#                        node_size=node_sizes,
+#                        linewidths=0)
+# nx.draw_networkx_labels(g,
+#                         positions,
+#                         font_size=10)
+#
+# sm = plt.cm.ScalarMappable(cmap=cmap, norm=norm)
+# colorbar = plt.colorbar(sm,
+#                         ax=plt.gca(),
+#                         drawedges=False,
+#                         shrink=0.25)
+# # for t in colorbar.ax.get_yticklabels():
+# #      t.set_fontsize(12)
+# plt.axis("off")
+# plt.savefig("plot.png", dpi=300)
+# plt.show()

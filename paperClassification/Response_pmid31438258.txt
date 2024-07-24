@@ -1,0 +1,3 @@
+Discussion: The publication discusses the transformation of parts of the VA's Corporate Data Warehouse into the OMOP Common Data Model. This involves the use of standardized vocabularies and conventions for data transformation and quality assessment. The study also involves some level of clinical evidence generation as it characterizes differences in visits, disease prevalence, and medications prescribed between male and female veterans. However, the main focus of the paper seems to be on the use of the OMOP Common Data Model, which falls under the category of open community data standards.
+
+Final category: 1. Open community data standards

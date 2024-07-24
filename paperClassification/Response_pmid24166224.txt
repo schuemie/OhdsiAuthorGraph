@@ -1,0 +1,3 @@
+Discussion: The publication discusses the evaluation of the new user cohort method as a tool for risk identification in observational healthcare data. It involves the application of this method to various drug-outcome scenarios in real observational databases and simulated datasets. The performance of the method is evaluated through metrics like Area Under ROC Curve (AUC), bias, and coverage probability. This falls under the development and empirical evaluation of analytic approaches, which is a characteristic of methodological research. It does not directly involve the maintenance of data standards, the creation of software tools, or the conduction of network studies to test clinical hypotheses.
+
+Final category: 2. Methodological research

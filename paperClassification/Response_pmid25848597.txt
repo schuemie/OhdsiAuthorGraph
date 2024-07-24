@@ -1,0 +1,3 @@
+Discussion: The publication discusses the transformation of the Premier Perspective Hospital Database into the OMOP Common Data Model. This involves the design and implementation of an extract, transform, load (ETL) process, mapping of standard charge codes, and addition of visit logic. The authors also tested the conversion by replicating a published study using the raw and transformed databases. This work is primarily focused on the application and maintenance of the OMOP CDM, which falls under the category of open community data standards. Although the authors also conducted a comparison study, the main focus of the paper is on the transformation process and its implications for data standardization.
+
+Final category: 1. Open community data standards

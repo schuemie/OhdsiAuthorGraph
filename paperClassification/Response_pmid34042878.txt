@@ -1,0 +1,3 @@
+Discussion: The publication discusses a generic ETL (Extract, Transform, Load) framework for processing arbitrary patient data into HL7 FHIR bundles. This falls under the process of data integration and standardization, which is crucial for translational research and improving sample sizes. The paper also mentions the use of the OMOP common data model repository, which is a part of OHDSI's open community data standards. Therefore, the paper could potentially fall under the "Open community data standards" category. However, it also involves the development of a new tool or framework, which could place it under the "Open source development" category. 
+
+Final category: 1. Open community data standards

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of RHEA, a standardized framework for representing longitudinal status of cancer patients. This framework generates a dashboard to visualize patient data in the OMOP-CDM format. This involves the creation of a software tool that enables the community to execute analyses through consistent and reproducible processes. Therefore, it seems to align with the "Open source development" category. However, it also involves the use of OMOP common data model, which is part of the "Open community data standards" category. Despite this, the main focus of the paper is on the development of the RHEA tool, rather than on the data standards themselves.
+
+Final category: 3. Open source development

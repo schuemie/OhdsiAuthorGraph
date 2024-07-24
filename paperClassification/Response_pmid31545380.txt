@@ -1,0 +1,3 @@
+Discussion: This publication is focused on the comparison of cohort selection performance using different mappings from Australian Medicines Terminology to Anatomical Therapeutic Chemical (ATC). The study emphasizes the impact of underlying vocabularies and mappings between vocabularies used for cohort selection. It also highlights the importance of careful evaluation of vocabulary mapping sources and the methodologies used to develop those mappings. This falls under the development and maintenance of data standards, which is a key aspect of the OHDSI community's work. Therefore, it aligns with the first category, "Open community data standards". 
+
+Final category: 1. Open community data standards

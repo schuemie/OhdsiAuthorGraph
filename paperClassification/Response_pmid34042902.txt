@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of an algorithm to translate i2b2 queries to equivalent queries that can be run on the OMOP CDM database. This falls under the realm of creating tools to enable the community to execute analyses in a consistent and reproducible manner. While it does touch on the OMOP common data model, which is related to open community data standards, the main focus is on the development of a tool to facilitate the use of this model, which aligns more with open source development.
+
+Final category: 3. Open source development

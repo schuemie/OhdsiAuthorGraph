@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a system, PHOEBE, that uses data from various electronic health record and claims datasets to recommend semantically and lexically similar codes. This system is used to create patient cohorts, identifying more patients and capturing them earlier in the disease course. This work involves the use of the OHDSI Common Data Model, which falls under the category of open community data standards. However, the main focus of the paper is on the development of a new tool, which is more aligned with the category of open source development.
+
+Final category: 3. Open source development

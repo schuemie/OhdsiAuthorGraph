@@ -1,0 +1,3 @@
+Discussion: The publication discusses the transformation of data from the Austrian nationwide EHR system into the OMOP common data model using Python scripts. This process involves extracting, transforming, mapping, and loading fully structured sections of ELGA documents to an OMOP database. This work aligns with the first category, "Open community data standards", as it involves maintaining the OMOP common data model and community conventions for extract-transform-load (ETL). It does not seem to involve methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

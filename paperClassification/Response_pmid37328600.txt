@@ -1,0 +1,3 @@
+Discussion: The publication discusses the evaluation of different methods for vaccine safety surveillance, specifically comparing the performance of serial testing using different designs against various control outcomes. The study is focused on assessing the sensitivity and specificity of these methods, and how they can be improved. This falls under the development and evaluation of analytic approaches, which is characteristic of methodological research. While the study does touch upon clinical evidence generation in the context of vaccine safety, the main focus is on the methodology of surveillance and signal detection, rather than the generation of clinical evidence itself.
+
+Final category: 2. Methodological research

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of an open-source software system, recruIT, designed to support the recruitment process in clinical trials. The system uses the OMOP CDM as a source of patient data and HL7 FHIR as an interoperability standard. The development and implementation of this system, as well as its evaluation, are the main focus of the paper. While the system does use the OMOP CDM (which relates to category 1: Open community data standards), the primary focus of the paper is on the creation and evaluation of the software tool itself. Therefore, the paper is most closely aligned with category 3: Open source development.
+
+Final category: 3. Open source development

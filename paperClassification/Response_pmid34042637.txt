@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of the OMOP-CDM and OHDSI software stack in the PVClinical platform to integrate EHR data for the investigation of potential Adverse Drug Reactions (ADRs). This involves the use of IT and specialized systems to support drug safety processes. The publication touches on the use of open community data standards (OMOP-CDM) and open-source development (OHDSI software stack). However, the main focus is on the application of these tools for clinical evidence generation, specifically for drug safety surveillance.
+
+Final category: 4. Clinical evidence generation

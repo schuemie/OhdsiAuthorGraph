@@ -1,0 +1,3 @@
+Discussion: The publication is a clinical study that investigates the outcomes and prognostic variables following stereotactic body radiotherapy for oligoprogressive and oligometastases conditions. The study involves the analysis of survival rates, progression-free survivals, and the impact of various factors on these outcomes. This falls under the generation of clinical evidence through the testing of clinical hypotheses and the production of evidence characterizing disease natural history and treatment utilization. It does not involve the development or evaluation of analytic approaches, the creation of software tools, or the maintenance of data standards, which rules out categories 1, 2, and 3.
+
+Final category: 4. Clinical evidence generation

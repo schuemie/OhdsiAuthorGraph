@@ -1,0 +1,3 @@
+Discussion: The publication discusses the implementation of the OMOP Common Data Model (CDM) on the UK Electronic Healthcare Record database, The Health Improvement Network (THIN). It evaluates the effectiveness of this implementation for active drug safety surveillance. The paper also discusses the challenges and limitations of mapping medical and drug codes into the OMOP terminology dictionary. This work involves the standardization and organization of databases, which is a key aspect of open community data standards. However, the paper also involves methodological research as it evaluates the effectiveness of the implementation and explores its use for active drug safety surveillance. 
+
+Final category: 1. Open community data standards

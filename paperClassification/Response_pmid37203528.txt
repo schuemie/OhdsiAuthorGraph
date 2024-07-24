@@ -1,0 +1,3 @@
+Discussion: The publication discusses the transformation of HL7 CDA data into the OMOP Common Data Model (CDM), specifically focusing on the challenge of mapping Austrian drug terminology to OMOP standard concepts. This process involves the use of data standards and conventions for extract-transform-load (ETL) operations, which aligns with the first category of "Open community data standards". Although the work might also involve some aspects of methodological research (category 2) in terms of developing the approach for data transformation, the primary focus is on the use and application of data standards.
+
+Final category: 1. Open community data standards

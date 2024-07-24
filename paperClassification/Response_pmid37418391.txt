@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of common data elements (CDEs) in the All of Us (AoU) program, which uses the OMOP Common Data Model to standardize research and real-world data. The paper also discusses the use of standardized data elements and values from terminologies such as LOINC and SNOMED CT. This suggests that the paper is primarily concerned with data standardization and harmonization, which falls under the category of open community data standards. While the paper does touch on the implications of these standards for research and analysis, the main focus is on the standards themselves and their implementation in the AoU program.
+
+Final category: 1. Open community data standards

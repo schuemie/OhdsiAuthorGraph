@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and application of an open-source software tool, AEGIS, for spatial epidemiological analysis. The tool is based on the OMOP Common Data Model and uses standardized geocode and observational health data to provide spatial analysis methods. This falls under the development of software tools, but it also involves the use of the OMOP common data model, which is related to open community data standards. However, the main focus of the paper is on the development and application of the software tool, rather than the data standards themselves.
+
+Final category: 3. Open source development

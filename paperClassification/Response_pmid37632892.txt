@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and validation of phenotype algorithms for Hidradenitis Suppurativa (HS) suitable for epidemiological studies based on a network of observational databases. The study uses a data-driven approach and utilizes two open-source diagnostic tools, CohortDiagnostics and PheValuator, to evaluate and generate phenotype performance metric estimates. This falls under the development of new methodologies and the use of software tools, which suggests that it could be classified under both methodological research and open source development. However, the primary focus of the paper is on the development and validation of the algorithms, which is more aligned with methodological research.
+
+Final category: 2. Methodological research

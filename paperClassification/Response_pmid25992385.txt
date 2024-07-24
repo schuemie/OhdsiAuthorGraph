@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a conceptual model and a set of recommendations for reporting data quality in observational clinical and administrative data. This is related to maintaining data standards and ensuring data quality, which falls under the first category of "Open community data standards". However, it also involves methodological research in developing the model and recommendations, which is the second category. The publication does not seem to involve open source development or clinical evidence generation.
+
+Final category: 1. Open community data standards

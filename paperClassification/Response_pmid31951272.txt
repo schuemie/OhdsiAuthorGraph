@@ -1,0 +1,3 @@
+Discussion: The publication discusses the application of machine learning models to electronic health record data that have been harmonized to the Observational Medical Outcomes Partnership Common Data Model. The aim is to improve risk prediction for incident Atrial Fibrillation. This involves the use of data standards and methodologies, but the primary focus is on the application of these tools to generate clinical evidence. Therefore, while it touches on aspects of open community data standards and methodological research, the main focus is on clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

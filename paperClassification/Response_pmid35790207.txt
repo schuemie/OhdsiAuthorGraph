@@ -1,0 +1,3 @@
+Discussion: The publication discusses the perceived risk of re-identification in the OMOP-CDM database, which is a part of the OHDSI's open community data standards. It also discusses the need for a coordinating consortium to define and manage the re-identification risk of CDM, which could be seen as a call for methodological research. However, the main focus of the paper is on the perceptions of CDM users towards CDM and risk management for re-identification, which falls under the category of open community data standards.
+
+Final category: 1. Open community data standards

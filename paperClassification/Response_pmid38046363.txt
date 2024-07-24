@@ -1,0 +1,3 @@
+Discussion: The publication discusses the conversion of CPRD AURUM data into the OMOP Common Data Model (CDM). This involves the process of transforming and standardizing data, which aligns with the first category of "Open community data standards". The paper also mentions the use of existing OHDSI tools on the converted data, which could potentially relate to the third category of "Open source development". However, the main focus of the paper is on the conversion and standardization of data, rather than the development or use of software tools.
+
+Final category: 1. Open community data standards

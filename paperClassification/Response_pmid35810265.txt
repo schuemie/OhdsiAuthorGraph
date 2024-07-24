@@ -1,0 +1,3 @@
+Discussion: The publication is an observational study that compares the risk of hip fracture in new users of tramadol or codeine. It uses data from multiple databases and analytical methods, and it also uses large-scale propensity scores to adjust for confounding. This suggests that the study is involved in generating clinical evidence through testing a clinical hypothesis. The study does not seem to focus on maintaining data standards, developing new methodological research, or creating new software tools. Therefore, it does not fall under the categories of open community data standards, methodological research, or open source development.
+
+Final category: 4. Clinical evidence generation

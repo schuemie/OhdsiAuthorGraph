@@ -1,0 +1,3 @@
+Discussion: The publication discusses the creation of a common data model (CDM) for COVID-19 datasets from various geographical locations. The CDM is designed to ensure interoperability and compatibility among these datasets, which is crucial for collaborative research, especially in the context of a global medical crisis like the COVID-19 pandemic. The CDM includes a wide range of data variables related to COVID-19 and is compatible with established data standards like OMOP and FHIR. This work is primarily focused on the standardization and mapping of datasets, which falls under the category of open community data standards.
+
+Final category: 1. Open community data standards

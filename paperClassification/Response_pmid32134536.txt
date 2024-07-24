@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study that compares treatment regimens and glycosylated hemoglobin levels in Type 1 and Type 2 diabetes using data from two different diabetes registries. The data from these registries were harmonized to the structure and terminology in the Observational Medical Outcomes Partnership Common Data Model. This suggests that the study involves the use of open community data standards. However, the main focus of the study is on generating clinical evidence about treatment regimens and glycosylated hemoglobin levels in youth with diabetes. Therefore, the study primarily falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of the OHDSI Common Data Model (CDM) to organize healthcare data and facilitate large-scale analysis. It also discusses the development of an R interface for survival analysis using the CDM. The study involves mapping local terms to standard OHDSI concepts and loading patient data into the CDM. The challenges faced in this process, such as semantic loss and incomplete vocabularies, are also discussed. This publication seems to touch on aspects of open community data standards, methodological research, and open source development. However, the main focus is on the use and development of the CDM, which falls under the category of open community data standards.
+
+Final category: 1. Open community data standards

@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study conducted to examine the effect of statin use on head and neck cancer recurrence. The study uses the OMOP Common Data Model in seven hospitals and applies statistical methods to analyze the data. The study is essentially a clinical investigation, aiming to generate evidence about the impact of a specific medical intervention (statin use) on a specific health outcome (head and neck cancer recurrence). Although the study uses the OMOP Common Data Model, which is related to open community data standards, the main focus of the paper is not on the data standards themselves but on the clinical evidence generated using these standards.
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a unique device identifier (UDI) interoperability solution using the OHDSI common data model (CDM). This involves the creation of a UDI vocabulary to address challenges in data islands and standardization for medical device evaluation. This work falls under the creation and maintenance of data standards, which is a key aspect of the OHDSI community's work. However, it also involves the development of a new framework, which could be seen as a form of open source development. Despite this, the primary focus of the paper seems to be on the creation and implementation of data standards, rather than the development of new software tools.
+
+Final category: 1. Open community data standards

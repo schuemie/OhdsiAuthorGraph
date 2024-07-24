@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study on the heterogeneity of risk estimates across different data sources in drug safety research. It involves the use of meta-analysis, meta-regression, and other methods to assess this heterogeneity. The study is focused on understanding the variability in treatment effect estimates across datasets, which is a key aspect of methodological research. It does not directly involve the development of software tools, the creation of data standards, or the generation of clinical evidence. Therefore, it does not fall under the categories of open source development, open community data standards, or clinical evidence generation.
+
+Final category: 2. Methodological research

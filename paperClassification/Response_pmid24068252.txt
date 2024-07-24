@@ -1,0 +1,3 @@
+Discussion: The title of the publication suggests that it is focused on estimating the false discovery rate in scientific research, particularly in the context of medical literature. This topic is related to the evaluation of analytic approaches and the determination of scientific best practices, which falls under the category of methodological research. It does not seem to directly involve the OMOP common data model or OHDSI standardized vocabularies (open community data standards), the creation of software tools (open source development), or the conduction of network studies to test clinical hypotheses (clinical evidence generation).
+
+Final category: 2. Methodological research

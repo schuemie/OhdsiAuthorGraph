@@ -1,0 +1,3 @@
+Discussion: The publication discusses the creation of a new standard vocabulary for chemotherapy regimen representation in the OMOP common data model. This involves the transformation of content into the OMOP common data model, with bindings to multiple external vocabularies. This work is primarily related to the maintenance and development of the OMOP common data model and OHDSI standardized vocabularies, which falls under the category of open community data standards. Although it also involves the use of the ATHENA tool, which could be considered open source development, the main focus of the paper is on the development of the standard vocabulary, not the tool itself.
+
+Final category: 1. Open community data standards

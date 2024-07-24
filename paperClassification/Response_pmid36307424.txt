@@ -1,0 +1,3 @@
+Discussion: The publication discusses the creation of a metadata crosswalk based on existing standards to overcome the challenge of disparate data sources and repositories with heterogeneous data formats. This involves the use of the OMOP common data model, among other standards. The work is focused on data standards and their application in integrating and reusing medical data. Therefore, it aligns with the open community data standards category. Although it also involves some aspects of open source development, the main focus is on the use and adaptation of data standards, which makes the first category more appropriate.
+
+Final category: 1. Open community data standards

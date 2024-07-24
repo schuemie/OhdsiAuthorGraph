@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of mapping the Oncological Basis Dataset (oBDS) to the standardized vocabularies of the OMOP common data model (CDM). This involves transforming data elements to fit the OMOP CDM, which is a key aspect of maintaining open community data standards. The study also mentions the potential for participation in network studies, which could be related to clinical evidence generation. However, the main focus of the paper is on the process of standardizing data to fit a common model, which is more closely related to the first category.
+
+Final category: 1. Open community data standards

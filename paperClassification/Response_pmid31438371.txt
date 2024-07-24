@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of an extension to the OMOP-CDM for Next Generation Sequencing (NGS) panel data. This falls under the creation and maintenance of data standards, which is a key aspect of the "Open community data standards" category. The paper does not seem to focus on methodological research, software development, or clinical evidence generation, as it primarily discusses the development and feasibility of a new data model.
+
+Final category: 1. Open community data standards

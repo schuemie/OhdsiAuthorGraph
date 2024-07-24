@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a pharmacovigilance data-processing pipeline (PDP) that uses real-world data from electronic health records (EHR) and spontaneous reporting system (SRS) data to explore pharmacovigilance signals. The data from EHR was converted to the OMOP data model, which falls under the category of open community data standards. However, the main focus of the paper is on the application of this pipeline for active surveillance of drug safety and the generation of real-world evidence for drug safety, which aligns with the category of clinical evidence generation. The paper does not seem to focus on methodological research or open source development.
+
+Final category: 4. Clinical evidence generation

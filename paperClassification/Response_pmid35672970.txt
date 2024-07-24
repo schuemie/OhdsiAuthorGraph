@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a common data model that integrates clinical and omics data for the characterization of Primary Immunodeficiencies (PIDs) patients. This involves extending the OMOP Common Data Model (CDM) to integrate multi-omics data. This falls under the category of open community data standards as it involves maintaining the OMOP common data model and creating a new model for a specific use case. Although it also involves a bit of methodological research in terms of developing the new model, the primary focus is on the data standards.
+
+Final category: 1. Open community data standards

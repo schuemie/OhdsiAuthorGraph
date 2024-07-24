@@ -1,0 +1,3 @@
+Discussion: The publication titled "Sharing Clinical Big Data While Protecting Confidentiality and Security: Observational Health Data Sciences and Informatics" seems to discuss the challenges and solutions related to sharing clinical data while maintaining confidentiality and security. This topic is closely related to the management and standardization of data, which falls under the category of "Open community data standards". However, it could also be related to "Open source development" if the publication discusses software tools that help in maintaining confidentiality and security. 
+
+Final category: 1. Open community data standards

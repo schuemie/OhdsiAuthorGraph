@@ -1,0 +1,3 @@
+Discussion: The publication discusses the improvement of common data models through realism-based ontology. It specifically mentions the application of this method to the common data model of the Observational Medical Outcomes Partnership. This suggests that the publication is primarily concerned with the development and refinement of data standards, which falls under the first category of "Open community data standards". However, the publication also involves a degree of methodological research, as it explores a new approach to improving data models. Despite this, the main focus appears to be on the data standards themselves, rather than the methodology used to improve them.
+
+Final category: 1. Open community data standards

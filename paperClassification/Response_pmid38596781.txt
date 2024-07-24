@@ -1,0 +1,3 @@
+Discussion: The publication is a systematic review of predictive models for assessing patients' response to treatment in metastatic prostate cancer. It involves the evaluation of existing studies and models, identifying their strengths and weaknesses, and suggesting the need for further evaluation and validation. This falls under the scope of methodological research as it involves the critical evaluation of analytic approaches. It does not directly involve the development or maintenance of data standards, software tools, or the conduction of network studies to test clinical hypotheses.
+
+Final category: 2. Methodological research

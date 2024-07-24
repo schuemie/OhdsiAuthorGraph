@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of the Radiology-CDM (R-CDM), a model for standardizing medical imaging data. This falls under the scope of creating and maintaining data standards, which is a key aspect of the "Open community data standards" category. The study also involves the use of this model in a multi-institutional collaborative research to analyze the relationship between chronic disease and retinal thickness, which could be seen as generating clinical evidence. However, the main focus of the paper is on the development and application of the R-CDM, making the "Open community data standards" category more appropriate.
+
+Final category: 1. Open community data standards

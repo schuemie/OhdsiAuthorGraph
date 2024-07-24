@@ -1,0 +1,3 @@
+Discussion: The publication is a network cohort study that estimates the proportion of patients hospitalized with COVID-19 who undergo dialysis, tracheostomy, and extracorporeal membrane oxygenation (ECMO). The study uses seven databases from the United States containing routinely-collected patient data. The study does not focus on the development of new methodologies, software tools, or data standards. Instead, it uses existing data and methodologies to generate clinical evidence about the use of certain medical interventions among COVID-19 patients. Therefore, the publication falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

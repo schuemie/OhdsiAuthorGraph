@@ -1,0 +1,3 @@
+Discussion: This publication discusses the process of mapping the Bulgarian Diabetes Register to the OMOP CDM, which involves transforming the data from its original format to a standardized format. This process is part of the Extract-Transform-Load (ETL) process, which falls under the category of open community data standards. The publication also mentions the use of this standardized data for evidence generation, which could potentially fall under the category of clinical evidence generation. However, the main focus of the publication is on the process of data standardization, not on the generation of clinical evidence.
+
+Final category: 1. Open community data standards

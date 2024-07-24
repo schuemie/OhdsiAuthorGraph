@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a similarity-based cohort identification algorithm using the OMOP Common Data Model (CDM). This falls under the scope of creating new methodologies for data analysis and interpretation, which is a part of methodological research. However, it also involves the use of the OMOP CDM, which is a part of open community data standards. The focus of the paper, though, is more on the development and validation of the algorithm, rather than the use of the OMOP CDM itself. Therefore, it is more appropriate to classify this under methodological research.
+
+Final category: 2. Methodological research

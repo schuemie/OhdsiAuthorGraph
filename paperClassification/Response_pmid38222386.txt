@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use and value derived from various data sharing programs and tools, including the Observational Health Data Sciences and Informatics consortium. It surveys how these tools are being used in research institutions and evaluates their effectiveness. This topic does not directly relate to maintaining the OMOP common data model or OHDSI standardized vocabularies (category 1), nor does it involve the development of software tools (category 3). It also does not involve conducting network studies to test clinical hypotheses (category 4). However, it does involve evaluating analytic approaches and tools, which falls under methodological research (category 2).
+
+Final category: 2. Methodological research

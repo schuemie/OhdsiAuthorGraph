@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of the OMOP Common Data Model (CDM) for identifying patient cohorts for clinical trials. It also discusses the development of a service that reads facts from the OMOP repository and provides it in a form which an Arden Syntax Medical Logic Module (MLM) can process. This falls under the development of tools and methods to improve the use of the OMOP CDM, which is related to both open community data standards and open source development. However, the focus is more on the development of a new tool (the service and the MLM) to improve the use of the OMOP CDM, rather than the maintenance or standardization of the OMOP CDM itself.
+
+Final category: 3. Open source development

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the extension of the open-source software OHDSI to incorporate new functions for population health. The authors developed and tested methods to measure the completeness, timeliness, and entropy of information. This work involves the creation and modification of software tools, which aligns with the category of open source development. However, it also involves the assessment of data quality, which could be seen as related to open community data standards. Despite this, the main focus of the work is on the development and testing of new software functions, which makes it more closely aligned with open source development.
+
+Final category: 3. Open source development

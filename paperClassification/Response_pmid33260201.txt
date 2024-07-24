@@ -1,0 +1,3 @@
+Discussion: This publication discusses the use of electronic health record (EHR) data to evaluate the impact of eligibility criteria on recruitment and observable clinical outcomes of COVID-19 clinical trials. The research aims to optimize participant selection for improved statistical power of COVID-19 trials. This falls under the use of data for clinical evidence generation, but also involves methodological research in the way the data is analyzed and interpreted. However, the primary focus of the paper is on generating clinical evidence to inform the selection of eligibility criteria for COVID-19 trials, which makes it more aligned with the fourth category.
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the standardization of clinical note titles across multiple institutions using the LOINC Document Ontology (DO). It also presents a pipeline for automatically mapping these titles to suitable LOINC DO codes. This work involves the use of standardized vocabularies and conventions for data quality assessment, which aligns with the "Open community data standards" category. However, it also involves the development of a new method for standardizing clinical note titles, which could be seen as "Methodological research". Despite this, the primary focus of the paper seems to be on the standardization of data, rather than the development of new methods.
+
+Final category: 1. Open community data standards

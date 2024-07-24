@@ -1,0 +1,3 @@
+Discussion: This publication is a critique of the case-control design in retrospective database studies, arguing that it often leads to unreplicable results and unnecessary bias. The authors propose alternative designs, such as cohort and self-controlled designs, which they argue are more appropriate for these types of data. This publication is focused on the methodology of conducting studies, specifically the design of the studies and the statistical analysis of the data. Therefore, it does not fit into the categories of open community data standards, open source development, or clinical evidence generation. 
+
+Final category: 2. Methodological research

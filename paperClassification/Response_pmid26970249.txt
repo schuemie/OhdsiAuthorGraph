@@ -1,0 +1,3 @@
+Discussion: The publication discusses the empirical calibration of p-values in observational data, a statistical method used in research. It evaluates the validity of this method, its assumptions, and its potential limitations, particularly in terms of type I and type II error rates. The paper also discusses the implications of using calibrated p-values in real-world health care datasets. This falls under the development and evaluation of analytic approaches, which is a part of methodological research. It does not directly relate to the other categories such as open community data standards, open source development, or clinical evidence generation.
+
+Final category: 2. Methodological research

@@ -1,0 +1,3 @@
+Discussion: The publication discusses a method for calibrating confidence intervals in observational healthcare data studies. This method aims to improve the reproducibility of such studies by accounting for both random and systematic errors. The paper also demonstrates the application of this method in two pairs of conflicting observational studies. This work falls under the development and evaluation of analytic approaches, which is a characteristic of methodological research. It does not directly involve the creation of software tools, the maintenance of data standards, or the generation of clinical evidence.
+
+Final category: 2. Methodological research

@@ -1,0 +1,3 @@
+Discussion: The publication discusses an extension of the ATLAS user interface for the OMOP common data model, which is a tool used in research networks. This falls under the development of software tools, but it also relates to maintaining data standards as it involves the OMOP common data model. However, the main focus of the paper is on the development and enhancement of the ATLAS tool, which is a software tool, making it more relevant to the open source development category.
+
+Final category: 3. Open source development

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and evaluation of an automated method for aggregating information from different sources into a single repository, and using a predictive model to classify drug-adverse event relationships. This falls under the development of new methodologies and their empirical evaluation, which is characteristic of methodological research. However, the study also involves the use of software tools for automating the process, which is related to open source development. Despite this, the main focus of the paper is on the method itself and its evaluation, rather than the software tool.
+
+Final category: 2. Methodological research

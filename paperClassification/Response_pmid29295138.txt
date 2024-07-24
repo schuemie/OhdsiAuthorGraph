@@ -1,0 +1,3 @@
+Discussion: The publication discusses the conversion of the National Health Insurance Service-National Sample Cohort (NHIS-NSC) database into the Observational Medical Outcomes Partnership-Common Data Model (OMOP-CDM). This process involves the use of open-source data analytic solutions and the ACHILLES data profiling tool to ensure data quality and facilitate the generation of high-quality medical evidence. This work aligns with the goals of the OHDSI community in terms of maintaining data standards and enabling research. While it does involve the use of software tools (category 3), the primary focus is on the standardization and quality assessment of data (category 1).
+
+Final category: 1. Open community data standards

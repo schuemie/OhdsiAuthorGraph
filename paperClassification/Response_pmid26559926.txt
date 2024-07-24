@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of systems pharmacology, an interdisciplinary field combining network and chemical biology, to uncover and understand adverse drug reactions (ADRs). It talks about integrating various data sources and quantifying interactions between biological and chemical entities to predict ADRs. This involves a significant amount of methodological research to develop and evaluate these analytic approaches. The publication does not seem to focus on maintaining data standards, developing software tools, or conducting network studies to test clinical hypotheses.
+
+Final category: 2. Methodological research

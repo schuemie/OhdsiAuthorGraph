@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and evaluation of a multi-trait metric, GIST 2.0, which is used to compute the generalizability of a clinical study based on the population representativeness of its eligibility criteria. This involves a significant amount of methodological research, including statistical analysis and both theoretical and empirical validation. The paper does not seem to focus on the development of open community data standards, open source software, or the generation of clinical evidence.
+
+Final category: 2. Methodological research

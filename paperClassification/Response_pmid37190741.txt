@@ -1,0 +1,3 @@
+Discussion: The publication discusses the implementation of a federated learning method based on the OMOP common data model, with the aim of predicting the occurrence of side effects depending on the prescribed dose. This involves the use of the OMOP CDM, which falls under the category of open community data standards. However, the main focus of the paper is on the methodological research involved in developing and evaluating this federated learning approach. The paper also touches on clinical evidence generation, as it conducts a study to test the feasibility and effectiveness of this approach. However, the primary focus is on the methodological aspect, making this the most appropriate category.
+
+Final category: 2. Methodological research

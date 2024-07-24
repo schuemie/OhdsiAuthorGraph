@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study conducted to identify factors that influence changes in anti-hypertensive medications using a clinical database. The data was extracted, transformed, and loaded using the observational medical outcomes partnership common data model. This suggests that the study involves the use of open community data standards. However, the main focus of the study is to generate clinical evidence about the factors affecting changes in anti-hypertensive medications. Therefore, the study primarily falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

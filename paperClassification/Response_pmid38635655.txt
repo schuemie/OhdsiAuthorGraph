@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of the OMOP Common Data Model (CDM) in the PATRON primary care data repository. It details the process of converting data into the OMOP-CDM using structured query language (SQL), the challenges faced in mapping distinct free-text terms to standard vocabularies, and the strategy implemented to address these challenges. The paper also discusses the use of the OHDSI Data Quality Dashboard (DQD) to assess the data quality of the resultant OMOP dataset. The focus of the paper is on the process of data standardization and quality assessment, which aligns with the first category of OHDSI collaboration: Open community data standards.
+
+Final category: 1. Open community data standards

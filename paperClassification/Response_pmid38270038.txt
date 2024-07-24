@@ -1,0 +1,3 @@
+Discussion: The publication discusses the application of the OMOP Common Data Model to a specific dataset, in this case, a dataset of traditional East Asian medicine. The authors evaluate the feasibility of this application and suggest the development of data fields and guidelines for transforming this specific type of data to the OMOP CDM. This falls under the work of maintaining the OMOP common data model and OHDSI standardized vocabularies, which is part of the "Open community data standards" category. Although the authors suggest development (which could hint at "Open source development"), the main focus is on the application and adaptation of existing data standards, not the creation of new software tools.
+
+Final category: 1. Open community data standards

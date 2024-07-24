@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of transforming a large-scale prostate cancer outcomes dataset to the OMOP Common Data Model (CDM). This involves the use of standardized vocabularies and conventions for extract-transform-load (ETL) processes, which aligns with the first category of open community data standards. The goal of this transformation is to enhance international and joint research collaborations, which is a key aspect of the OHDSI community's mission. Although the publication also mentions the use of the transformed data for research collaborations, the main focus is on the transformation process itself, not on the specific research studies that might be conducted using the transformed data.
+
+Final category: 1. Open community data standards

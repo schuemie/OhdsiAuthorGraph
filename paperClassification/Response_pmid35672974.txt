@@ -1,0 +1,3 @@
+Discussion: The publication discusses the translation of the OMOP-CDM into an ontology, which is a way of structuring and categorizing data. This falls under the process of maintaining and improving data standards, which is a key aspect of the "Open community data standards" category. The paper also explores the utility of the semantic web for structuring EHR in a clinical decision support perspective, which could potentially fall under "Methodological research" as it involves developing and evaluating new approaches. However, the main focus of the paper is on the translation of the OMOP-CDM, which is more closely related to data standards.
+
+Final category: 1. Open community data standards

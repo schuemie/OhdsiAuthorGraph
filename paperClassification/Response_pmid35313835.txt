@@ -1,0 +1,3 @@
+Discussion: The publication discusses a retrospective study examining outpatients with dementia using data in the Observational Medical Outcomes Partnership Common Data Model (OMOP-CDM) in Beijing Anding Hospital. The study focuses on the sociodemographic characteristics and clinical features of dementia patients, with a particular emphasis on gender differences. The data used in the study includes age, sex, number of visits, use of drugs, and comorbid conditions. The study does not focus on the development of the OMOP-CDM, analytic approaches, or software tools, but rather uses the OMOP-CDM to generate clinical evidence. Therefore, the publication falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

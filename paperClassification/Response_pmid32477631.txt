@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of mapping local medication terminologies to a standardized terminology, RxNorm, using different tools including OHDSI's Usagi. The paper evaluates the performance of these tools and discusses their strengths and limitations. This falls under the process of maintaining data standards and conventions for data transformation, which is a key aspect of the "Open community data standards" category. However, it also involves a comparative analysis of different tools, which could be seen as a form of methodological research. Despite this, the primary focus of the paper is on the process of standardizing data, which is more closely aligned with the first category.
+
+Final category: 1. Open community data standards

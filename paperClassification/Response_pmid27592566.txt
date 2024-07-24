@@ -1,0 +1,3 @@
+Discussion: The publication titled "Robust empirical calibration of p-values using observational data" seems to be focused on developing and evaluating a statistical approach for calibrating p-values in observational data. This suggests that the work is primarily concerned with methodological research, as it involves the development and empirical evaluation of analytic approaches to determine scientific best practices in statistics. It does not appear to directly involve the maintenance of data standards, the creation of software tools, or the generation of clinical evidence.
+
+Final category: 2. Methodological research

@@ -1,0 +1,3 @@
+Discussion: The publication discusses a framework for automatic data transfer from the OMOP common data model (CDM) to REDCap, which is a semantically-enriched process. This involves the use of data standards and conventions for data transformation and quality assessment, which aligns with the first category of open community data standards. However, it also involves the creation of a software tool to enable this process, which falls under the third category of open source development. 
+
+Final category: 3. Open source development

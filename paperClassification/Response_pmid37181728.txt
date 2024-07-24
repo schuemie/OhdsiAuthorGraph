@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and evaluation of a metadata framework for computational phenotypes. This involves the creation of a system for organizing and retrieving computational phenotypes, which is a tool that could be used in various research and clinical applications. The work involves some methodological research in terms of developing and evaluating the framework. However, it also involves aspects of open community data standards, as the framework is designed to facilitate compliance with data standards. The work does not seem to involve open source development or clinical evidence generation directly. 
+
+Final category: 1. Open community data standards

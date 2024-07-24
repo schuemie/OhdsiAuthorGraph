@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of an IT infrastructure for a structured prevention pathway, which is based on HL7 FHIR and the OHDSI OMOP common data model. This involves the use of data standards and models, which aligns with the "Open community data standards" category. However, the paper also discusses the creation of an IT solution, which includes a health app, prevention record web-service, decision support modules, and a smart prevention registry. This aspect of the work falls under the "Open source development" category. While the paper does touch on the potential for clinical evidence generation through the use of the prevention record, this is not the main focus of the work.
+
+Final category: 1. Open community data standards

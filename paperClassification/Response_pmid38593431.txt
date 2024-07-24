@@ -1,0 +1,3 @@
+Discussion: The publication discusses the challenges and opportunities of open data standards in health care. It introduces a framework for understanding health care data needs and proposes a categorization of health care data into three domains. This aligns with the first category, which involves maintaining the OMOP common data model, OHDSI standardized vocabularies, and community conventions for extract-transform-load (ETL) and data quality assessment. The paper does not seem to focus on methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

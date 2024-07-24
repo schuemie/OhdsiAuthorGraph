@@ -1,0 +1,3 @@
+Discussion: The publication discusses the vision of creating accessible, reliable clinical evidence by accessing the clinical experience of hundreds of millions of patients across the globe. It mentions the development of a suite of applications and exploration tools that aim to generate evidence about all aspects of healthcare. This suggests that the publication could fall under the categories of "Methodological research" and "Open source development". However, the emphasis on the creation of applications and tools to execute analyses and generate evidence leans more towards the "Open source development" category.
+
+Final category: 3. Open source development

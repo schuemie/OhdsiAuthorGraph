@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study that uses the OMOP Common Data Model to evaluate the real-world incidence of endophthalmitis after intravitreal anti-VEGF injections. The study uses the data model to identify patients and calculate incidence rates. This suggests that the publication could fall under the category of "Open community data standards" as it utilizes the OMOP CDM. However, the main focus of the study is to generate clinical evidence about the incidence of endophthalmitis after intravitreal anti-VEGF injections, which suggests that it could also fall under the category of "Clinical evidence generation". 
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication discusses a conceptual model for categorizing and indexing data quality checks. It also explores the use of natural language processing for scalable acquisition of knowledge from data quality checks narratives. This work is primarily focused on improving the standardization and quality of data, which aligns with the first category of "Open community data standards". However, it also involves the development of a new method for categorizing and indexing data quality checks, which could be seen as falling under the second category of "Methodological research". Despite this, the main focus of the paper is on improving data standards and quality, making the first category the most appropriate.
+
+Final category: 1. Open community data standards

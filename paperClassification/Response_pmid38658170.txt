@@ -1,0 +1,3 @@
+Discussion: The publication discusses the Health Insurance Review and Assessment Service Covid-19 Observational Medical Outcomes Partnership (HIRA Covid-19 OMOP) database in South Korea. This suggests that the publication is about a specific implementation of the OMOP common data model, which is a tool for standardizing health data. Therefore, it seems to be related to the creation and maintenance of open community data standards. It does not appear to focus on methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

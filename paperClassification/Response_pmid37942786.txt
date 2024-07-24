@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of harmonizing German claims data vocabularies with the OMOP Common Data Model (CDM). The authors describe their approach to preparing the missing German vocabularies for the OMOP CDM, which includes identifying all codes of the corresponding vocabularies, assembling them into machine-readable tables, and translating German designations into English. They also evaluate the completeness and correctness of the prepared vocabularies using synthetic German claims data. This work falls under the category of open community data standards as it involves maintaining the OMOP CDM, standardizing vocabularies, and assessing data quality.
+
+Final category: 1. Open community data standards

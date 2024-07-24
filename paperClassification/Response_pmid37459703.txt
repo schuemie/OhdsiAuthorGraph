@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of ReDWINE, a clinical research datamart that transforms rehabilitation-related EHR data to the OHDSI OMOP Common Data Model (CDM) to facilitate rehabilitation research. This falls under the category of open community data standards as it involves the use of the OMOP CDM for standardizing EHR data. However, it also involves the deployment of data visualization and data analytics tools, which could be seen as open source development. Despite this, the main focus of the paper is on the use of the OMOP CDM for standardizing EHR data, which is more aligned with open community data standards.
+
+Final category: 1. Open community data standards

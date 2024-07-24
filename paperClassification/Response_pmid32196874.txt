@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study comparing the incidence of diabetes in youth from the United States and India. The data from both countries were harmonized to the Observational Medical Outcomes Partnership (OMOP) Common Data Model, which falls under the category of open community data standards. However, the main focus of the study is to generate clinical evidence about the incidence of diabetes in youth, which falls under the category of clinical evidence generation. The study does not seem to involve the development of new analytic approaches or software tools, so it does not fall under the categories of methodological research or open source development.
+
+Final category: 4. Clinical evidence generation

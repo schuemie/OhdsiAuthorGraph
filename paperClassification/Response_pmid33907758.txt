@@ -1,0 +1,3 @@
+Discussion: The publication is a retrospective cohort study that investigates the impact of NSAID use on the clinical outcomes of COVID-19 patients. The study uses electronic health record data and applies statistical methods to analyze the data. The study does not focus on the development of data standards, software tools, or methodological research. Instead, it uses existing tools and methods to generate clinical evidence. Therefore, the publication falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

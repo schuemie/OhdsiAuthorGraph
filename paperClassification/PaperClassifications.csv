@@ -1,0 +1,596 @@
+pmid,year,title,category
+20945505,2011,Methods for drug safety signal detection in longitudinal observational databases: LGPS and LEOPARD.,Methodological research
+21041580,2010,Advancing the science for active surveillance: rationale and design for the Observational Medical Outcomes Partnership.,Methodological research
+22037893,2012,Validation of a common data model for active safety surveillance research.,Open community data standards
+22262596,2012,Mini-Sentinel's systematic reviews of validated methods for identifying health outcomes using administrative and claims data: methods and lessons learned.,Methodological research
+22683994,2012,Evaluation of alternative standardized terminologies for medical conditions within a network of observational healthcare databases.,Open community data standards
+23015364,2012,Empirical assessment of methods for risk identification in healthcare data: results from the experiments of the Observational Medical Outcomes Partnership.,Methodological research
+23329543,2013,An evaluation of the THIN database in the OMOP Common Data Model for active drug safety surveillance.,Open community data standards
+23396660,2013,Applying standardized drug terminologies to observational healthcare databases: a case study on opioid exposure.,Open community data standards
+23408560,2013,Statistical visualization for assessing performance of methods for safety surveillance using electronic databases.,Methodological research
+23413214,2013,Comment on 'empirical assessment of methods for risk identification in healthcare data: results from the experiments of the Observational Medical Outcomes Partnership'.,Methodological research
+23571771,2013,Performance of pharmacovigilance signal-detection algorithms for the FDA adverse event reporting system.,Methodological research
+23774519,2013,Identifying appropriate reference data models for comparative effectiveness research (CER) studies based on data from clinical information systems.,Open community data standards
+23900808,2014,Interpreting observational studies: why empirical calibration is needed to correct p-values.,Methodological research
+24068252,2014,Discussion: An estimate of the science-wise false discovery rate and application to the top medical literature.,Methodological research
+24166220,2013,Variation in choice of study design: findings from the Epidemiology Design Decision Inventory and Evaluation (EDDIE) survey.,Methodological research
+24166222,2013,Defining a reference set to support methodological research in drug safety.,Methodological research
+24166223,2013,Managing data quality for a drug safety surveillance system.,Open community data standards
+24166224,2013,Empirical performance of a new user cohort method: lessons for developing a risk identification and analysis system.,Methodological research
+24166227,2013,Empirical performance of a self-controlled cohort method: lessons for developing a risk identification and analysis system.,Methodological research
+24166231,2013,A comparison of the empirical performance of methods for a risk identification system.,Methodological research
+24166232,2013,Replication of the OMOP experiment in Europe: evaluating methods for risk identification in electronic health record databases.,Methodological research
+24166233,2013,Evaluating performance of risk identification methods through a large-scale simulation of observational data.,Methodological research
+24166234,2013,Alternative outcome definitions and their effect on the performance of methods for observational outcome studies.,Methodological research
+24166235,2013,The impact of drug and outcome prevalence on the feasibility and performance of analytical methods for a risk identification and analysis system.,Methodological research
+24192967,2013,Tamsulosin treatment for benign prostatic hyperplasia and risk of severe hypotension in men aged 40-85 years in the United States: risk window analyses using between and within patient methodology.,Clinical evidence generation
+24235108,2013,Adverse drug effect detection.,Methodological research
+24551366,2013,Desiderata for healthcare integrated data repositories based on architectural comparison of three public repositories.,Open community data standards
+24635221,2014,Combining multiple healthcare databases for postmarketing drug and vaccine safety surveillance: why and how?,Methodological research
+24685766,2016,Detecting adverse drug reactions following long-term exposure in longitudinal observational data: The exposure-adjusted self-controlled case series.,Methodological research
+24713590,2014,Toward enhanced pharmacovigilance using patient-generated data on the internet.,Methodological research
+24985530,2014,Bridging islands of information to establish an integrated knowledge base of drugs and health outcomes of interest.,Open community data standards
+25024761,2014,A distribution-based method for assessing the differences between clinical trial target populations and patient populations in electronic health records.,Methodological research
+25083251,2013,Does design matter? Systematic evaluation of the impact of analytical choices on effect estimates in observational studies.,Methodological research
+25187016,2014,Fidelity assessment of a clinical practice research datalink conversion to the OMOP common data model.,Open community data standards
+25187018,2014,"Converting to a common data model: what is lost in translation? : Commentary on ""fidelity assessment of a clinical practice research datalink conversion to the OMOP common data model"".",Open community data standards
+25250527,2014,Similarity-based modeling applied to signal detection in pharmacovigilance.,Methodological research
+25670757,2015,"Feasibility and utility of applications of the common data model to multiple, disparate observational health databases.",Open community data standards
+25848530,2015,Development and validation of a classification approach for extracting severity automatically from electronic health records.,Methodological research
+25848597,2014,Transforming the Premier Perspective Hospital Database into the Observational Medical Outcomes Partnership (OMOP) Common Data Model.,Open community data standards
+25887092,2015,The impact of standardizing the definition of visits on the consistency of multi-database observational health research.,Open community data standards
+25992385,2015,Transparent reporting of data quality in distributed data networks.,Open community data standards
+26041386,2015,Birth month affects lifetime disease risk: a phenome-wide method.,Clinical evidence generation
+26052957,2014,Exploration of heterogeneity in distributed research network drug safety analyses.,Methodological research
+26055920,2015,A Comparative Assessment of Observational Medical Outcomes Partnership and Mini-Sentinel Common Data Models and Analytics: Implications for Active Drug Safety Surveillance.,Methodological research
+26068584,2015,Improving Detection of Arrhythmia Drug-Drug Interactions in Pharmacovigilance Data through the Implementation of Similarity-Based Modeling.,Methodological research
+26092163,2015,[Benefits of large healthcare databases for drug risk research].,Open community data standards
+26116429,2015,A supervised adverse drug reaction signalling framework imitating Bradford Hill's causality considerations.,Methodological research
+26136091,2015,Erratum to: A Comparative Assessment of Observational Medical Outcomes Partnership and Mini-Sentinel Common Data Models and Analytics: Implications for Active Drug Safety Surveillance.,Methodological research
+26153397,2015,A Method to Combine Signals from Spontaneous Reporting Systems and Observational Healthcare Data to Detect Adverse Drug Reactions.,Methodological research
+26262116,2015,Observational Health Data Sciences and Informatics (OHDSI): Opportunities for Observational Researchers.,Open source development
+26306268,2015,Are All Vaccines Created Equal? Using Electronic Health Records to Discover Vaccines Associated With Clinician-Coded Adverse Events.,Clinical evidence generation
+26448797,2015,Creating a Common Data Model for Comparative Effectiveness with the Observational Medical Outcomes Partnership.,Open community data standards
+26515501,2015,Semantic processing of EHR data for clinical research.,Open community data standards
+26527579,2016,A normalization method for combination of laboratory test results from different electronic healthcare databases in a distributed research network.,Methodological research
+26559926,2016,Systems biology approaches for identifying adverse drug reactions and elucidating their underlying biological mechanisms.,Methodological research
+26820188,2016,Multivariate analysis of the population representativeness of related clinical studies.,Methodological research
+26879560,2016,Evidence of Misclassification of Drug-Event Associations Classified as Gold Standard 'Negative Controls' by the Observational Medical Outcomes Partnership (OMOP).,Methodological research
+26893951,2016,Conversion and Data Quality Assessment of Electronic Health Record Data at a Korean Tertiary Teaching Hospital to a Common Data Model for Distributed Network Research.,Open community data standards
+26958207,2015,Clinical Predictive Modeling Development and Deployment through FHIR Web Services.,Open source development
+26970249,2016,Limitations of empirical calibration of p-values using observational data.,Methodological research
+27014709,2016,"Data Extraction and Management in Networks of Observational Health Care Databases for Scientific Research: A Comparison of EU-ADR, OMOP, Mini-Sentinel and MATRICE Strategies.",Open community data standards
+27016383,2016,Improving condition severity classification with an efficient active learning based framework.,Methodological research
+27028034,2016,"A Model for Catalyzing Educational and Clinical Transformation in Primary Care: Outcomes From a Partnership Among Family Medicine, Internal Medicine, and Pediatrics.",Methodological research
+27274072,2016,Characterizing treatment pathways at scale using the OHDSI network.,Clinical evidence generation
+27401223,2016,Investigation of 7-dehydrocholesterol reductase pathway to elucidate off-target prenatal effects of pharmaceuticals: a systematic review.,Clinical evidence generation
+27418432,2016,Design and analysis choices for safety surveillance evaluations need to be tuned to the specifics of the hypothesized drug-outcome association.,Methodological research
+27570668,2016,In Search of 'Birth Month Genes': Using Existing Data Repositories to Locate Genes Underlying Birth Month-Disease Relationships.,Methodological research
+27580049,2016,Identifying Cases of Type 2 Diabetes in Heterogeneous Data Sources: Strategy from the EMIF Project.,Open community data standards
+27592566,2016,Robust empirical calibration of p-values using observational data.,Methodological research
+27600407,2016,GIST 2.0: A scalable multi-trait metric for quantifying population representativeness of individual clinical studies.,Methodological research
+27624541,2016,Replicating Cardiovascular Condition-Birth Month Associations.,Clinical evidence generation
+27764192,2016,Incidence of Exposure of Patients in the United States to Multiple Drugs for Which Pharmacogenomic Guidelines Are Available.,Clinical evidence generation
+27891528,2016,Preparing Nursing Home Data from Multiple Sites for Clinical Research - A Case Study Using Observational Health Data Sciences and Informatics.,Open community data standards
+27940627,2016,"Automatic identification of type 2 diabetes, hypertension, ischaemic heart disease, heart failure and their levels of severity from Italian General Practitioners' electronic medical records: a validation study.",Open community data standards
+27989817,2016,Evaluating common data models for use with a longitudinal community registry.,Open community data standards
+27993747,2017,Accuracy of an automated knowledge base for identifying drug adverse reactions.,Methodological research
+28103227,2017,Ten Simple Rules to Enable Multi-site Collaborations through Data Sharing.,Open community data standards
+28154833,2016,Multisite Evaluation of a Data Quality Tool for Patient-Level Clinical Data Sets.,Open source development
+28261525,2017,Sharing Clinical Big Data While Protecting Confidentiality and Security: Observational Health Data Sciences and Informatics.,Open community data standards
+28269868,2016,Feasibility of Representing Data from Published Nursing Research Using the OMOP Common Data Model.,Open community data standards
+28270198,2017,Large-scale adverse effects related to treatment evidence standardization (LAERTES): an open scalable system for linking pharmacovigilance evidence sources with clinical data.,Open source development
+28379377,2017,EliIE: An open-source information extraction system for clinical trial eligibility criteria.,Open source development
+28456512,2017,Inter-labeler and intra-labeler variability of condition severity classification models using active and passive learning methods.,Methodological research
+28479543,2017,A Realism-Based View on Counts in OMOP's Common Data Model.,Open community data standards
+28681416,2017,Risk of angioedema associated with levetiracetam compared with phenytoin: Findings of the observational health data sciences and informatics research network.,Methodological research
+28694475,2017,Climate Classification is an Important Factor in Assessing Quality-of-Care Across Hospitals.,Methodological research
+28776047,2017,An Interoperable Similarity-based Cohort Identification Method Using the OMOP Common Data Model version 5.0.,Methodological research
+28815104,2017,Electronic phenotyping with APHRODITE and the Observational Health Sciences and Informatics (OHDSI) data network.,Open source development
+28815480,2018,Evaluation of Electronic Healthcare Databases for Post-Marketing Drug Safety Surveillance and Pharmacoepidemiology in China.,Open community data standards
+28823923,2017,Procedure prediction from symbolic Electronic Health Records via time intervals analytics.,Methodological research
+28903729,2017,"Dynamic-ETL: a hybrid approach for health data extraction, transformation and loading.",Open community data standards
+28993650,2017,Development of A Machine Learning Algorithm to Classify Drugs Of Unknown Fetal Effect.,Clinical evidence generation
+29036387,2018,Uncovering exposures responsible for birth season - disease effects: a global study.,Clinical evidence generation
+29063555,2017,Representing Knowledge Consistently Across Health Systems.,Open community data standards
+29218922,2018,Methods for examining data quality in healthcare integrated data repositories.,Open community data standards
+29232365,2017,Monitoring compliance with standards of care for chronic diseases using healthcare administrative databases in Italy: Strengths and limitations.,Clinical evidence generation
+29295138,2017,Conversion of National Health Insurance Service-National Sample Cohort (NHIS-NSC) Database into Observational Medical Outcomes Partnership-Common Data Model (OMOP-CDM).,Open community data standards
+29295227,2017,A Consensus-Based Approach for Harmonizing the OHDSI Common Data Model with HL7 FHIR.,Open community data standards
+29295240,2017,An OMOP CDM-Based Relational Database of Clinical Research Eligibility Criteria.,Open community data standards
+29295408,2017,Building Interoperable FHIR-Based Vocabulary Mapping Services: A Case Study of OHDSI Vocabularies and Mappings.,Unknown
+29365340,2018,Towards Implementation of OMOP in a German University Hospital Consortium.,Open community data standards
+29389968,2018,Inferring pregnancy episodes and outcomes within a network of observational databases.,Methodological research
+29495212,2018,[Data harmonization and sharing in study cohorts of respiratory diseases].,Open community data standards
+29531023,2018,Empirical confidence interval calibration for population-level effect estimation studies in observational healthcare data.,Methodological research
+29718407,2018,Design and implementation of a standardized framework to generate and evaluate patient-level prediction models using observational healthcare data.,Open source development
+29726424,2018,A Clinical Data Warehouse Based on OMOP and i2b2 for Austrian Health Claims Data.,Open community data standards
+29735409,2018,Comparison of survival and prognostic factors in patients treated with stereotactic body radiotherapy for oligometastases or oligoprogression.,Clinical evidence generation
+29755826,2017,Pharmacovigilance via Baseline Regularization with Large-Scale Longitudinal Observational Data.,Methodological research
+29760661,2018,A Semantic Transformation Methodology for the Secondary Use of Observational Healthcare Data in Postmarketing Safety Studies.,Open community data standards
+29779949,2018,Disease Heritability Inferred from Familial Relationships Reported in Medical Records.,Clinical evidence generation
+29854108,2017,Improving the 'Fitness for Purpose' of Common Data Models through Realism Based Ontology.,Open community data standards
+29881733,2017,A Comparison of Data Quality Assessment Checks in Six Data Sharing Networks.,Open community data standards
+29888090,2018,The Data Gap in the EHR for Clinical Research Eligibility Screening.,Open community data standards
+30010902,2018,Learning predictive models of drug side-effect relationships from distributed representations of literature-derived semantic predications.,Methodological research
+30016814,2018,MIRACUM: Medical Informatics in Research and Care in University Medicine.,Open community data standards
+30082302,2018,Improving reproducibility by using high-throughput observational studies with empirical calibration.,Methodological research
+30085008,2018,Web services for data warehouses: OMOP and PCORnet on i2b2.,Open source development
+30100761,2018,Applying a common data model to Asian databases for multinational pharmacoepidemiologic studies: opportunities and challenges.,Open community data standards
+30172760,2018,Methodological variations in lagged regression for detecting physiologic drug effects in EHR data.,Methodological research
+30306907,2018,Common Data Models (CDMs) to Enhance International Big Data Analytics: A Diabetes Use Case to Compare Three CDMs.,Open community data standards
+30306935,2018,Biomedical Informatics Investigator.,Open source development
+30395248,2018,Effect of vocabulary mapping for conditions on phenotype cohorts.,Open community data standards
+30421323,2018,Analysis of treatment pathways for three chronic diseases using OMOP CDM.,Clinical evidence generation
+30480666,2018,"Columbia Open Health Data, clinical concept prevalence and co-occurrence from electronic health records.",Open community data standards
+30526572,2018,Preliminary exploration of survival analysis using the OHDSI common data model: a case study of intrahepatic cholangiocarcinoma.,Open community data standards
+30540837,2018,Penetration of new antidiabetic medications in East Asian countries and the United States: A cross-national comparative study.,Clinical evidence generation
+30646124,2018,"Association of Hemoglobin A1c Levels With Use of Sulfonylureas, Dipeptidyl Peptidase 4 Inhibitors, and Thiazolidinediones in Patients With Type 2 Diabetes Treated With Metformin: Analysis From the Observational Health Data Sciences and Informatics Initiative.",Clinical evidence generation
+30680949,2019,Real-world experience of metformin use in pregnancy: Observational data from the Northern Territory Diabetes in Pregnancy Clinical Register.,Clinical evidence generation
+30704256,2019,"Perspectives from the frontline of two North American community paramedicine programs: an observational, ethnographic study.",Unknown
+30738946,2019,ADEpedia-on-OHDSI: A next generation pharmacovigilance signal detection platform using the OHDSI common data model.,Open community data standards
+30753493,2019,Criteria2Query: a natural language interface to clinical databases for cohort definition.,Open source development
+30762164,2019,"A Comparison Study of Algorithms to Detect Drug-Adverse Event Associations: Frequentist, Bayesian, and Machine-Learning Approaches.",Methodological research
+30771218,2019,Concomitant radiotherapy and TKI in metastatic EGFR- or ALK-mutated non-small cell lung cancer: a multicentric analysis on behalf of AIRO lung cancer study group.,Clinical evidence generation
+30779778,2019,Data model harmonization for the All Of Us Research Program: Transforming i2b2 data into the OMOP common data model.,Open community data standards
+30815088,2018,Clinical Concept Value Sets and Interoperability in Health Data Analytics.,Open community data standards
+30815195,2018,Identifying Cases of Metastatic Prostate Cancer Using Machine Learning on Electronic Health Records.,Methodological research
+30912749,2019,Genomic Common Data Model for Seamless Interoperation of Biomedical Data in Clinical Practice: Retrospective Study.,Open community data standards
+30937326,2019,Learning to Share Health Care Data: A Brief Timeline of Influential Common Data Models and Distributed Health Data Networks in U.S. Health Care Research.,Open community data standards
+30942734,2019,Standardizing Austrians Claims Data Using the OMOP Common Data Model: A Feasibility Study.,Open community data standards
+30943974,2019,Developing a portable natural language processing based phenotyping system.,Open community data standards
+31054141,2019,Identifying the DEAD: Development and Validation of a Patient-Level Model to Predict Death Status in Population-Level Claims Data.,Methodological research
+31065558,2019,A Data Element-Function Conceptual Model for Data Quality Checks.,Open community data standards
+31066478,2019,"Comment on ""How pharmacoepidemiology networks can manage distributed analyses to improve replicability and transparency and minimize bias"".",Methodological research
+31214700,2019,PatientExploreR: an extensible application for dynamic visualization of patient clinical history from electronic health records in the OMOP common data model.,Open source development
+31238109,2019,HemOnc: A new standard vocabulary for chemotherapy regimen representation in the OMOP common data model.,Open community data standards
+31307128,2019,Fully connecting the Observational Health Data Science and Informatics (OHDSI) initiative with the world of linked open data.,Open community data standards
+31325501,2019,Facilitating phenotype transfer using a common data model.,Open community data standards
+31369862,2019,PheValuator: Development and evaluation of a phenotype algorithm evaluator.,Methodological research
+31386904,2019,Supplementing claims data analysis using self-reported data to develop a probabilistic phenotype model for current smoking status.,Methodological research
+31419833,2019,Clinical Research Informatics: Contributions from 2018.,Open community data standards
+31436848,2019,A plea to stop using the case-control design in retrospective database studies.,Methodological research
+31437920,2019,Transforming Two Decades of ePR Data to OMOP CDM for Clinical Research.,Open community data standards
+31437950,2019,Detecting Systemic Data Quality Issues in Electronic Health Records.,Methodological research
+31438202,2019,Augmenting Medical Device Evaluation Using a Reusable Unique Device Identifier Interoperability Solution Based on the OHDSI Common Data Model.,Open community data standards
+31438258,2019,Characterizing VA Users with the OMOP Common Data Model.,Open community data standards
+31438365,2019,Standardized Observational Cancer Research Using the OMOP CDM Oncology Module.,Open community data standards
+31438371,2019,Genomic Common Data Model for Biomedical Data in Clinical Practice.,Open community data standards
+31445247,2019,Automatic trial eligibility surveillance based on unstructured clinical data.,Methodological research
+31494719,2019,Feasibility of Mapping Austrian Health Claims Data to the OMOP Common Data Model.,Open community data standards
+31542521,2019,Making work visible for electronic phenotype implementation: Lessons learned from the eMERGE network.,Methodological research
+31545380,2019,Comparison of the cohort selection performance of Australian Medicines Terminology to Anatomical Therapeutic Chemical mappings.,Open community data standards
+31553307,2019,Mapping ICD-10 and ICD-10-CM Codes to Phecodes: Workflow Development and Initial Evaluation.,Open community data standards
+31581246,2019,"KETOS: Clinical decision support and machine learning as a service - A training and deployment platform based on Docker, OMOP-CDM, and FHIR Web Services.",Unknown
+31592524,2020,"Leaf: an open-source, model-agnostic, data-driven web application for cohort discovery and translational biomedical research.",Open source development
+31596493,2019,Feasibility of Using Real-World Data to Replicate Clinical Trial Evidence.,Methodological research
+31633087,2019,ROMOP: a light-weight R package for interfacing with OMOP-formatted electronic health record data.,Open source development
+31645076,2019,Incrementally Transforming Electronic Medical Records into the Observational Medical Outcomes Partnership Common Data Model: A Multidimensional Quality Assurance Approach.,Open community data standards
+31721815,2019,"Correction: KETOS: Clinical decision support and machine learning as a service - A training and deployment platform based on Docker, OMOP-CDM, and FHIR Web Services.",Open source development
+31797639,2020,Robust-ODAL: Learning from heterogeneous health systems without sharing patient-level data.,Methodological research
+31837755,2019,Optimization of Electronic Medical Records for Data Mining Using a Common Data Model.,Open community data standards
+31866433,2020,Adapting electronic health records-derived phenotypes to claims data: Lessons learned in using limited clinical data for phenotyping.,Methodological research
+31910437,2020,Development and validation of a prognostic model predicting symptomatic hemorrhagic transformation in acute ischemic stroke at scale in the OHDSI network.,Methodological research
+31914471,2020,Transforming French Electronic Health Records into the Observational Medical Outcome Partnership's Common Data Model: A Feasibility Study.,Open community data standards
+31923062,2020,Relative Risk of Cervical Neoplasms Among Copper and Levonorgestrel-Releasing Intrauterine System Users.,Clinical evidence generation
+31926440,2020,"Radiosurgery and fractionated stereotactic radiotherapy in oligometastatic/oligoprogressive non-small cell lung cancer patients: Results of a multi-institutional series of 198 patients treated with ""curative"" intent.",Clinical evidence generation
+31937652,2020,"Application of a Common Data Model (CDM) to rank the paediatric user and prescription prevalence of 15 different drug classes in South Korea, Hong Kong, Taiwan, Japan and Australia: an observational, descriptive study.",Open community data standards
+31939079,2020,Developing Predictive Models to Determine Patients in End-of-Life Care in Administrative Datasets.,Methodological research
+31943641,2021,Diabetic ketoacidosis at diagnosis among youth with type 1 and type 2 diabetes: Results from SEARCH (United States) and YDR (India) registries.,Clinical evidence generation
+31951272,2020,Assessment of a Machine Learning Model Applied to Harmonized Electronic Health Record Data for the Prediction of Incident Atrial Fibrillation.,Clinical evidence generation
+31953884,2021,Clinical profile at diagnosis with youth-onset type 1 and type 2 diabetes in two pediatric diabetes registries: SEARCH (United States) and YDR (India).,Clinical evidence generation
+31956997,2020,Can We Rely on Results From IQVIA Medical Research Data UK Converted to the Observational Medical Outcome Partnership Common Data Model?: A Validation Study Based on Prescribing Codeine in Children.,Open community data standards
+31970824,2020,Comparative risk of Clostridium difficile infection between proton pump inhibitors and histamine-2 receptor antagonists: A 15-year hospital cohort study using a common data model.,Clinical evidence generation
+32065600,2020,Comparison of Cardiovascular and Safety Outcomes of Chlorthalidone vs Hydrochlorothiazide to Treat Hypertension.,Clinical evidence generation
+32133717,2020,Empirical assessment of case-based methods for drug safety alert identification in the French National Healthcare System database (SNDS): Methodology of the ALCAPONE project.,Methodological research
+32134536,2021,Treatment regimens and glycosylated hemoglobin levels in youth with Type 1 and Type 2 diabetes: Data from SEARCH (United States) and YDR (India) registries.,Clinical evidence generation
+32134687,2020,Treatment Patterns for Chronic Comorbid Conditions in Patients With Cancer Using a Large-Scale Observational Data Network.,Clinical evidence generation
+32162290,2020,Erratum: Transforming French Electronic Health Records into the Observational Medical Outcome Partnership's Common Data Model: A Feasibility Study.,Open community data standards
+32196874,2021,Comparison of the incidence of diabetes in United States and Indian youth: An international harmonization of youth diabetes registries.,Clinical evidence generation
+32229499,2020,Extending an open-source tool to measure data quality: case report on Observational Health Data Science and Informatics (OHDSI).,Open source development
+32293578,2020,Effect of Age on the Initiation of Biologic Agent Therapy in Patients With Inflammatory Bowel Disease: Korean Common Data Model Cohort Study.,Clinical evidence generation
+32308871,2019,Considerations for Improving the Portability of Electronic Health Record-Based Phenotype Algorithms.,Open source development
+32374408,2020,Development and validation of phenotype classifiers across multiple sites in the observational health data sciences and informatics network.,Methodological research
+32375693,2020,Feasibility and evaluation of a large-scale external validation approach for patient-level prediction in an international data network: validation of models predicting stroke in female patients newly diagnosed with atrial fibrillation.,Methodological research
+32399991,2020,"Nintedanib and ischemic colitis: Signal assessment with the integrated use of two types of real-world evidence, spontaneous reports of suspected adverse drug reactions, and observational data from large health-care databases.",Methodological research
+32458499,2020,Real-world data in Saudi Arabia: Current situation and challenges for regulatory decision-making.,Open community data standards
+32470694,2020,Converting clinical document architecture documents to the common data model for incorporating health information exchange data in observational health studies: CDA to CDM.,Open community data standards
+32477256,2020,Characterization of Anti-seizure Medication Treatment Pathways in Pediatric Epilepsy Using the Electronic Health Record-Based Common Data Model.,Clinical evidence generation
+32477631,2020,Comparative Analysis and Evaluation of State-of-the-Art Medication Mapping Tools to Transform a Local Medication Terminology to RxNorm.,Open community data standards
+32477663,2020,Mapping Local Biospecimen Records to the OMOP Common Data Model.,Open community data standards
+32477694,2020,Integrating Electronic Health Record Data into the ADEpedia-on-OHDSI Platform for Improved Signal Detection: A Case Study of Immune-related Adverse Events.,Open community data standards
+32484782,2020,The Oxford Royal College of General Practitioners Clinical Informatics Digital Hub: Protocol to Develop Extended COVID-19 Surveillance and Trial Platforms.,Clinical evidence generation
+32492716,2020,EHR-Independent Predictive Decision Support Architecture Based on OMOP.,Open community data standards
+32511443,2020,"Deep phenotyping of 34,128 patients hospitalised with COVID-19 and a comparison with 81,596 influenza patients in America, Europe and Asia: an international network study.",Clinical evidence generation
+32524701,2020,Empirical assessment of case-based methods for identification of drugs associated with upper gastrointestinal bleeding in the French National Healthcare System database (SNDS).,Methodological research
+32530430,2020,Detecting and Filtering Immune-Related Adverse Events Signal Based on Text Mining and Observational Health Data Sciences and Informatics Common Data Model: Framework Development Study.,Methodological research
+32531725,2020,Establishment and evaluation of a multicenter collaborative prediction model construction framework supporting model generalization and continuous improvement: A pilot study.,Methodological research
+32568364,2020,Chlorthalidone and Hydrochlorothiazide for Treatment of Patients With Hypertension-Reply.,Clinical evidence generation
+32570362,2020,Data Integration into OMOP CDM for Heterogeneous Clinical Data Collections via HL7 FHIR Bundles and XSLT.,Open community data standards
+32570366,2020,Design for a Modular Clinical Trial Recruitment Support System Based on FHIR and OMOP.,Open source development
+32570675,2020,Specification and Distribution of Vocabularies Among Consortial Partners.,Open community data standards
+32626900,2020,Learning from local to global: An efficient distributed algorithm for modeling time-to-event data.,Methodological research
+32632237,2020,Comparative safety and effectiveness of alendronate versus raloxifene in women with osteoporosis.,Clinical evidence generation
+32691386,2021,Real-World Use of Colonoscopy in an Older Population: A Nationwide Standard Cohort Study Using a Common Data Model.,Clinical evidence generation
+32819037,2020,Toolkit to Compute Time-Based Elixhauser Comorbidity Indices and Extension to Common Data Models.,Open source development
+32823317,2020,Clinical Research Informatics.,Open community data standards
+32864472,2020,International electronic health record-derived COVID-19 clinical course profiles: the 4CE consortium.,Open community data standards
+32864627,2020,"Risk of hydroxychloroquine alone and in combination with azithromycin in the treatment of rheumatoid arthritis: a multinational, retrospective study.",Clinical evidence generation
+32908948,2020,COVID-19 SignSym: a fast adaptation of a general clinical NLP tool to identify and normalize COVID-19 signs and symptoms to OMOP common data model.,Unknown
+32909033,2020,Principles of Large-scale Evidence Generation and Evaluation across a Network of Databases (LEGEND).,Methodological research
+33008368,2020,Prediction of incident myocardial infarction using machine learning applied to harmonized electronic health record data.,Methodological research
+33021486,2020,Implementation of a Cohort Retrieval System for Clinical Data Repositories Using the Observational Medical Outcomes Partnership Common Data Model: Proof-of-Concept System Validation.,Open source development
+33024121,2020,"Deep phenotyping of 34,128 adult patients hospitalised with COVID-19 in an international network study.",Clinical evidence generation
+33027834,2020,Content Coverage Evaluation of the OMOP Vocabulary on the Transplant Domain Focusing on Concepts Relevant for Kidney Transplant Outcomes Analysis.,Open community data standards
+33083538,2020,Toward cross-platform electronic health record-driven phenotyping using Clinical Quality Language.,Open source development
+33099844,2021,Empirical assessment of case-based methods for identification of drugs associated with acute liver injury in the French National Healthcare System database (SNDS).,Methodological research
+33107944,2020,Association of Ticagrelor vs Clopidogrel With Net Adverse Clinical Events in Patients With Acute Coronary Syndrome Undergoing Percutaneous Coronary Intervention.,Clinical evidence generation
+33114631,2020,Application of Epidemiological Geographic Information System: An Open-Source Spatial Analysis Tool Based on the OMOP Common Data Model.,Open source development
+33177037,2020,Proposal and Assessment of a De-Identification Strategy to Enhance Anonymity of the Observational Medical Outcomes Partnership Common Data Model (OMOP-CDM) in a Public Cloud-Computing Environment: Anonymization of Medical Data Using Privacy Models.,Open community data standards
+33211841,2021,Machine-learning model to predict the cause of death using a stacking ensemble method for observational data.,Methodological research
+33260201,2021,Towards clinical data-driven eligibility criteria optimization for interventional COVID-19 clinical trials.,Clinical evidence generation
+33269356,2021,"Use of dialysis, tracheostomy, and extracorporeal membrane oxygenation among 842,928 patients hospitalized with COVID-19 in the United States.",Clinical evidence generation
+33295294,2020,Transformation of Pathology Reports Into the Common Data Model With Oncology Module: Use Case for Colon Cancer.,Open community data standards
+33336320,2021,"Common Problems, Common Data Model Solutions: Evidence Generation for Health Technology Assessment.",Open community data standards
+33342753,2021,"Renin-angiotensin system blockers and susceptibility to COVID-19: an international, open science, cohort analysis.",Clinical evidence generation
+33367288,2020,How Confident Are We about Observational Findings in Healthcare: A Benchmark Study.,Methodological research
+33367863,2021,"Risk of depression, suicide and psychosis with hydroxychloroquine treatment for rheumatoid arthritis: a multinational network cohort study.",Clinical evidence generation
+33402543,2021,Gastrointestinal and Nongastrointestinal Complications of Esophagogastroduodenoscopy and Colonoscopy in the Real World: A Nationwide Standard Cohort Using the Common Data Model Database.,Clinical evidence generation
+33404595,2021,Comparison of family health history in surveys vs electronic health record data mapped to the observational medical outcomes partnership data model in the All of Us Research Program.,Clinical evidence generation
+33411620,2021,Extending the OMOP Common Data Model and Standardized Vocabularies to Support Observational Cancer Research.,Open community data standards
+33469592,2021,The National COVID Cohort Collaborative: Clinical Characterization and Early Severity Prediction.,Methodological research
+33506478,2021,Patient Cohort Identification on Time Series Data Using the OMOP Common Data Model.,Open source development
+33611874,2021,Incorporation of Korean Electronic Data Interchange Vocabulary into Observational Medical Outcomes Partnership Vocabulary.,Open community data standards
+33661754,2021,Implementation of the COVID-19 Vulnerability Index Across an International Network of Health Care Data Sets: Collaborative External Validation Study.,Methodological research
+33674830,2021,COVID-19 SignSym: a fast adaptation of a general clinical NLP tool to identify and normalize COVID-19 signs and symptoms to OMOP common data model.,Open source development
+33688639,2021,Unraveling COVID-19: a large-scale characterization of 4.5 million COVID-19 cases using CHARYBDIS.,Clinical evidence generation
+33712854,2021,ACE: the Advanced Cohort Engine for searching longitudinal patient records.,Open source development
+33720842,2021,Characterizing the Anticancer Treatment Trajectory and Pattern in Patients Receiving Chemotherapy for Cancer Using Harmonized Observational Databases: Retrospective Study.,Methodological research
+33725121,2021,COVID-19 in patients with autoimmune diseases: characteristics and outcomes in a multinational network of cohorts across three countries.,Clinical evidence generation
+33735862,2022,Dermatologic Research Potential of the Observational Health Data Sciences and Informatics (OHDSI) Network.,Clinical evidence generation
+33758877,2021,Automated Production of Research Data Marts from a Canonical Fast Healthcare Interoperability Resource (FHIR) Data Repository: Applications to COVID-19 Research.,Open community data standards
+33782494,2021,Transforming electronic health record polysomnographic data into the Observational Medical Outcome Partnership's Common Data Model: a pilot feasibility study.,Open community data standards
+33783361,2021,A Framework (SOCRATex) for Hierarchical Annotation of Unstructured Electronic Health Records and Integration Into a Standardized Medical Database: Development and Usability Study.,Open community data standards
+33791740,2021,Alpha-1 blockers and susceptibility to COVID-19 in benign prostate hyperplasia patients : an international cohort study.,Clinical evidence generation
+33813032,2021,A knowledge base of clinical trial eligibility criteria.,Methodological research
+33882595,2021,Drawing Reproducible Conclusions from Observational Clinical Data with OHDSI.,Methodological research
+33887457,2021,Building an OMOP common data model-compliant annotated corpus for COVID-19 clinical trials.,Open source development
+33907758,2021,NSAID use and clinical outcomes in COVID-19 patients: A 38-center retrospective cohort study.,Clinical evidence generation
+33936396,2020,Deep Learning Approach to Parse Eligibility Criteria in Dietary Supplements Clinical Trials Following OMOP Common Data Model.,Open community data standards
+33936474,2020,Characterizing database granularity using SNOMED-CT hierarchy.,Methodological research
+33936520,2020,Normalizing Clinical Document Titles to LOINC Document Ontology: an Initial Study.,Open community data standards
+33975825,2021,Use of repurposed and adjuvant drugs in hospital patients with covid-19: multinational network cohort study.,Clinical evidence generation
+33987667,2021,Deep-learning-based automated terminology mapping in OMOP-CDM.,Open community data standards
+33993254,2021,Automated production of research data marts from a canonical fast healthcare interoperability resource data repository: applications to COVID-19 research.,Open community data standards
+34001114,2021,An OMOP-CDM based pharmacovigilance data-processing pipeline (PDP) providing active surveillance for ADR signal detection from real-world data sources.,Clinical evidence generation
+34032695,2021,"Seasonal variation of peptic ulcer disease, peptic ulcer bleeding, and acute pancreatitis: A nationwide population-based study using a common data model.",Clinical evidence generation
+34042637,2021,Pharmacovigilance and Clinical Environment: Utilizing OMOP-CDM and OHDSI Software Stack to Integrate EHR Data.,Clinical evidence generation
+34042721,2021,Adaption of the OMOP CDM for Rare Diseases.,Open community data standards
+34042723,2021,Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping.,Methodological research
+34042737,2021,Automated Generation of Individual and Population Clinical Pathways with the OMOP Common Data Model.,Open source development
+34042774,2021,From OpenEHR to FHIR and OMOP Data Model for Microbiology Findings.,Open community data standards
+34042878,2021,HIStream-Import: A Generic ETL Framework for Processing Arbitrary Patient Data Collections or Hospital Information Systems into HL7 FHIR Bundles.,Open community data standards
+34042902,2021,Accessing OMOP Common Data Model Repositories with the i2b2 Webclient - Algorithm for Automatic Query Translation.,Open source development
+34057426,2021,Evaluation of the Privacy Risks of Personal Health Identifiers and Quasi-Identifiers in a Distributed Research Network: Development and Validation Study.,Methodological research
+34068814,2021,The Risk of Osteoporosis and Osteoporotic Fracture Following the Use of Irritable Bowel Syndrome Medical Treatment: An Analysis Using the OMOP CDM Database.,Clinical evidence generation
+34127981,2021,Outcomes of SARS-CoV-2 Infection in Patients with Chronic Liver Disease and Cirrhosis: a N3C Study.,Clinical evidence generation
+34142015,2021,Comparative effectiveness of medical concept embedding for feature engineering in phenotyping.,Methodological research
+34151259,2021,Development of An Individualized Risk Prediction Model for COVID-19 Using Electronic Health Record Data.,Methodological research
+34174396,2021,Adaptation of an NLP system to a new healthcare environment to identify social determinants of health.,Open source development
+34185008,2021,"A National, Semantic-Driven, Three-Pillar Strategy to Enable Health Data Secondary Usage Interoperability for Research Within the Swiss Personalized Health Network: Methodological Study.",Open community data standards
+34214696,2021,A two-stage workflow to extract and harmonize drug mentions from clinical notes into observational databases.,Open community data standards
+34255046,2021,Clinical Characterization and Prediction of Clinical Severity of SARS-CoV-2 Infection Among US Adults Using Data From the US National COVID Cohort Collaborative.,Clinical evidence generation
+34267326,2021,"Characteristics and outcomes of 627 044 COVID-19 patients living with and without obesity in the United States, Spain, and the United Kingdom.",Clinical evidence generation
+34272262,2021,"Characteristics and Outcomes of Over 300,000 Patients with COVID-19 and History of Cancer in the United States and Spain.",Clinical evidence generation
+34284037,2021,Outcomes of SARS-CoV-2 Infection in Patients With Chronic Liver Disease and Cirrhosis: A National COVID Cohort Collaborative Study.,Clinical evidence generation
+34287211,2021,Evaluation of Three Feasibility Tools for Identifying Patient Data and Biospecimen Availability: Comparative Usability Study.,Open source development
+34313749,2021,Increasing trust in real-world evidence through evaluation of observational data quality.,Open community data standards
+34380168,2021,Transformation of Electronic Health Records and Questionnaire Data to OMOP CDM: A Feasibility Study Using SG_T2DM Dataset.,Open community data standards
+34389867,2021,From clinical trials to clinical practice: How long are drugs tested and then used by patients?,Clinical evidence generation
+34454423,2021,Evaluating the impact of covariate lookback times on performance of patient-level prediction models.,Methodological research
+34457154,2021,A Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model.,Methodological research
+34496418,2021,A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data.,Methodological research
+34514354,2021,Transforming and evaluating electronic health record disease phenotyping algorithms using the OMOP common data model: a case study in heart failure.,Open community data standards
+34519186,2021,Treatment Patterns of Type 2 Diabetes Assessed Using a Common Data Model Based on Electronic Health Records of 2000-2019.,Clinical evidence generation
+34535723,2021,Angiotensin converting enzyme inhibitors and incidence of lung cancer in a population based cohort of common data model in Korea.,Clinical evidence generation
+34545823,2021,Towards the Representation of Genomic Data in HL7 FHIR and OMOP CDM.,Open community data standards
+34545824,2021,The Usage of OHDSI OMOP - A Scoping Review.,Open community data standards
+34560604,2021,A standardized analytics pipeline for reliable and rapid development and validation of prediction models using observational health data.,Open source development
+34583416,2021,Development of Prediction Models for Unplanned Hospital Readmission within 30 Days Based on Common Data Model: A Feasibility Study.,Methodological research
+34590684,2022,Synergies between centralized and federated approaches to data quality: a report from the national COVID cohort collaborative.,Open community data standards
+34640472,2021,Assessment of Inter-Institutional Post-Operative Hypoparathyroidism Status Using a Common Data Model.,Clinical evidence generation
+34673922,2021,ASH Research Collaborative: a real-world data infrastructure to support real-world evidence development and learning healthcare systems in hematology.,Open community data standards
+34714250,2021,Transforming Anesthesia Data Into the Observational Medical Outcomes Partnership Common Data Model: Development and Usability Study.,Open community data standards
+34727871,2021,Standardizing registry data to the OMOP Common Data Model: experience from three pulmonary hypertension databases.,Open community data standards
+34773936,2021,Real-world incidence of endopthalmitis after intravitreal anti-VEGF injections in Korea: findings from the Common Data Model in ophthalmology.,Clinical evidence generation
+34795073,2021,Development of a FHIR Layer on Top of the OMOP Common Data Model for the CAPABLE Project.,Open source development
+34795074,2021,Automatic Data Transfer from OMOP-CDM to REDCap: A Semantically-Enriched Framework.,Open source development
+34795082,2021,Transfer of Clinical Drug Data to a Research Infrastructure on OMOP - A FAIR Concept.,Open community data standards
+34795096,2021,Making EHRs Reusable: A Common Framework of Data Operations.,Open community data standards
+34831777,2021,The Prescription of Drug Ontology 2.0 (PDRO): More Than the Sum of Its Parts.,Open source development
+34841975,2022,Combining cox regressions across a heterogeneous distributed research network facing small and zero counts.,Methodological research
+34860667,2021,Open-source Software Sustainability Models: Initial White Paper From the Informatics Technology for Cancer Research Sustainability and Industry Partnership Working Group.,Open source development
+34870731,2022,"90-Day all-cause mortality can be predicted following a total knee replacement: an international, network study to develop and validate a prediction model.",Clinical evidence generation
+34899334,2021,"Bias, Precision and Timeliness of Historical (Background) Rate Comparison Methods for Vaccine Safety Monitoring: An Empirical Multi-Database Analysis.",Methodological research
+34904958,2021,Transformation and Evaluation of the MIMIC Database in the OMOP Common Data Model: Development and Usability Study.,Open community data standards
+34911976,2021,Preliminary feasibility assessment of CDM-based active surveillance using current status of medical device data in medical records and OMOP-CDM.,Open community data standards
+34930903,2021,Predictors of diagnostic transition from major depressive disorder to bipolar disorder: a retrospective observational network study.,Clinical evidence generation
+34937726,2021,Characteristics and outcomes of patients with COVID-19 with and without prevalent hypertension: a multinational cohort study.,Clinical evidence generation
+34952111,2022,Network modeling of anxiety and psychological characteristics on suicidal behavior: Cross-sectional study.,Clinical evidence generation
+34952871,2021,Investigating the impact of development and internal validation design when training prognostic models using a retrospective cohort in big US observational healthcare data.,Methodological research
+34970858,2022,"Aspirin, metformin, and statin use on the risk of gastric cancer: A nationwide population-based cohort study in Korea with systematic review and meta-analysis.",Clinical evidence generation
+35040608,2022,Development and Validation of the Radiology Common Data Model (R-CDM) for the International Standardization of Medical Imaging Data.,Open community data standards
+35046809,2021,Combining a Pharmacological Network Model with a Bayesian Signal Detection Algorithm to Improve the Detection of Adverse Drug Events.,Methodological research
+35077901,2022,Developing an ETL tool for converting the PCORnet CDM into the OMOP CDM to facilitate the COVID-19 data integration.,Open community data standards
+35094685,2022,Seek COVER: using a disease proxy to rapidly develop and validate a personalized risk calculator for COVID-19 outcomes in an international network.,Methodological research
+35115001,2022,Evaluating the performance of temporal pattern discovery: new application using statins and rhabdomyolysis in OMOP databases.,Methodological research
+35191114,2022,Background rates of five thrombosis with thrombocytopenia syndromes of special interest for COVID-19 vaccine safety surveillance: Incidence between 2017 and 2019 and patient profiles from 38.6 million people in six European countries.,Clinical evidence generation
+35204354,2022,Renin-Angiotensin-Aldosterone System Inhibitors and Risk of Cancer: A Population-Based Cohort Study Using a Common Data Model.,Clinical evidence generation
+35211336,2022,Ensuring a safe(r) harbor: Excising personally identifiable information from structured electronic health record data.,Open community data standards
+35212277,2022,"Real-world comparison of mono and dual combination therapies of metformin, sulfonylurea, and dipeptidyl peptidase-4 inhibitors using a common data model: A retrospective observational study.",Clinical evidence generation
+35249830,2022,The Value of Federated Data Networks in Oncology: What Research Questions Do They Answer? Outcomes From a Systematic Literature Review.,Clinical evidence generation
+35253022,2020,Leveraging Differential Privacy in Geospatial Analyses of Standardized Healthcare Data.,Open source development
+35275076,2022,Patient-Level Fall Risk Prediction Using the Observational Medical Outcomes Partnership's Common Data Model: Pilot Feasibility Study.,Clinical evidence generation
+35276502,2022,Patient characteristics and antiseizure medication pathways in newly diagnosed epilepsy: Feasibility and pilot results using the common data model in a single-center electronic medical record database.,Clinical evidence generation
+35292697,2022,Analysis of treatment pattern of anti-dementia medications in newly diagnosed Alzheimer's dementia using OMOP CDM.,Clinical evidence generation
+35297548,2022,"Beacon v2 and Beacon networks: A ""lingua franca"" for federated data discovery in biomedical genomics, and beyond.",Open community data standards
+35308947,2021,Extracting Patient-level Social Determinants of Health into the OMOP Common Data Model.,Open community data standards
+35313835,2022,Gender differences in outpatients with dementia from a large psychiatric hospital in China.,Clinical evidence generation
+35345821,2022,Unraveling COVID-19: A Large-Scale Characterization of 4.5 Million COVID-19 Cases Using CHARYBDIS.,Clinical evidence generation
+35362796,2022,Second primary malignancy risk in thyroid cancer and matched patients with and without radioiodine therapy analysis from the observational health data sciences and informatics.,Clinical evidence generation
+35390589,2022,Development and validation of a management system and dataset quality assessment tool for the Radiology Common Data Model (R_CDM): A case study in liver disease.,Open community data standards
+35404974,2022,"Extract, transform, load framework for the conversion of health databases to OMOP.",Open community data standards
+35435957,2022,Harmonizing units and values of quantitative data elements in a very large nationally pooled electronic health record (EHR) dataset.,Methodological research
+35460296,2022,"Haematology Outcomes Network in Europe (HONEUR)-A collaborative, interdisciplinary platform to harness the potential of real-world data in hematology.",Open community data standards
+35511233,2022,Inclusion of social determinants of health improves sepsis readmission prediction models.,Methodological research
+35570298,2022,NSAID use and clinical outcomes in COVID-19 patients: a 38-center retrospective cohort study.,Clinical evidence generation
+35570696,2022,Heart Failure and Stroke Risks in Users of Liothyronine With or Without Levothyroxine Compared with Levothyroxine Alone: A Propensity Score-Matched Analysis.,Clinical evidence generation
+35571357,2022,Trajectories: a framework for detecting temporal clinical event sequences from health data standardized to the Observational Medical Outcomes Partnership (OMOP) Common Data Model.,Open source development
+35576963,2022,Venous or arterial thrombosis and deaths among COVID-19 cases: a European network cohort study.,Clinical evidence generation
+35576979,2022,Applying the OMOP Common Data Model to Facilitate Benefit-Risk Assessments of Medicinal Products Using Real-World Data from Singapore and South Korea.,Open community data standards
+35579818,2022,Using Iterative Pairwise External Validation to Contextualize Prediction Model Performance: A Use Case Predicting 1-Year Heart Failure Risk in Patients with Diabetes Across Five Data Sources.,Methodological research
+35589253,2022,"""Beyond MELD"" - Emerging strategies and technologies for improving mortality prediction, organ allocation and outcomes in liver transplantation.",Methodological research
+35589549,2022,Identifying who has long COVID in the USA: a machine learning approach using N3C data.,Clinical evidence generation
+35593971,2022,Training prediction models for individual risk assessment of postoperative complications after surgery for colorectal cancer.,Methodological research
+35606846,2022,Impact of pitavastatin on new-onset diabetes mellitus compared to atorvastatin and rosuvastatin: a distributed network analysis of 10 real-world databases.,Clinical evidence generation
+35612079,2022,Usability of OMOP Common Data Model for Detailed Lab Microbiology Results.,Open community data standards
+35612098,2022,FAIRifying a Quality Registry Using OMOP CDM: Challenges and Solutions.,Open community data standards
+35612106,2022,Evaluation and Challenges of Medical Procedure Data Harmonization to SNOMED-CT for Observational Research.,Unknown
+35612110,2022,Beyond the Brain: MIDS Extends BIDS to Multiple Modalities and Anatomical Regions.,Open community data standards
+35612126,2022,Towards the Improvement of Clinical Guidelines Based on Real World Data.,Methodological research
+35631157,2022,Opportunities of Digital Infrastructures for Disease Management-Exemplified on COVID-19-Related Change in Diagnosis Counts for Diabetes-Related Eye Diseases.,Open community data standards
+35653017,2022,Phenotype Algorithms for the Identification and Characterization of Vaccine-Induced Thrombotic Thrombocytopenia in Real World Data: A Multinational Network Cohort Study.,Clinical evidence generation
+35672970,2022,A Multi-Omics Common Data Model for Primary Immunodeficiencies.,Open community data standards
+35672974,2022,Translating the Observational Medical Outcomes Partnership - Common Data Model (OMOP-CDM) Electronic Health Records to an OWL Ontology.,Open community data standards
+35673206,2022,A Natural Language Processing Tool Offering Data Extraction for COVID-19 Related Information (DECOVRI).,Open source development
+35680274,2022,"Large-scale evidence generation and evaluation across a network of databases for type 2 diabetes mellitus (LEGEND-T2DM): a protocol for a series of multinational, real-world comparative cardiovascular effectiveness and safety studies.",Clinical evidence generation
+35685531,2022,Time Trends and Treatment Pathways in Prescribing Individual Oral Anticoagulants in Patients with Nonvalvular Atrial Fibrillation: An Observational Study of More than Three Million Patients from Europe and the United States.,Clinical evidence generation
+35705182,2022,Transforming Thyroid Cancer Diagnosis and Staging Information from Unstructured Reports to the Observational Medical Outcome Partnership Common Data Model.,Open community data standards
+35715561,2022,Real-world treatment intensities and pathways of macular edema following retinal vein occlusion in Korea from Common Data Model in ophthalmology.,Clinical evidence generation
+35728447,2022,Development and external validation of prediction models for adverse health outcomes in rheumatoid arthritis: A multinational real-world cohort analysis.,Methodological research
+35773820,2022,Beyond the Brain: MIDS Extends BIDS to Multiple Modalities and Anatomical Regions.,Open community data standards
+35773924,2022,An OHDSI ATLAS Extension to Support Feasibility Requests in a Research Network.,Open source development
+35780114,2022,Empirical assessment of alternative methods for identifying seasonality in observational healthcare data.,Methodological research
+35786634,2022,Methodological Issues in Using a Common Data Model of COVID-19 Vaccine Uptake and Important Adverse Events of Interest: Feasibility Study of Data and Connectivity COVID-19 Vaccines Pharmacovigilance in the United Kingdom.,Open community data standards
+35790207,2022,Perceived Risk of Re-Identification in OMOP-CDM Database: A Cross-Sectional Survey.,Open community data standards
+35810265,2022,Hip Fracture Risk After Treatment with Tramadol or Codeine: An Observational Study.,Clinical evidence generation
+35849195,2022,Developing prediction models for short-term mortality after surgery for colorectal cancer using a Danish national quality assurance database.,Methodological research
+35852842,2022,Fast Healthcare Interoperability Resources (FHIR) for Interoperability in Health Research: Systematic Review.,Open community data standards
+35854720,2022,Advancing Interoperability of Patient-level Social Determinants of Health Data to Support COVID-19 Research.,Open community data standards
+35873596,2022,Vaccine Safety Surveillance Using Routinely Collected Healthcare Data-An Empirical Evaluation of Epidemiological Designs.,Methodological research
+35911666,2022,An ordinal severity scale for COVID-19 retrospective studies using Electronic Health Record data.,Clinical evidence generation
+35933465,2023,Development and usage of an anesthesia data warehouse: lessons learnt from a 10-year project.,Open community data standards
+35962355,2022,"Leveraging artificial intelligence and data science techniques in harmonizing, sharing, accessing and analyzing SARS-COV-2/COVID-19 data in Rwanda (LAISDAR Project): study design and rationale.",Open community data standards
+35966642,2022,Associations Between Gastrointestinal Symptoms and COVID-19 Severity Outcomes Based on a Propensity Score-Weighted Analysis of a Nationwide Cohort.,Clinical evidence generation
+35995107,2022,PheValuator 2.0: Methodological improvements for the PheValuator approach to semi-automated phenotype algorithm evaluation.,Open source development
+36029954,2022,Towards quality improvement of vaccine concept mappings in the OMOP vocabulary with a semi-automated method.,Open community data standards
+36073478,2022,Preserving Privacy when Querying OMOP CDM Databases.,Methodological research
+36085809,2022,Accelerating Multi-site Health Informatics with Streamlined Data Infrastructure using OMOP-on-FHIR.,Open community data standards
+36089199,2022,FHIR-Ontop-OMOP: Building clinical knowledge graphs in FHIR RDF with the OMOP Common data Model.,Open community data standards
+36106377,2022,Identification of patients with drug-resistant epilepsy in electronic medical record data using the Observational Medical Outcomes Partnership Common Data Model.,Methodological research
+36123617,2023,iGlarLixi versus basal plus Rapid-Acting insulin in adults with type 2 diabetes advancing from basal insulin therapy: The SoliSimplify Real-World study.,Clinical evidence generation
+36128510,2022,Radiology Text Analysis System (RadText): Architecture and Evaluation.,Open source development
+36130711,2022,Conversion of Automated 12-Lead Electrocardiogram Interpretations to OMOP CDM Vocabulary.,Open community data standards
+36188566,2022,International cohort study indicates no association between alpha-1 blockers and susceptibility to COVID-19 in benign prostatic hyperplasia patients.,Clinical evidence generation
+36190338,2023,Risks of long-term use of proton pump inhibitor on ischemic vascular events: A distributed network analysis of 5 real-world observational Korean databases using a common data model.,Clinical evidence generation
+36199590,2022,Blueprint for harmonising unstandardised disease registries to allow federated data analysis: prepare for the future.,Open community data standards
+36201386,2022,A Data-Driven Reference Standard for Adverse Drug Reaction (RS-ADR) Signal Assessment: Development and Validation.,Methodological research
+36207711,2022,Adaptation and validation of a coding algorithm for the Charlson Comorbidity Index in administrative claims data using the SNOMED CT standardized vocabulary.,Open community data standards
+36226360,2023,Standardizing electronic health record ventilation data in the pediatric long-term mechanical ventilator-dependent population.,Open community data standards
+36227072,2022,Transforming and evaluating the UK Biobank to the OMOP Common Data Model for COVID-19 research and beyond.,Open community data standards
+36227638,2022,Coronary Artery Computed Tomography Angiography for Preventing Cardio-Cerebrovascular Disease: Observational Cohort Study Using the Observational Health Data Sciences and Informatics' Common Data Model.,Clinical evidence generation
+36233137,2022,OMOP CDM Can Facilitate Data-Driven Studies for Cancer Prediction: A Systematic Review.,Open community data standards
+36247446,2022,Factors affecting the changes in antihypertensive medications in patients with hypertension.,Clinical evidence generation
+36251369,2022,Standardized Description of the Feature Extraction Process to Transform Raw Data Into Meaningful Information for Enhancing Data Reuse: Consensus Study.,Open community data standards
+36264262,2023,Integrating real-world data from Brazil and Pakistan into the OMOP common data model and standardized health analytics framework to characterize COVID-19 in the Global South.,Open community data standards
+36281513,2023,Common Data Model-based Analysis of Selective Leukoreduction Protocol Compliance at Three Hospitals.,Open community data standards
+36283581,2022,Ontology-based categorization of clinical studies by their conditions.,Open community data standards
+36303318,2022,Common data model for COVID-19 datasets.,Open community data standards
+36307424,2022,"Harvesting metadata in clinical care: a crosswalk between FHIR, OMOP, CDISC and openEHR metadata.",Open community data standards
+36315520,2022,Temporal Events Detector for Pregnancy Care (TED-PC): A rule-based algorithm to infer gestational age and delivery date from electronic health records of pregnant women with and without COVID-19.,Methodological research
+36322788,2022,A Hybrid Architecture (CO-CONNECT) to Facilitate Rapid Discovery and Access to Data Across the United Kingdom in Response to the COVID-19 Pandemic: Development Study.,Open community data standards
+36324116,2022,The sociodemographic characteristics and clinical features of the late-life depression patients: results from the Beijing Anding Hospital mental health big data platform.,Clinical evidence generation
+36389281,2022,Long-term use of proton-pump inhibitor on Alzheimer's disease: a real-world distributed network analysis of six observational Korean databases using a Common Data Model.,Clinical evidence generation
+36395615,2023,An ETL-process design for data harmonization to participate in international research with German real-world data based on FHIR and OMOP CDM.,Open source development
+36406796,2022,"Evaluating a novel approach to stimulate open science collaborations: a case series of ""study-a-thon"" events within the OHDSI and European IMI communities.",Open source development
+36461620,2024,Illustration of Continuous Enrollment and Beneficiary Categorization in DoD and VA Infrastructure for Clinical Intelligence.,Open community data standards
+36468484,2023,Association of periodontitis with menopause and hormone replacement therapy: a hospital cohort study using a common data model.,Clinical evidence generation
+36478647,2022,Establishment of an International Evidence Sharing Network Through Common Data Model for Cardiovascular Research.,Clinical evidence generation
+36506524,2022,Corrigendum: Vaccine safety surveillance using routinely collected healthcare data-An empirical evaluation of epidemiological designs.,Methodological research
+36555858,2022,iADRGSE: A Graph-Embedding and Self-Attention Encoding for Identifying Adverse Drug Reaction in the Earlier Phase of Drug Development.,Methodological research
+36563487,2023,Generalisable long COVID subtypes: findings from the NIH N3C and RECOVER programmes.,Methodological research
+36595527,2023,Exploring the potential of OMOP common data model for process mining in healthcare.,Open community data standards
+36632328,2023,Integrating real-world data to assess cardiac ablation device outcomes in a multicenter study using the OMOP common data model for regulatory decisions: implementation and evaluation.,Open community data standards
+36692805,2023,Risk of COVID-19 Diagnosis and Hospitalisation in Patients with Osteoarthritis or Back Pain Treated with Ibuprofen Compared to Other NSAIDs or Paracetamol: A Network Cohort Study.,Clinical evidence generation
+36696159,2023,Assessment and Improvement of Drug Data Structuredness From Electronic Health Records: Algorithm Development and Validation.,Open community data standards
+36795690,2023,Using a data-driven approach for the development and evaluation of phenotype algorithms for systemic lupus erythematosus.,Methodological research
+36845321,2022,"Characteristics and outcomes of COVID-19 patients with COPD from the United States, South Korea, and Europe.",Clinical evidence generation
+36847736,2023,Correction to: Transforming and evaluating the UK Biobank to the OMOP Common Data Model for COVID-19 research and beyond.,Open community data standards
+36884279,2023,An Ontology-Based Approach for Consolidating Patient Data Standardized With European Norm/International Organization for Standardization 13606 (EN/ISO 13606) Into Joint Observational Medical Outcomes Partnership (OMOP) Repositories: Description of a Methodology.,Open community data standards
+36909637,2023,Bumetanide Exposure Association with Alzheimer's Disease Risk.,Clinical evidence generation
+36935011,2023,Representing and utilizing clinical textual data for real world studies: An OHDSI approach.,Open community data standards
+36977531,2023,Cancer Research Line (CAREL): Development of Expanded Distributed Research Networks for Prostate Cancer and Lung Cancer.,Open source development
+36991144,2023,A standardized framework for risk-based assessment of treatment effect heterogeneity in observational healthcare databases.,Methodological research
+37023843,2023,The need for multimodal health data modeling: A practical approach for a federated-learning healthcare platform.,Open community data standards
+37025303,2023,A Path to Real-World Evidence in Critical Care Using Open-Source Data Harmonization Tools.,Clinical evidence generation
+37034358,2023,Contextualising adverse events of special interest to characterise the baseline incidence rates in 24 million patients with COVID-19 across 26 databases: a multinational retrospective cohort study.,Clinical evidence generation
+37041475,2023,Piloting an automated clinical trial eligibility surveillance and provider alert system based on artificial intelligence and standard data models.,Open source development
+37087110,2023,Clinical encounter heterogeneity and methods for resolving in networked EHR data: a study from N3C and RECOVER programs.,Methodological research
+37128407,2022,Phenotyping in distributed data networks: selecting the right codes for the right patients.,Open source development
+37128452,2022,Hierarchy-aware Adverse Reaction Embeddings for Signal Detection.,Methodological research
+37128466,2022,Feasibility of Linking Area Deprivation Index Data to the OMOP Common Data Model.,Open community data standards
+37167578,2023,How to Improve Cancer Patients ENrollment in Clinical Trials From rEal-Life Databases Using the Observational Medical Outcomes Partnership Oncology Extension: Results of the PENELOPE Initiative in Urologic Cancers.,Open community data standards
+37169362,2024,Perioperative adverse cardiac events and mortality after non-cardiac surgery: a multicenter study.,Clinical evidence generation
+37172152,2023,Transforming Documents of the Austrian Nationwide EHR System into the OMOP CDM.,Open community data standards
+37181728,2023,A metadata framework for computational phenotypes.,Open community data standards
+37190737,2023,Standardized Database of 12-Lead Electrocardiograms with a Common Standard for the Promotion of Cardiovascular Research: KURIAS-ECG.,Open community data standards
+37190741,2023,Feasibility Study of Federated Learning on the Distributed Research Network of OMOP Common Data Model.,Methodological research
+37203475,2023,Fitness for Use of Anatomical Therapeutic Classification for Real World Data Research.,Open community data standards
+37203486,2023,Towards ETL Processes to OMOP CDM Using Metadata and Modularization.,Open community data standards
+37203488,2023,Modeling Patient Treatment Trajectories Using Markov Chains for Cost Analysis.,Methodological research
+37203528,2023,Converting HL7 CDA Based Nationwide Austrian Medication Data to OMOP CDM.,Open community data standards
+37203598,2023,German Claims Data for Real-World Research: Content Coverage Evaluation in OMOP CDM.,Open community data standards
+37203630,2023,"The DELPHI Library: Improving Model Validation, Transparency and Dissemination Through a Centralised Library of Prediction Models.",Open source development
+37203671,2023,Data Quality Assessment for Observational Medical Outcomes Partnership Common Data Model of Multi-Center.,Open community data standards
+37203683,2023,RD-MON - Building a Rare Disease Monitor to Enhance Awareness for Patients with Rare Diseases in Intensive Care.,Open source development
+37208468,2023,Ontologizing health systems data at scale: making translational discovery a reality.,Open community data standards
+37224727,2023,SEnDAE: A resource for expanding research into social and environmental determinants of health.,Open source development
+37267810,2023,Assessing the FAIRness of databases on the EHDEN portal: A case study on two Dutch ICU databases.,Open community data standards
+37305615,2023,Building the observational medical outcomes partnership's T-MSIS Analytic File common data model.,Open community data standards
+37309694,2023,Real-World Treatment Intensity and Patterns in Patients With Myopic Choroidal Neovascularization: Common Data Model in Ophthalmology.,Clinical evidence generation
+37318234,2022,ricu: R's interface to intensive care data.,Unknown
+37321588,2023,Association between dyslipidemia and asthma in children: a systematic review and multicenter cohort study using a common data model.,Clinical evidence generation
+37328600,2023,Serially Combining Epidemiological Designs Does Not Improve Overall Signal Detection in Vaccine Safety Surveillance.,Methodological research
+37350911,2023,"Mild Cognitive Impairment: Data-Driven Prediction, Risk Factors, and Workup.",Methodological research
+37361151,2023,Enabling data sharing and utilization for African population health data using OHDSI tools with an OMOP-common data model.,Open community data standards
+37364547,2023,Efficacy of Co-Medications in Patients with Alcoholic Liver Disease.,Clinical evidence generation
+37366649,2023,Investigation of hepatic adverse events due to quetiapine by using the common data model.,Clinical evidence generation
+37387003,2023,Use of Real-World Data to Support Adverse Drug Reactions Prevention During ePrescription.,Clinical evidence generation
+37387004,2023,Diabetes Prevalence and Duration Data Extracted from Outpatient Records Representative for the Bulgarian Population.,Clinical evidence generation
+37387019,2023,Harmonisation of German Health Care Data Using the OMOP Common Data Model - A Practice Report.,Open community data standards
+37409312,2023,Characteristics and treatment pathways in pediatric and adult hidradenitis suppurativa: An examination using real world data.,Clinical evidence generation
+37414703,2024,Clinical Characterization of Patients Diagnosed with Prostate Cancer and Undergoing Conservative Management: A PIONEER Analysis Based on Big Data.,Clinical evidence generation
+37418391,2023,Learning important common data elements from shared study data: The All of Us program analysis.,Open community data standards
+37442314,2023,Eos and OMOCL: Towards a seamless integration of openEHR records into the OMOP Common Data Model.,Open community data standards
+37447187,2023,"Association of Serum Vitamin D Level with Temporomandibular Disorder Incidence: A Retrospective, Multi-Center Cohort Study Using Six Hospital Databases.",Clinical evidence generation
+37449050,2023,"Concept Coverage Analysis of Ophthalmic Infections and Trauma among the Standardized Medical Terminologies SNOMED-CT, ICD-10-CM, and ICD-11.",Open community data standards
+37459703,2023,ReDWINE: A clinical datamart with text analytical capabilities to facilitate rehabilitation research.,Open community data standards
+37507616,2023,Risk of Hyponatremia after Tramadol/Acetaminophen Single-Pill Combination Therapy: A Real-World Study Based on the OMOP-CDM Database.,Clinical evidence generation
+37535410,2023,Methods Used in the Development of Common Data Models for Health Data: Scoping Review.,Open community data standards
+37596918,2023,How do we build a comprehensive Vein-to-Vein (V2V) database for conduct of observational studies in transfusion medicine? Demonstrated with the Recipient Epidemiology and Donor Evaluation Study-IV-Pediatric V2V database protocol.,Open community data standards
+37598737,2023,"Padé approximant meets federated learning: A nearly lossless, one-shot algorithm for evidence synthesis in distributed research networks with rare outcomes.",Methodological research
+37603402,2023,Prescribing Patterns of Oral Antibiotics and Isotretinoin for Acne in a Colorado Hospital System: Retrospective Cohort Study.,Clinical evidence generation
+37608699,2023,Impact of concomitant cardiovascular medications on overall survival in patients with liver cirrhosis.,Clinical evidence generation
+37621207,2023,An Extract-Transform-Load Process Design for the Incremental Loading of German Real-World Data Based on FHIR and OMOP CDM: Algorithm Development and Validation.,Open community data standards
+37627087,2023,Mapping the Oncological Basis Dataset to the Standardized Vocabularies of a Common Data Model: A Feasibility Study.,Open community data standards
+37632892,2022,Phenotype Algorithms to Identify Hidradenitis Suppurativa Using Real-World Data: Development and Validation Study.,Methodological research
+37647114,2023,"Prescribing Patterns of Dupilumab for Atopic Dermatitis in Adults: Retrospective, Observational Cohort Study.",Clinical evidence generation
+37674813,2021,The Effect of Statins on Mortality of Patients With Chronic Kidney Disease Based on Data of the Observational Medical Outcomes Partnership Common Data Model (OMOP-CDM) and Korea National Health Insurance Claims Database.,Clinical evidence generation
+37697861,2023,Design and Implementation of an ETL-Process to Transfer Wound-Related Data into a Standardized Common Data Model.,Open community data standards
+37703800,2023,Determining and assessing characteristics of data element names impacting the performance of annotation using Usagi.,Open source development
+37710363,2024,MetaLAB-HOI: Template standardization of health outcomes enable massive and accurate detection of adverse drug reactions from electronic health records.,Methodological research
+37724311,2023,Transforming the Information System for Research in Primary Care (SIDIAP) in Catalonia to the OMOP Common Data Model and Its Use for COVID-19 Research.,Open community data standards
+37726928,2023,Detection of transthyretin amyloid cardiomyopathy by automated data extraction from electronic health records.,Methodological research
+37743838,2023,The association between persistent cognitive difficulties and depression and functional outcomes in people with major depressive disorder.,Clinical evidence generation
+37765021,2023,Impact of Concomitant Use of Proton Pump Inhibitors and Clopidogrel on Recurrent Stroke and Myocardial Infarction.,Clinical evidence generation
+37769828,2023,"Introducing the BlendedICU dataset, the first harmonized, international intensive care dataset.",Open community data standards
+37774908,2023,"Evaluation of OMOP CDM, i2b2 and ICGC ARGO for supporting data harmonization in a breast cancer use case of a multicentric European AI project.",Open community data standards
+37794003,2023,Scalable Infrastructure Supporting Reproducible Nationwide Healthcare Data Analysis toward FAIR Stewardship.,Open community data standards
+37811595,2023,Cloud-based digital healthcare development for precision medical hospital information system.,Open community data standards
+37822457,2023,Loop diuretics association with Alzheimer's disease risk.,Clinical evidence generation
+37829182,2023,Multinational patterns of second line antihyperglycaemic drug initiation across cardiovascular risk groups: federated pharmacoepidemiological evaluation in LEGEND-T2DM.,Clinical evidence generation
+37860059,2023,A computable biomedical knowledge object for calculating in-hospital mortality for patients admitted with acute myocardial infarction.,Open community data standards
+37869827,2023,Application of OMOP Common Data Model for Data Integration: The Bulgarian Diabetes Register.,Open community data standards
+37876360,2024,IncidencePrevalence: An R package to calculate population-level incidence rates and prevalence using the OMOP common data model.,Open source development
+37942786,2023,Assessing the Use of German Claims Data Vocabularies for Research in the Observational Medical Outcomes Partnership Common Data Model: Development and Evaluation Study.,Open community data standards
+37952118,2023,European Health Data & Evidence Network-learnings from building out a standardized international health data network.,Open community data standards
+37955965,2023,Development and Validation of a Prognostic Classification Model Predicting Postoperative Adverse Outcomes in Older Surgical Patients Using a Machine Learning Algorithm: Retrospective Observational Network Study.,Methodological research
+37957229,2023,Effect of statin use on head and neck cancer prognosis in a multicenter study using a Common Data Model.,Clinical evidence generation
+38010062,2024,Bayesian safety surveillance with adaptive bias correction.,Methodological research
+38025162,2023,Advancing Toward a Common Data Model in Ophthalmology: Gap Analysis of General Eye Examination Concepts to Standard Observational Medical Outcomes Partnership (OMOP) Concepts.,Open community data standards
+38025411,2023,Association Between Persistent Treatment of Alzheimer's Dementia and Osteoporosis Using a Common Data Model.,Clinical evidence generation
+38027579,2023,Development and validation of the SickKids Enterprise-wide Data in Azure Repository (SEDAR).,Open community data standards
+38028730,2023,Evaluating the impact of alternative phenotype definitions on incidence rates across a global data network.,Methodological research
+38035971,2024,Convert-Pheno: A software toolkit for the interconversion of standard data models for phenotypic data.,Open source development
+38045364,2023,MENDS-on-FHIR: Leveraging the OMOP common data model and FHIR standards for national chronic disease surveillance.,Open community data standards
+38046363,2023,Conversion of CPRD AURUM Data into the OMOP Common Data Model.,Open community data standards
+38058679,2023,Transforming Estonian health data to the Observational Medical Outcomes Partnership (OMOP) Common Data Model: lessons learned.,Open community data standards
+38061012,2023,MI-Common Data Model: Extending Observational Medical Outcomes Partnership-Common Data Model (OMOP-CDM) for Registering Medical Imaging Metadata and Subsequent Curation Processes.,Open community data standards
+38064251,2023,Patient-Centered Economic Burden of Exudative Age-Related Macular Degeneration: Retrospective Cohort Study.,Clinical evidence generation
+38105303,2023,Implementation of inclusion and exclusion criteria in clinical studies in OHDSI ATLAS software.,Open source development
+38111504,2023,Changing trends and characteristics of peptic ulcer disease: A multicenter study from 2010 to 2019 in Korea.,Clinical evidence generation
+38113207,2023,From data strategy to implementation to advance cancer research and cancer care: A French comprehensive cancer center experience.,Clinical evidence generation
+38166330,2024,The Scottish Medical Imaging Archive: 57.3 Million Radiology Studies Linked to Their Medical Records.,Open community data standards
+38175665,2024,OHDSI Standardized Vocabularies-a large-scale centralized reference ontology for international data harmonization.,Open community data standards
+38219763,2024,"The effectiveness of COVID-19 vaccines to prevent long COVID symptoms: staggered cohort study of data from the UK, Spain, and Estonia.",Clinical evidence generation
+38222329,2023,"Mapping Clinical Documents to the Logical Observation Identifiers, Names and Codes (LOINC) Document Ontology using Electronic Health Record Systems Structured Metadata.",Open community data standards
+38222375,2023,Computational Phenotyping of OMOP CDM Normalized EHR for Prenatal and Postpartum Episodes: An Informatics Framework and Clinical Implementation on All of Us.,Methodological research
+38222386,2023,How Are Leading Research Institutions Engaging with Data Sharing Tools and Programs?,Methodological research
+38222429,2023,Standardizing Multi-site Clinical Note Titles to LOINC Document Ontology: A Transformer-based Approach.,Open community data standards
+38229379,2019,"Opioid use, postoperative complications, and implant survival after unicompartmental versus total knee replacement: a population-based network study.",Clinical evidence generation
+38235322,2023,Comparing broad and narrow phenotype algorithms: differences in performance characteristics and immortal time incurred.,Methodological research
+38269685,2024,Prediction Models for Readmission Using Home Healthcare Notes and OMOP-CDM.,Clinical evidence generation
+38269703,2024,RHEA: Real-World Observational Health Data Exploration Application.,Open source development
+38269763,2024,Multi-Institutional Collaborative Research Using Ophthalmic Medical Image Data Standardized by Radiology Common Data Model (R-CDM).,Open community data standards
+38269767,2024,Promoting Learning Health System Cycles by Optimizing EHR Data Clinical Concept Encoding Processes.,Open community data standards
+38269786,2024,Toward Real-World Reproducibility: Verifying Value Sets for Clinical Research.,Open community data standards
+38269823,2024,Development of Integrated Data Quality Management System for Observational Medical Outcomes Partnership Common Data Model.,Open community data standards
+38269952,2024,Health-Analytics Data to Evidence Suite (HADES): Open-Source Software for Observational Research.,Open source development
+38270038,2024,Feasibility of Applying the OMOP Common Data Model to Traditional Eastern Asian Medicine Dataset.,Open community data standards
+38280887,2024,A comparative patient-level prediction study in OMOP CDM: applicative potential and insights from synthetic data.,Methodological research
+38315345,2024,Development of Medical Imaging Data Standardization for Imaging-Based Observational Research: OMOP Common Data Model Extension.,Open community data standards
+38317275,2024,Impact of COVID-19 on the development of major mental disorders in patients visiting a university hospital: a retrospective observational study.,Clinical evidence generation
+38326827,2024,Evaluating MedDRA-to-ICD terminology mappings.,Open community data standards
+38347885,2024,INSPIRE datahub: a pan-African integrated suite of services for harmonising longitudinal population health data using OHDSI tools.,Open community data standards
+38349850,2024,Transformer-based time-to-event prediction for chronic kidney disease deterioration.,Methodological research
+38354027,2024,Use of Metadata-Driven Approaches for Data Harmonization in the Medical Domain: Scoping Review.,Open community data standards
+38365848,2024,Effectiveness of IT-supported patient recruitment: study protocol for an interrupted time series study at ten German university hospitals.,Open source development
+38387992,2024,"Seamless EMR data access: Integrated governance, digital health and the OMOP-CDM.",Open community data standards
+38408983,2024,Conceptual design of a generic data harmonization process for OMOP common data model.,Open community data standards
+38410487,2024,PheWAS analysis on large-scale biobank data with PheTK.,Open source development
+38412331,2024,Towards global model generalizability: independent cross-site feature evaluation for patient-level risk prediction models using the OHDSI network.,Methodological research
+38421482,2024,"Prediction of 30-day, 90-day, and 1-year mortality after colorectal cancer surgery using a data-driven approach.",Methodological research
+38425704,2024,A framework for understanding an open scientific community using automated harvesting of public artifacts.,Methodological research
+38432534,2024,Creating a computer assisted ICD coding system: Performance metric choice and use of the ICD hierarchy.,Methodological research
+38433286,2024,Incidence of mental health diagnoses during the COVID-19 pandemic: a multinational network study.,Clinical evidence generation
+38441750,2024,"Authors' Response to Huang et al.'s Comment on ""Serially Combining Epidemiological Designs Does Not Improve Overall Signal Detection in Vaccine Safety Surveillance"".",Methodological research
+38472144,2024,Markov modeling for cost-effectiveness using federated health data network.,Open source development
+38503885,2024,Real-world evidence of constipation and laxative use in the Korean population with chronic kidney disease from a common data model.,Clinical evidence generation
+38509500,2024,Developing a clinical decision support system software prototype that assists in the management of patients with self-harm in the emergency department: protocol of the PERMANENS project.,Open source development
+38519026,2024,"Similar Risk of Kidney Failure among Patients with Blinding Diseases Who Receive Ranibizumab, Aflibercept, and Bevacizumab: An Observational Health Data Sciences and Informatics Network Study.",Clinical evidence generation
+38520626,2024,Patterns of Comorbidities and Prescribing and Dispensing of Non-steroidal Anti-inflammatory Drugs (NSAIDs) Among Patients with Osteoarthritis in the USA: Real-World Study.,Clinical evidence generation
+38526534,2024,Correlation of Socioeconomic and Environmental Factors With Incidence of Crohn Disease in Children and Adolescents: Systematic Review and Meta-Regression.,Clinical evidence generation
+38556812,2024,Increase transparency and reproducibility of real-world evidence in rare diseases through disease-specific Federated Data Networks.,Clinical evidence generation
+38557864,2024,Use of Recommended Neurodiagnostic Evaluation Among Patients With Drug-Resistant Epilepsy.,Clinical evidence generation
+38572301,2024,Research Protocol for an Observational Health Data Analysis on the Adverse Events of Systemic Treatment in Patients with Metastatic Hormone-sensitive Prostate Cancer: Big Data Analytics Using the PIONEER Platform.,Clinical evidence generation
+38593431,2024,Converge or Collide? Making Sense of a Plethora of Open Data Standards in Health Care.,Open community data standards
+38596781,2024,Predictive Models for Assessing Patients' Response to Treatment in Metastatic Prostate Cancer: A Systematic Review.,Methodological research
+38614106,2024,Effectiveness of COVID-19 vaccines to prevent long COVID: data from Norway.,Clinical evidence generation
+38626510,2024,recruIT: A cloud-native clinical trial recruitment support system based on Health Level 7 Fast Healthcare Interoperability Resources (HL7 FHIR) and the Observational Medical Outcomes Partnership Common Data Model (OMOP CDM).,Open source development
+38635655,2024,The OMOP common data model in Australian primary care data: Building a quality research ready harmonised dataset.,Open community data standards
+38658170,2024,Data Resource Profile: Health Insurance Review and Assessment Service Covid-19 Observational Medical Outcomes Partnership (HIRA Covid-19 OMOP) database in South Korea.,Open community data standards
+38660421,2024,Health data space nodes for privacy-preserving linkage of medical data to support collaborative secondary analyses.,Open source development
+38682500,2024,Mapping the Bulgarian Diabetes Register to OMOP CDM: Application Results.,Open community data standards
+38682513,2024,Towards an Electronic Health Prevention Record Based on HL7 FHIR and the OMOP Common Data Model.,Open community data standards
+38690224,2024,The Health Equity Explorer: An open-source resource for distributed health equity visualization and research across common data models.,Open source development
+38715437,2024,The prevalence of major depressive disorder in people with HIV: Results from the All of Us Research Program.,Clinical evidence generation
+38749529,2024,Taipei Medical University Clinical Research Database: a collaborative hospital EHR database aligned with international common data standards.,Open community data standards
+38750239,2024,[FAIR health data in the national and international data space].,Open community data standards
+38773798,2024,Calculating daily dose in the Observational Medical Outcomes Partnership Common Data Model.,Open community data standards
+38777085,2024,Converting OMOP CDM to phenopackets: A model alignment and patient data representation evaluation.,Open community data standards
+38792452,2024,Symptoms and Conditions in Children and Adults up to 90 Days after SARS-CoV-2 Infection: A Retrospective Observational Study Utilizing the Common Data Model.,Clinical evidence generation
+38806105,2024,Data harmonization and federated learning for multi-cohort dementia research using the OMOP common data model: A Netherlands consortium of dementia cohorts case study.,Open community data standards
+38818114,2024,MENDS-on-FHIR: leveraging the OMOP common data model and FHIR standards for national chronic disease surveillance.,Open community data standards
+38818399,2024,OHDSI-compliance: a set of document templates facilitating the implementation and operation of a software stack for real-world evidence generation.,Open source development
+38836352,2024,High-Intensity Aphasia Intervention Is Minimally Fatiguing in Chronic Aphasia: An Analysis of Participant Self-Ratings From a Large Randomized Controlled Trial.,Clinical evidence generation
+38836701,2024,Sharing sensitive data in life sciences: an overview of centralized and federated approaches.,Methodological research
+38854711,2024,"Research protocol for an observational health data analysis to assess the applicability of randomized controlled trials focusing on newly diagnosed metastatic prostate cancer using real-world data: PIONEER IMI's ""big data for better outcomes"" program.",Clinical evidence generation
+38893186,2024,Transforming a Large-Scale Prostate Cancer Outcomes Dataset to the OMOP Common Data Model-Experiences from a Scientific Data Holder's Perspective.,Open community data standards
+38903818,2024,Streamlining intersectoral provision of real-world health data: a service platform for improved clinical research and patient care.,Open community data standards
+38909216,2024,Learning debiased graph representations from the OMOP common data model for synthetic data generation.,Methodological research
+38923168,2024,Predictability of buprenorphine-naloxone treatment retention: A multi-site analysis combining electronic health records and machine learning.,Clinical evidence generation
+38944260,2024,Enhancing healthcare process analysis through object-centric process mining: Transforming OMOP common data models into object-centric event logs.,Methodological research
+38964369,2024,KG-LIME: predicting individualized risk of adverse drug events for multiple sclerosis disease-modifying therapy.,Methodological research
+38968598,2024,Electronic Health Record-Oriented Knowledge Graph System for Collaborative Clinical Decision Support Using Multicenter Fragmented Medical Data: Design and Application Study.,Open source development
+38985896,2024,"Advancing Medical Imaging Research Through Standardization: The Path to Rapid Development, Rigorous Validation, and Robust Reproducibility.",Open community data standards
+38996330,2024,Integrating Clinical Data and Medical Imaging in Lung Cancer: Feasibility Study Using the Observational Medical Outcomes Partnership Common Data Model Extension.,Open community data standards

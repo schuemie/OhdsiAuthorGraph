@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a common data model (CDM) for cohort studies on respiratory diseases. The aim is to harmonize and facilitate the exchange, pooling, sharing, and storing of data from multiple sources. This is done by reviewing international standards, summarizing four cohort studies of respiratory diseases, and developing a CDM related to respiratory diseases. The publication falls under the category of open community data standards as it involves maintaining the OMOP common data model, OHDSI standardized vocabularies, and community conventions for extract-transform-load (ETL) and data quality assessment.
+
+Final category: 1. Open community data standards

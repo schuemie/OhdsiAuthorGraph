@@ -1,0 +1,3 @@
+Discussion: The publication discusses the harmonization of the OHDSI Common Data Model with HL7 FHIR, a standards framework for healthcare data exchange. This involves the development and assessment of a consensus-based approach for this harmonization, leveraging the FHIR W5 Classification System. The focus is on creating a standardized data interface for organizing clinical research data. This falls under the work of maintaining and improving data standards, which is a key aspect of the OHDSI community's work. Therefore, the publication does not primarily focus on methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

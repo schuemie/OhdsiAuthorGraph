@@ -1,0 +1,3 @@
+Discussion: The publication discusses the transformation and evaluation of the UK Biobank to the OMOP Common Data Model, specifically for COVID-19 research. This suggests that the publication is focused on the use of OHDSI's data standards to facilitate research. It does not seem to focus on methodological research, software development, or clinical evidence generation. Therefore, it is most likely related to the first category, which involves maintaining the OMOP common data model, OHDSI standardized vocabularies, and community conventions for extract-transform-load (ETL) and data quality assessment.
+
+Final category: 1. Open community data standards

@@ -1,0 +1,3 @@
+Discussion: The title suggests that this publication is a commentary on a previous study that empirically assessed methods for risk identification in healthcare data. This suggests that the publication is likely discussing the methods used in the original study, their effectiveness, and possibly suggesting improvements or alternatives. This falls under the scope of methodological research, as it involves the evaluation of analytic approaches. It does not seem to directly involve the creation of software tools, the generation of clinical evidence, or the maintenance of data standards.
+
+Final category: 2. Methodological research

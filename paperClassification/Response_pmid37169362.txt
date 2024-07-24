@@ -1,0 +1,3 @@
+Discussion: The publication discusses a multicenter study that used data from electronic health records to compare long-term mortality with perioperative adverse cardiac events (PACE). The data was converted to the Observational Medical Outcomes Partnership Common Data Model, and the study involved propensity score matching and an aggregated meta-analysis. The study falls under the category of clinical evidence generation as it tests a clinical hypothesis and produces evidence characterizing disease natural history and treatment utilization. It does not primarily focus on maintaining data standards, developing analytic approaches, or creating software tools.
+
+Final category: 4. Clinical evidence generation

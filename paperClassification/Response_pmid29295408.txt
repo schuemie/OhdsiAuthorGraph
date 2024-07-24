@@ -1,0 +1,3 @@
+Discussion: The publication discusses the creation of methods and tools to expose the OHDSI vocabularies and mappings as the vocabulary mapping services using two HL7 FHIR core terminology resources. This involves the development of new tools and methods, which aligns with the category of open source development. However, it also involves the maintenance and use of the OMOP common data model and OHDSI standardized vocabularies, which falls under the category of open community data standards. While both categories could potentially apply, the focus on creating new methods and tools suggests that the open source development category might be more appropriate.
+
+Final category: Open source development

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the importance of data quality in observational healthcare data and introduces the Data Quality Dashboard, an open-source R package that reports potential quality issues in an OMOP CDM instance. This falls under the scope of maintaining data standards and quality, which is part of the "Open community data standards" category. However, it also involves the creation of an open-source software tool, which is part of the "Open source development" category. Despite the overlap, the main focus of the paper is on standardizing approaches for data quality assessment, which is more aligned with the "Open community data standards" category.
+
+Final category: 1. Open community data standards

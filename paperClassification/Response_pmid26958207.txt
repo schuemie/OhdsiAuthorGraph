@@ -1,0 +1,3 @@
+Discussion: The publication discusses a software architecture for developing and deploying clinical predictive models using web services via the Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) standard. The services enable model development using electronic health records (EHRs) stored in OMOP CDM databases and model deployment for scoring individual patients through FHIR resources. This involves the use of the OMOP common data model, which falls under the category of Open community data standards. However, the main focus of the paper is on the development and deployment of a software tool, which is more aligned with the Open source development category.
+
+Final category: 3. Open source development

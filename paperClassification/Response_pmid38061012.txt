@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of the MI-Common Data Model, an extension of the OMOP-CDM, to register medical imaging data and curation-related processes. This falls under the development of data standards, which is a key aspect of the "Open community data standards" category. The paper does not seem to focus on methodological research, open-source development, or clinical evidence generation. Instead, it is centered on enhancing the existing OMOP-CDM to better accommodate and standardize imaging metadata, which is a crucial part of data standardization in the OHDSI community.
+
+Final category: 1. Open community data standards

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the creation of a reference set of test cases to facilitate methodological research in drug safety. It involves systematic literature review and natural language processing of structured product labeling to identify evidence for classifying drugs as either positive controls or negative controls for specific outcomes. This work is primarily focused on developing and evaluating analytic approaches to determine scientific best practices in drug safety, which falls under the category of methodological research. Although it also involves the use of data and could potentially contribute to clinical evidence generation, the main focus is on the methodology and its evaluation.
+
+Final category: 2. Methodological research

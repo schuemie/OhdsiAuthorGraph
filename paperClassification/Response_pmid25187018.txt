@@ -1,0 +1,3 @@
+Discussion: The publication discusses the conversion to a common data model and the potential loss in translation. This topic is closely related to the maintenance of the OMOP common data model, OHDSI standardized vocabularies, and community conventions for extract-transform-load (ETL) and data quality assessment. Therefore, it falls under the category of open community data standards. Although it might touch upon aspects of methodological research and open source development, the primary focus is on the data standards.
+
+Final category: 1. Open community data standards

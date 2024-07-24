@@ -1,0 +1,3 @@
+Discussion: The publication discusses a new distributed algorithm for conducting statistical analyses across multiple clinical sites without sharing patient-level data. This algorithm accounts for the heterogeneity of data across sites, which is often ignored by existing distributed algorithms. The authors evaluated their algorithm through a systematic simulation study and applied it to multiple claims datasets from the OHDSI network. This work falls under the development of new methodologies and the creation of software tools. However, the main focus of the paper is on the development and evaluation of a new method, rather than the creation of a software tool.
+
+Final category: 2. Methodological research

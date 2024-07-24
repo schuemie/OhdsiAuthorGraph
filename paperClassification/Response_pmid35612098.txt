@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of adopting the OMOP CDM to make a health database FAIR (Findable, Accessible, Interoperable, and Reusable). This involves dealing with various challenges related to modeling, technical aspects, and communication. The solutions found through this process are shared with the intention of helping other healthcare institutions, particularly ICU quality registries, to FAIRify their databases. This work aligns with the first category, "Open community data standards", as it involves maintaining the OMOP common data model, OHDSI standardized vocabularies, and community conventions for extract-transform-load (ETL) and data quality assessment.
+
+Final category: 1. Open community data standards

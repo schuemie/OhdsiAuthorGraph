@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and validation of the Radiology Common Data Model (R-CDM), a standardization method for DICOM metadata. The R-CDM is designed to be compatible with HL7/FHIR and linked with the OMOP-CDM, aiming to create a seamless link between clinical data and medical imaging data. The terminology system was standardized using the RadLex playbook. The paper also discusses the successful standardization achieved by the extract, transform, and load process and image classifier. This falls under the category of creating and maintaining data standards, specifically for medical imaging data.
+
+Final category: 1. Open community data standards

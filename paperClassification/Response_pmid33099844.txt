@@ -1,0 +1,3 @@
+Discussion: The publication discusses the empirical assessment of case-based methods for identifying drugs associated with acute liver injury in the French National Healthcare System database. It involves the comparison of different design variants using various parameters and identifies the best performing method. This falls under the development and evaluation of analytic approaches, which is a part of methodological research. It does not directly involve the maintenance of data standards, software tool creation, or conducting network studies for clinical evidence generation.
+
+Final category: 2. Methodological research

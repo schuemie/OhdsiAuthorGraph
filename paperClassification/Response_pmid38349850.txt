@@ -1,0 +1,3 @@
+Discussion: The publication presents a deep-learning algorithm, STRAFE, for predicting the time-to-event for chronic kidney disease deterioration. The algorithm uses SNOMED-CT codes in OMOP-CDM format as input, indicating a use of OHDSI's data standards. However, the main focus of the paper is on the development and evaluation of the algorithm, which falls under methodological research. The paper also discusses the potential clinical applications of the algorithm, but this is more of a potential outcome of the research rather than the main focus. Therefore, the paper does not fit well into the categories of open source development or clinical evidence generation.
+
+Final category: 2. Methodological research

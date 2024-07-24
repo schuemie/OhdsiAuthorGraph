@@ -1,0 +1,3 @@
+Discussion: This publication discusses the use of routinely collected healthcare data to detect risks of vaccines, evaluating several epidemiologic designs for their effectiveness in detecting true risks. The study also addresses the potential for systematic error in these methods and suggests ways to quantify and calibrate this error. This work involves the development and empirical evaluation of analytic approaches, which aligns with the category of methodological research. It does not primarily focus on data standards, software development, or the generation of clinical evidence, although the findings could potentially contribute to these areas.
+
+Final category: 2. Methodological research

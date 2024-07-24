@@ -1,0 +1,3 @@
+Discussion: The publication discusses the implementation of the OMOP common data model for data harmonization at the Hannover Medical School in Germany. It focuses on the challenges of mapping German healthcare terminologies to a standardized format. This falls under the work of maintaining the OMOP common data model and community conventions for extract-transform-load (ETL) and data quality assessment, which is part of the open community data standards category. It does not seem to involve methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

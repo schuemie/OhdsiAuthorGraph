@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of integrating heterogeneous data from a German pulmonary hypertension registry into an OMOP Common Data Model using HL7 FHIR as an intermediate format. This involves the use of extract-transform-load (ETL) processes, which falls under the category of open community data standards. The paper also discusses the mapping of a common parameter set to standardized terminologies like LOINC or SNOMED-CT, which is also part of maintaining OHDSI standardized vocabularies. Therefore, the publication is primarily concerned with the standards and processes for integrating and standardizing data, which is characteristic of the open community data standards category.
+
+Final category: 1. Open community data standards

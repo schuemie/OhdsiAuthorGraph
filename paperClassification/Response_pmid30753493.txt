@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and evaluation of Criteria2Query, a natural language interface that facilitates cohort definition and execution using clinical databases. This tool uses a combination of machine learning and rule-based methods to parse eligibility criteria text and transform it into structured criteria representation and executable clinical data queries. This falls under the development of software tools, but it also involves methodological research as the tool's effectiveness was empirically evaluated. However, the main focus of the paper is on the creation of the tool, which is used to codify best practices and enable consistent and reproducible processes.
+
+Final category: 3. Open source development

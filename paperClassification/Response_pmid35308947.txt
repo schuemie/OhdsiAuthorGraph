@@ -1,0 +1,3 @@
+Discussion: The publication discusses the extraction of Social Determinants of Health (SDoH) from the Electronic Health Record (EHR) database and how it can be represented and managed within the OMOP common data model. This involves the use of data standards and conventions for extract-transform-load (ETL) processes, which aligns with the first category of "Open community data standards". Although the paper also touches on the application of these data standards in the context of COVID-19 research, the main focus is on the standardization and management of SDoH data within the OMOP model.
+
+Final category: 1. Open community data standards

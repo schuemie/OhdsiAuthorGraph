@@ -1,0 +1,3 @@
+Discussion: The publication discusses a new approach to detect long-term adverse effects of drugs using electronic health record and administrative claims databases. The authors propose an adaptation of the self-controlled case series design and evaluate extensions to correct for age and recurrent events. They test several variations of the approach on simulated data and two large insurance claims databases. This work involves the development and empirical evaluation of analytic approaches, which aligns with the category of methodological research. It does not primarily focus on maintaining data standards, creating software tools, or conducting network studies to test clinical hypotheses.
+
+Final category: 2. Methodological research

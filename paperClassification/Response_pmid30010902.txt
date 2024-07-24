@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and evaluation of a novel method for drug safety monitoring using information extracted from biomedical literature. This involves the use of unsupervised pretraining, representational composition, and supervised machine learning. The method was tested and compared to contemporary approaches, showing improved performance. This falls under the development of new analytic approaches and their empirical evaluation, which is characteristic of methodological research. Although the study also involves the generation of clinical evidence, the main focus is on the development and evaluation of the method itself.
+
+Final category: 2. Methodological research

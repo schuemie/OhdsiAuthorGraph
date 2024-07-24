@@ -1,0 +1,3 @@
+Discussion: This publication discusses the development and evaluation of a privacy-preserving One-shot Distributed Algorithm (ODAC) for fitting a multicenter Cox proportional hazards model without sharing patient-level information across sites. The paper involves the use of methodological research to develop and evaluate this new algorithm. It also involves the use of clinical evidence generation as it uses real-world data from the Observational Health Data Sciences and Informatics network to evaluate the performance of the algorithm. However, the main focus of the paper is on the development and evaluation of the algorithm, which falls under methodological research.
+
+Final category: 2. Methodological research

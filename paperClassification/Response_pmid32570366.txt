@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a Clinical Trials Recruitment Support System using open source solutions like OMOP CDM and Atlas, and open standards for interoperability like FHIR. This involves the use of the OMOP common data model and standardized vocabularies, which falls under the category of open community data standards. However, the main focus of the paper is on the creation of a software tool (the Clinical Trials Recruitment Support System) that enables consistent and reproducible processes, which aligns with the category of open source development.
+
+Final category: 3. Open source development

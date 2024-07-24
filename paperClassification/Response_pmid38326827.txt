@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of mapping between two different medical terminologies, MedDRA and ICD, through the Unified Medical Language System (UMLS) and Observational Medical Outcomes Partnership Common Data Model (OMOP CDM). This involves the evaluation of the current mapping status and the development of an algorithm to identify potential mapping candidates for unmapped terms. This work is crucial for data harmonization, which is a key aspect of maintaining data standards. Therefore, the publication falls under the category of "Open community data standards". It does not seem to involve methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

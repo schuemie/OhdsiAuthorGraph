@@ -1,0 +1,3 @@
+Discussion: The publication discusses the methods used in the Mini-Sentinel systematic reviews of validation studies of algorithms to identify health outcomes in administrative and claims data. It also describes the challenges and lessons learned in the development of search strategies. The focus is on the methodological approach to validating algorithms and conducting systematic reviews, which is a form of research. Therefore, the publication does not seem to directly relate to the development of open community data standards, open source development, or clinical evidence generation. 
+
+Final category: 2. Methodological research

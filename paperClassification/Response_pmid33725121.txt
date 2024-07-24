@@ -1,0 +1,3 @@
+Discussion: The publication is a multinational network cohort study that investigates the 30-day outcomes and mortality after hospitalization with COVID-19 among patients with prevalent autoimmune diseases. It also compares these outcomes with similar patients hospitalized with influenza. The study uses electronic health records data from various sources across three countries. The focus of the study is on generating clinical evidence related to COVID-19 and autoimmune diseases, rather than on developing new methodologies, creating software tools, or establishing data standards. Therefore, the publication falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication titled "Extending the OMOP Common Data Model and Standardized Vocabularies to Support Observational Cancer Research" seems to be primarily focused on the enhancement of the OMOP common data model and standardized vocabularies. This suggests that the work is primarily related to the development and maintenance of data standards, which is a key aspect of the "Open community data standards" category. While the work may also involve aspects of methodological research or open source development, the primary focus appears to be on the data standards themselves.
+
+Final category: 1. Open community data standards

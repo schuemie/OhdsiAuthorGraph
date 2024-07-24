@@ -1,0 +1,3 @@
+Discussion: This publication discusses the development of a predictive model for sepsis readmissions, incorporating both clinical and social determinants of health. The model was developed using data from the AllofUs Research Program cohort and sepsis cases were identified using concepts represented in the Observational Medical Outcomes Partnership. The study is focused on improving the predictive performance of the model, which falls under the realm of methodological research. It does not primarily focus on data standards, software development, or clinical evidence generation, although the latter is tangentially involved as the model could potentially be used to generate clinical evidence in the future.
+
+Final category: 2. Methodological research

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the evaluation of the concept coverage of the general eye examination in an electronic health record (EHR) system using the OMOP common data model (CDM). The study involves mapping data elements from the EHR to OMOP concepts and analyzing the degree of equivalence. The findings highlight gaps in OMOP concept coverage of EHR elements and suggest ways to improve the incorporation of ophthalmology concepts in OMOP. This work is primarily focused on the use and improvement of the OMOP CDM, which falls under the category of open community data standards.
+
+Final category: 1. Open community data standards

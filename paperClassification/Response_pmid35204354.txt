@@ -1,0 +1,3 @@
+Discussion: The publication is a population-based cohort study that investigates the association between the use of renin-angiotensin-aldosterone system (RAAS) inhibitors and the development of cancer. The study uses data from seven hospitals in Korea that were converted for use in the Observational Medical Outcomes Partnership Common Data Model. This suggests that the study involves the use of open community data standards. However, the main focus of the study is to generate clinical evidence on the association between the use of RAAS inhibitors and cancer occurrence, which falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

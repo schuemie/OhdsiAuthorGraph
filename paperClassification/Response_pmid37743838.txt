@@ -1,0 +1,3 @@
+Discussion: The publication discusses a secondary analysis of a prospective naturalistic observational clinical cohort study of individuals with recurrent major depressive disorder (MDD). The study explores the association between persistent cognitive difficulties and depression and functional outcomes in people with MDD. The research does not focus on data standards, software tools, or methodological research. Instead, it is a clinical study that tests a hypothesis about the relationship between cognitive difficulties and depression and functional outcomes. Therefore, it falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

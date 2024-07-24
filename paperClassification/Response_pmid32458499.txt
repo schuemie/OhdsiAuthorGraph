@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of establishing a pharmacoepidemiological database in Saudi Arabia using the OHDSI Common Data Model. It also discusses the challenges faced during the process, such as limited contribution in providing data by local medical institution due to uncertainty about data governance, diversity of systems used by hospitals, inconsistent coding of medical information, and limited awareness about data structure from participating hospital. This falls under the category of Open community data standards as it involves the use of the OMOP common data model and the standardization of data. 
+
+Final category: 1. Open community data standards

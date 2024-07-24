@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of mapping biospecimen data to the OMOP Common Data Model (CDM), which is a part of the OHDSI's data standards. The authors also suggest improvements to the OMOP CDM to better accommodate biospecimen data. This falls under the category of open community data standards as it involves the use and improvement of the OMOP CDM. Although the study also involves some aspects of clinical evidence generation, as it is aimed at supporting precision medicine for leukemia patients, the main focus is on the data standards and their application to a specific type of data.
+
+Final category: 1. Open community data standards

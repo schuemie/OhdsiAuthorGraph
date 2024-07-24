@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of an NLP system for annotating clinical trial eligibility criteria text and the comparison of its results with human annotations. Both the NLP system and the human annotations follow the OMOP Common Data Model (CDM), which is a part of the open community data standards. However, the main focus of the paper is on the methodological research involved in developing and evaluating the NLP system, and the implications of the results for NLP evaluation. Therefore, while the paper does involve open community data standards, it is more focused on methodological research.
+
+Final category: 2. Methodological research

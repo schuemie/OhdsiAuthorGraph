@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and application of a method to harmonize data from electronic health records into common units and impute units that were missing. This involves the use of the Observational Medical Outcomes Partnership (OMOP) common-data-model format, which is a part of the open community data standards. However, the main focus of the paper is on the methodological approach to harmonizing and imputing data, which falls under methodological research. The paper does not primarily focus on the development of software tools or the generation of clinical evidence.
+
+Final category: 2. Methodological research

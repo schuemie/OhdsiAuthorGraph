@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of an open-source software toolkit, Convert-Pheno, which facilitates the conversion of common data models for phenotypic data. This falls under the realm of creating tools that enable the community to execute analyses in a consistent and reproducible manner. While the software also touches on the aspect of data standards, the primary focus is on the development of the software tool itself, which is used to handle data models.
+
+Final category: 3. Open source development

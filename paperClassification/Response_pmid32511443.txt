@@ -1,0 +1,3 @@
+Discussion: The publication is a study that characterizes patients hospitalized with COVID-19 and compares them with patients hospitalized with influenza. It uses data from databases across three continents and provides a detailed analysis of the patients' demographics, previously recorded conditions, and medication use. This study is aimed at generating clinical evidence about the characteristics of individuals hospitalized with COVID-19, which can be used to inform strategies to minimize hospital admissions. Therefore, it does not seem to focus on data standards, methodological research, or open-source development. Instead, it is more aligned with the generation of clinical evidence.
+
+Final category: 4. Clinical evidence generation

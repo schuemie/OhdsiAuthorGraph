@@ -1,0 +1,3 @@
+Discussion: The publication discusses the evaluation of the coverage of source vocabularies and data elements of German claims data in the OMOP CDM. It also highlights the need to extend vocabularies and mappings to support research on German claims data. This suggests that the publication is primarily concerned with the standardization and quality assessment of data, which falls under the category of open community data standards. Although the publication also touches on the potential for real-world research, which could be related to clinical evidence generation, the main focus is on the standardization of data.
+
+Final category: 1. Open community data standards

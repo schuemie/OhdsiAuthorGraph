@@ -1,0 +1,3 @@
+Discussion: This publication is about developing a predictive model to identify patients in end-of-life care using administrative claims datasets. The model was developed using regularized logistic regression and validated internally and externally. The study aims to improve the validity of the risk profile for drug treatments given to patients in end-of-life care. This work involves the application of statistical methods to clinical data to generate evidence, which aligns with the methodological research and clinical evidence generation categories. However, the primary focus is on the development and validation of a predictive model, which is a methodological research task.
+
+Final category: 2. Methodological research

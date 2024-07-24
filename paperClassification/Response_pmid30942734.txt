@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of standardizing Austrian claims data using the OMOP common data model. It evaluates the suitability of the OMOP CDM for specific types of data and discusses the challenges and efforts required to adapt and incorporate the vocabulary. This falls under the work of maintaining the OMOP common data model, OHDSI standardized vocabularies, and community conventions for extract-transform-load (ETL) and data quality assessment. Therefore, it aligns with the category of "Open community data standards".
+
+Final category: 1. Open community data standards

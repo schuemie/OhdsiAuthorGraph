@@ -1,0 +1,3 @@
+Discussion: The publication discusses the comparison of different data models for comparative effectiveness research (CER), including the Observational Medical Outcomes Partnership (OMOP), Biomedical Research Integrated Domain Group, the Clinical Data Interchange Standards Consortium, and the US Food and Drug Administration. The authors found that the OMOP's Common Data Model (CDM) met the broadest complement of CER objectives. This publication is primarily concerned with data standards and their application in clinical research, which aligns with the first category of "Open community data standards". 
+
+Final category: 1. Open community data standards

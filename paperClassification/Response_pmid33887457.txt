@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a semi-automatic approach to generate an annotated corpus for COVID-19 clinical trial eligibility criteria. This involves the use of the OMOP Common Data Model, which falls under the category of Open community data standards. However, the main focus of the paper is on creating a tool for COVID-19 trial search and analytics, which is more related to Open source development. The paper does not seem to focus on Methodological research or Clinical evidence generation as it does not discuss analytic approaches or conduct network studies to test clinical hypotheses.
+
+Final category: 3. Open source development

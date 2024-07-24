@@ -1,0 +1,3 @@
+Discussion: The publication discusses the process of mapping Austrian Health Claims Data to the OMOP Common Data Model. It involves the transformation of data into the OMOP CDM and the challenges faced in mapping local vocabularies to the OMOP vocabularies. This falls under the process of maintaining the OMOP common data model and community conventions for extract-transform-load (ETL) and data quality assessment. Therefore, it aligns with the category of Open community data standards. Although it also touches on the benefits of standardization and reproducibility of research, the main focus is on the data standardization process.
+
+Final category: 1. Open community data standards

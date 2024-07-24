@@ -1,0 +1,3 @@
+Discussion: The publication is about KETOS, a platform for clinical decision support and machine learning. It mentions the use of OMOP-CDM, which is related to open community data standards. However, the main focus seems to be on the development of a software tool, which falls under open source development. The correction notice doesn't provide much detail, but based on the title, it seems to be more about the development and deployment of a tool rather than the standards themselves.
+
+Final category: 3. Open source development

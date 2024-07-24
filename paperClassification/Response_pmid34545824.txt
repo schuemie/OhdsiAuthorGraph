@@ -1,0 +1,3 @@
+Discussion: The publication discusses the usage and relevance of the OMOP Common Data Model, a standard developed by OHDSI. It provides a comprehensive review of publications about the OMOP CDM and its usage, including an analysis of meta information such as the choice of journals, journal types, countries, and topics. This suggests that the publication falls under the category of "Open community data standards" as it is focused on the OMOP CDM, a data standard maintained by OHDSI. It does not seem to involve methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

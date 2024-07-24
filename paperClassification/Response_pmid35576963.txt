@@ -1,0 +1,3 @@
+Discussion: This publication presents a network cohort study that aimed to estimate the incidence of venous and arterial thromboembolism, and death among COVID-19 cases. The study also assessed the impact of these events on the risks of hospitalization and death. The research involved the use of primary care records from several European countries and applied multistate models to calculate adjusted hazard ratios. This study is focused on generating clinical evidence related to COVID-19, thromboembolism, and mortality. It does not primarily focus on data standards, methodological research, or open-source development.
+
+Final category: 4. Clinical evidence generation

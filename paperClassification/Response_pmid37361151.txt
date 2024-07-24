@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of the OMOP Common Data Model (CDM) for data collection, documentation, and dissemination related to COVID-19 in Sub-Saharan Africa. It also talks about the use of AI technologies for data analysis. The paper primarily focuses on the use of OHDSI tools and the OMOP CDM for data standardization and sharing, which aligns with the "Open community data standards" category. However, it also touches upon the use of AI technologies for data analysis, which could fall under "Methodological research". Despite this, the main focus of the paper is on data standardization and sharing, making "Open community data standards" the most appropriate category.
+
+Final category: 1. Open community data standards

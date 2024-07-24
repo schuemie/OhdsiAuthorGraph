@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and evaluation of a genomic common data model (G-CDM), which is an extension of the OMOP-CDM, for the application of genomic data in clinical practice. This falls under the category of open community data standards as it involves the extension of the OMOP common data model to cover genomic data. The authors also developed a data-exploring tool, GeneProfiler, which could be considered as open source development. However, the main focus of the paper is on the development of the G-CDM, which is a data standard.
+
+Final category: 1. Open community data standards

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of two novel algorithms for adverse drug effect discovery using electronic patient records. This involves the use of the OMOP dataset for evaluation of these methods. The focus is on the development and evaluation of new methods for data analysis, which aligns with the methodological research category. However, the use of the OMOP dataset and the focus on drug safety signal detection could also suggest a connection to the open community data standards category. Despite this, the main emphasis of the paper is on the development and evaluation of the new algorithms, which is more closely related to methodological research.
+
+Final category: 2. Methodological research

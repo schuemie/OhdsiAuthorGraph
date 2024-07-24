@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of novel network representation learning methods for signal detection in drug safety surveillance. These methods utilize association information between drugs and medical outcomes from the FAERS and ancestral information in medical ontologies. The paper also evaluates these methods using two publicly available reference datasets. This falls under the development and evaluation of new analytic approaches, which is characteristic of methodological research. It does not primarily focus on data standards, software development, or clinical evidence generation.
+
+Final category: 2. Methodological research

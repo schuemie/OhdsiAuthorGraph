@@ -1,0 +1,3 @@
+Discussion: The publication discusses the harmonization of demographic and clinical data from two different diabetes registries to the structure and terminology of the Observational Medical Outcomes Partnership Common Data Model. This involves the use of open community data standards to ensure that the data from different sources can be compared and analyzed effectively. The study then uses this data to compare the clinical and demographic characteristics of diabetes in youth in India and the United States, which falls under the category of clinical evidence generation. While the study does involve the use of data standards, the main focus of the paper is on the generation of clinical evidence.
+
+Final category: 4. Clinical evidence generation

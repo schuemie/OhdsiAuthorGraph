@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a data quality assurance program for disparate data sources loaded into a Common Data Model. It also highlights the data quality issues identified and the resolutions implemented. The paper focuses on the standard processes and tools needed to ensure continuous data quality across a network of disparate databases, and to ensure that procedures used to extract-transform-load (ETL) processes maintain data integrity. This falls under the category of maintaining the OMOP common data model, OHDSI standardized vocabularies, and community conventions for ETL and data quality assessment.
+
+Final category: 1. Open community data standards

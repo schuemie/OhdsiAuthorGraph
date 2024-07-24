@@ -1,0 +1,3 @@
+Discussion: The publication discusses the study of the granularity of concepts within 22 data sources in the OHDSI network and the calculation of a composite granularity score for each dataset. This involves the use of SNOMED-CT hierarchy, which is a standardized vocabulary. The study also involves the reconciliation of differences in patient representations, which is related to data quality assessment. Therefore, the publication could fall under the category of "Open community data standards". However, the publication also involves methodological research as it explores different approaches to calculate the granularity score and evaluates their performance. 
+
+Final category: 2. Methodological research

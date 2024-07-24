@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of PheTK, a tool designed to simplify and efficiently handle large-scale biobank data for phenome-wide association study (PheWAS). The tool supports a full PheWAS workflow including extraction of data from OMOP databases. This suggests that the publication could fall under the category of "Open source development" as it discusses the creation of a software tool. However, it also touches on "Methodological research" as it discusses the use of PheWAS as a method for studying phenotype associations. Despite this, the main focus of the paper seems to be on the development and utility of the PheTK tool, making "Open source development" the most appropriate category.
+
+Final category: 3. Open source development

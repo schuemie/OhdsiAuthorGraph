@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study that uses real-world data to evaluate the clinical and treatment characteristics of pediatric and adult patients with Hidradenitis suppurativa (HS). The study uses administrative claims databases to identify patients and analyze their treatment pathways. This falls under the use of data to generate clinical evidence, particularly in understanding disease treatment utilization. The study does not focus on developing or maintaining data standards, methodological research, or software tool development.
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the representation of clinical concepts in ophthalmic infection and ophthalmic trauma among standardized medical terminologies, including SNOMED-CT, ICD-10-CM, and ICD-11. It involves a systematic concept coverage analysis to determine the extent of semantic alignment in these terminologies. This work is related to the standardization of medical terminologies and the evaluation of their coverage and alignment, which is crucial for maintaining and improving data quality and interoperability in health data sciences. Therefore, it falls under the category of "Open community data standards". 
+
+Final category: 1. Open community data standards

@@ -1,0 +1,3 @@
+Discussion: The publication discusses the evaluation of data quality in healthcare integrated data repositories. It specifically mentions the use of a data quality tool called Achilles Heel and the development of new data quality checks. This falls under the development and maintenance of community conventions for data quality assessment, which is part of the Open community data standards category. However, it also discusses the development of new tools and methods for data quality assessment, which could be seen as part of the Open source development category. Despite this, the main focus seems to be on the standards and methods for data quality assessment rather than the development of the tools themselves.
+
+Final category: 1. Open community data standards

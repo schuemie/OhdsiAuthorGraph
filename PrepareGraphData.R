@@ -64,10 +64,8 @@ pmidToAuthors <- lapply(files, extractAuthorsFromXmlFile)
 pmidToAuthors <- bind_rows(pmidToAuthors)
 pmidToAuthors <- pmidToAuthors %>%
   distinct()
-saveRDS(pmidToAuthors, "intermediaryData/pmidToAuthors.rds")
 
 # Normalize authors and merge --------------------------------------------------
-pmidToAuthors <- readRDS("intermediaryData/pmidToAuthors.rds")
 pmidToAuthors <- pmidToAuthors %>%
   mutate(firstInitial = substr(initials, 1, 1)) %>%
   mutate(printName = paste(lastName, firstInitial, sep = ", ")) %>%
@@ -88,6 +86,10 @@ pmidToPrintName <- pmidToAuthors %>%
                select(normAuthor, printName),
              by = "normAuthor") %>%
   select(pmid, printName)
+saveRDS(pmidToPrintName, "intermediaryData/pmidToAuthors.rds")
+
+# Convert to nodes and links ---------------------------------------------------
+pmidToPrintName <- readRDS("intermediaryData/pmidToAuthors.rds")
 
 links <- inner_join(
   pmidToPrintName %>%

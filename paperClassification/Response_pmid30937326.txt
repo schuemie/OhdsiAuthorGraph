@@ -1,0 +1,3 @@
+Discussion: The publication discusses the evolution of common health care data models and their impact on collaborative research across various organizations. It also emphasizes the importance of understanding the history and ecosystem of these data models to evaluate their utility in different research contexts. This aligns with the first category, "Open community data standards," as it involves the maintenance and understanding of the OMOP common data model and other standardized vocabularies. However, it does not seem to focus on methodological research, open-source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

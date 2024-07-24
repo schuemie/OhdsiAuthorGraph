@@ -1,0 +1,3 @@
+Discussion: The publication discusses the application of similarity-based modeling techniques to enhance the detection of adverse drug events (ADEs) in healthcare databases. This involves the use of molecular structure, ADE, target, and ATC similarity measures to improve the precision of ADE detection. This research is focused on improving methods for signal detection in pharmacovigilance, which falls under the development and evaluation of analytic approaches. Therefore, it aligns with the category of methodological research. It does not directly involve the maintenance of data standards, the creation of software tools, or the conduction of network studies to test clinical hypotheses.
+
+Final category: 2. Methodological research

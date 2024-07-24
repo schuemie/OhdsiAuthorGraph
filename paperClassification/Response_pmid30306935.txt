@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of the BMI Investigator, a computer human interface that allows simultaneous query of structured and unstructured data. It uses various coding systems including RxNorm, LOINC, and SNOMED CT, and stores data in the OMOP/OHDSI format. The tool also allows for the development of models for cohort selection and automated retrospective research. This falls under the development of software tools, but it also involves the use of OHDSI's data standards. However, the main focus of the paper is on the development and usability of the software tool, rather than the data standards themselves.
+
+Final category: 3. Open source development

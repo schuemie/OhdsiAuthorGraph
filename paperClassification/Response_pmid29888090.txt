@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of the OMOP Common Data Model to standardize the representations for both criteria concepts and EHR data elements in the context of clinical research eligibility screening. It identifies gaps in the data available in EHRs for this purpose, particularly in the Alzheimer's disease domain. This work involves the use of OHDSI's data standards and vocabularies, which suggests it falls under the category of open community data standards. However, it also involves the generation of clinical evidence to identify data gaps, which suggests it could also fall under the category of clinical evidence generation. 
+
+Final category: 1. Open community data standards

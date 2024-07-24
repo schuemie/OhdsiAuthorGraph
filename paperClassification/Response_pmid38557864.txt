@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study that uses the Observational Medical Outcomes Partnership Common Data Model to examine the rate and factors associated with neurodiagnostic studies and comprehensive evaluation among patients with drug-resistant epilepsy. The study also identifies gaps in the use of diagnostic studies to evaluate patients with DRE. This publication seems to be a mix of categories 1 and 4. It uses the OMOP common data model, which falls under category 1, and it also conducts a network study to test clinical hypotheses and produce evidence, which falls under category 4. However, the main focus of the study is on generating clinical evidence, making category 4 the most appropriate.
+
+Final category: 4. Clinical evidence generation

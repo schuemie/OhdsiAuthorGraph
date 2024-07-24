@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development and application of the Medical Imaging Common Data Model, which is designed to standardize medical imaging data and integrate it with structured clinical data. This falls under the scope of maintaining the OMOP common data model and OHDSI standardized vocabularies, which is part of the "Open community data standards" category. However, the publication also discusses the use of this standardization to advance AI research in radiology, which could be seen as part of the "Methodological research" category. Despite this, the main focus of the publication is on the standardization of data, which is a key aspect of the "Open community data standards" category.
+
+Final category: 1. Open community data standards

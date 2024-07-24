@@ -1,0 +1,3 @@
+Discussion: The publication discusses the conversion of clinical document architecture (CDA) documents to the common data model (CDM) to facilitate health information exchange data availability for longitudinal data analysis. It also discusses the evaluation of the quality of CDM data. This falls under the first category of maintaining the OMOP common data model, OHDSI standardized vocabularies, and community conventions for extract-transform-load (ETL) and data quality assessment. The publication does not seem to focus on methodological research, open source development, or clinical evidence generation.
+
+Final category: 1. Open community data standards

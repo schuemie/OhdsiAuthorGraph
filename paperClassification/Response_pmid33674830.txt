@@ -1,0 +1,3 @@
+Discussion: The publication discusses the development of a tool, COVID-19 SignSym, which extracts COVID-19 signs and symptoms from clinical text and maps the information to the OMOP common data model. This tool is designed to accelerate COVID-19 clinical research. The development of this tool involves the use of the OMOP common data model, which falls under the category of Open community data standards. However, the main focus of the paper is on the creation of a software tool, which is more aligned with the Open source development category. The tool is designed to enable consistent and reproducible processes in the extraction and normalization of COVID-19 signs and symptoms from clinical text. 
+
+Final category: 3. Open source development

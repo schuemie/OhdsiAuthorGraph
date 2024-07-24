@@ -1,0 +1,3 @@
+Discussion: The publication seems to be comparing different common data models and their implications for active drug safety surveillance. This suggests that the publication is focused on evaluating and comparing different methodologies for data modeling and analysis in the context of drug safety. Therefore, it seems to align with the "Methodological research" category. However, it could also potentially fall under the "Open community data standards" category, as it discusses common data models, which are a key part of data standards. But since the main focus appears to be on the comparative assessment (i.e., evaluation) of these models, the "Methodological research" category seems more appropriate.
+
+Final category: 2. Methodological research

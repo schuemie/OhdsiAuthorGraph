@@ -1,0 +1,3 @@
+Discussion: This publication discusses the development of a data quality assessment system based on the OMOP CDM, which falls under the category of Open community data standards. The paper also discusses the creation of advanced evaluation rules and the verification of data quality in six hospitals, which could potentially fall under the category of Clinical evidence generation. However, the main focus of the paper is on the development and application of the data quality assessment system, which is more closely related to the Open community data standards category.
+
+Final category: 1. Open community data standards

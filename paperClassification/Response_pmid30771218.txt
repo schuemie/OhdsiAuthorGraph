@@ -1,0 +1,3 @@
+Discussion: The publication is a study investigating the role of radiotherapy in the management of EGFR- or ALK-mutated metastatic non-small cell lung cancer treated with TKI. The study involves the analysis of clinical data of patients and the evaluation of overall survival and toxicities as endpoints. This falls under the category of clinical evidence generation as it involves conducting a study to test clinical hypotheses and produce evidence. It does not involve the development or evaluation of analytic approaches (methodological research), the creation of software tools (open source development), or the maintenance of data standards (open community data standards).
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication discusses a new methodology that combines adverse drug reaction (ADR) signals from spontaneous reporting systems and observational healthcare data. The aim is to improve the accuracy of ADR detection. This involves the development and evaluation of a new analytic approach, which falls under the category of methodological research. However, the study also involves the use of observational healthcare data and electronic health records, which could be seen as relating to open community data standards. Despite this, the main focus of the paper is on the development and evaluation of the new method, rather than on the data standards themselves.
+
+Final category: 2. Methodological research

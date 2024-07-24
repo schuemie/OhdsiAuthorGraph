@@ -1,0 +1,3 @@
+Discussion: The publication discusses a retrospective, observational cohort study that was conducted using the Health Insurance Review and Assessment-National Patient Samples database, which was converted to the standardized Observational Medical Outcomes Partnership-Common Data Model. The study evaluated the real-world use of colonoscopy in older populations in Korea. This study falls under the category of clinical evidence generation as it conducts a network study to produce evidence characterizing disease natural history and treatment utilization. It does not focus on the development of data standards, methodological research, or open-source development.
+
+Final category: 4. Clinical evidence generation

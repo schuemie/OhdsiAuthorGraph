@@ -1,0 +1,3 @@
+Discussion: The publication discusses a retrospective cohort study conducted using the OMOP Common Data Model (CDM) to evaluate the patient-centered economic burden of exudative age-related macular degeneration (AMD). The study involves the use of the OMOP CDM to gather and analyze data, which aligns with the first category of open community data standards. However, the main focus of the study is to generate clinical evidence about the economic burden of exudative AMD, which falls under the fourth category of clinical evidence generation. The study does not seem to involve the development of new analytic approaches or software tools, so the second and third categories are less applicable.
+
+Final category: 4. Clinical evidence generation

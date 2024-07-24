@@ -1,0 +1,3 @@
+Discussion: The publication discusses the use of Clinical Quality Language (CQL) for EHR-driven phenotyping. It focuses on the development and evaluation of a CQL execution engine integrated with the OHDSI platform, and its ability to generate consistent results across different data platforms. This falls under the development of tools and methods to improve data analysis and interpretation, which is a characteristic of both methodological research and open source development. However, the emphasis on creating a tool (the CQL execution engine) that enables consistent and reproducible processes in data analysis leans more towards open source development.
+
+Final category: 3. Open source development

@@ -1,0 +1,3 @@
+Discussion: This publication discusses the privacy risks associated with personal health identifiers and quasi-identifiers in a distributed research network. It focuses on the evaluation and quantification of these risks, particularly in the context of a common data model (CDM). The study also proposes a quality measurement index for deidentification in multi-institutional collaboration research. While the study does touch upon the use of a common data model, which is related to open community data standards, the primary focus is on the methodological approach to evaluating and mitigating privacy risks. Therefore, it aligns more closely with the category of methodological research.
+
+Final category: 2. Methodological research

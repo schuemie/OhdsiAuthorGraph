@@ -1,0 +1,3 @@
+Discussion: This publication is a retrospective, multi-center cohort study that investigates the association between serum vitamin D levels and the incidence of temporomandibular disorders. The study uses clinical data from electronic health records of six hospitals, which were converted to the Observational Medical Outcomes Partnership Common Data Model. This suggests that the study involves open community data standards. However, the main focus of the study is to generate clinical evidence about the relationship between vitamin D deficiency and temporomandibular disorders. Therefore, the study primarily falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication discusses a study that compares the prevalence of diabetic ketoacidosis (DKA) at diagnosis among individuals with type 1 and type 2 diabetes from two different registries. The data from these registries were harmonized to the structure and terminology in the Observational Medical Outcome Partnership Common Data Model. This suggests that the study involves the use of open community data standards. However, the main focus of the study is on generating clinical evidence about the prevalence of DKA at diagnosis among youth with type 1 and type 2 diabetes in the United States and India. Therefore, the study also falls under the category of clinical evidence generation.
+
+Final category: 4. Clinical evidence generation

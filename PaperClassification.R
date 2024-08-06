@@ -136,6 +136,7 @@ readr::write_csv(results, file.path(folder, "PaperClassifications.csv"))
 
 # Join to authors --------------------------------------------------------------
 library(tidyr)
+library(dplyr)
 classifications <- readr::read_csv(file.path(folder, "PaperClassifications.csv"), show_col_types = FALSE)
 pmidToAuthors <- readRDS("intermediaryData/pmidToAuthors.rds")
 
@@ -146,11 +147,12 @@ authorClassification <- classifications %>%
   mutate(value = 1) %>%
   select(author = printName, category, value) %>%
   group_by(author, category) %>%
-  summarize(value = sum(value, na.rm = TRUE)) %>%
+  summarize(value = sum(value, na.rm = TRUE), .groups = "drop") %>%
   pivot_wider(names_from = category, values_from = value, values_fill = 0) %>%
   ungroup() %>%
-  mutate(total = rowSums(across(2:5))) %>%
-  arrange(desc(total))
+  mutate(paperCount = rowSums(across(2:5))) %>%
+  arrange(desc(paperCount))
+readr::write_csv(authorClassification, file.path(folder, "AuthorClassifications.csv"))
 
 
 # Try color plotting -----------------------------------------------------------

@@ -3,11 +3,13 @@ OhdsiAuthorGraph
 
 Code for visualizing the network of OHDSI authors. Nodes represent authors, links represent co-authorships.
 
-This repo contains the code for preparing the data for visualization. There are two ways to do the visualization:
+This repo contains the code for preparing the data for visualization. There are three ways to do the visualization:
 
 1. Using [Cytoscape](https://cytoscape.org/). Cytoscape is an open source software platform for visualizing complex networks.
 
 2. Using JavaScript embedded in a web page. This uses the [D3 JavaScript library](https://d3js.org/).
+
+3. Using Python matplotlib (preferred).
 
 ## How to use
 
@@ -15,7 +17,7 @@ This repo contains the code for preparing the data for visualization. There are 
 
 2. Run [PrepareGraphData.R](PrepareGraphData.R).
 
-3. Either view the results in the provided HTML page (see [docs](docs) folder), or load the `.tsv` files in the [cytoscape](cytoscape) folder in Cytoscape.
+3. Either view the results in the provided HTML page (see [docs](docs) folder), load the `.tsv` files in the [cytoscape](cytoscape) folder in Cytoscape, or proceed to instructions for matplotlib (below).
 
 
 ## Cytoscape instructions
@@ -61,4 +63,13 @@ Next, move nodes manually to fill screen and avoid label overlap (may take a whi
 
 File --> Export --> Network to image
 
+
+# Matplotlib instructions
+
+The Matplotlib code colors authors by the type of papers they publish. For this, we need to first classify their papers by type, for which we use LLMs:
+
+1. Run ExtractPubAbstractTitle.R. This will save the titles and abstracts as XML in the `intermediaryData` folder.
+2. Run PaperClassification.R. This requires access to an LLM like GPT-4. This will write the classifications to the `paperClassification` folder.
+3. Run matplotlib/PlotAuthorGraph.py. Make sure to run the pickle files (`positionsSpringForce.pkl` and `positionsNoOverlap.pkl`) first. These are caches from a previous run.
+4. In some image editor (e.g. Gimp), combine the plot (`matplotlib/plot.png`) with the legend (`matplotlib/legend.png`).
 

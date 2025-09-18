@@ -71,7 +71,7 @@ if os.path.exists(POS_NO_OVERLAP_FILE):
     with open(POS_NO_OVERLAP_FILE, "rb") as file:
         positions = pickle.load(file)
 else:
-    positions = avoid_overlap(g, positions)
+    positions = avoid_overlap(g, positions, max_iterations=1000)
     with open(POS_NO_OVERLAP_FILE, "wb") as file:
         pickle.dump(positions, file)
 

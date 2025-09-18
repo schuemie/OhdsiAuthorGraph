@@ -1,0 +1,3 @@
+Discussion: This publication focuses on evaluating a stacking ensemble method to improve model transportability across databases. The study involves methodological research to assess the effectiveness of combining multiple base learners and its impact on external validation. The emphasis is on developing and empirically evaluating analytic approaches, which aligns with the goals of determining scientific best practices in statistics and informatics. While the study indirectly contributes to clinical evidence generation by improving predictive modeling, its primary focus is on the methodology behind the model transportability rather than generating clinical evidence directly.
+
+Final category: 2. Methodological research

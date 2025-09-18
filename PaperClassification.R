@@ -98,7 +98,7 @@ results <- tibble(
 responseFile = responseFiles[1]
 for (i in seq_along(responseFiles)) {
   responseFile <- responseFiles[i]
-  response <- paste(readLines(file.path(folder, responseFile)), collapse = "\n")
+  response <- paste(readLines(file.path(folder, responseFile), encoding = "latin1"), collapse = "\n")
   category <- gsub("^.*Final category", "", response)
   number <- str_extract(category, "\\d")
   if (is.na(category)) {
@@ -185,14 +185,13 @@ rybToRgb <- function(r, y, b) {
   RGB   = rgb(red=R.rgb, green=G.rgb, blue=B.rgb)
   return(RGB)
 }
-debug(rybToRgb)
 
 authorColors <- authorClassification %>%
   mutate(
     color = rgb(
-      `Open community data standards`/total,
-      `Clinical evidence generation`/total,
-      (`Open source development` + `Methodological research`)/total
+      `Open community data standards`/paperCount,
+      `Clinical evidence generation`/paperCount,
+      (`Open source development` + `Methodological research`)/paperCount
     ),
     rn = row_number())
 

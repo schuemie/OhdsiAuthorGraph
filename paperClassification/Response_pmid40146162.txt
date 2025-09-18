@@ -1,0 +1,3 @@
+Discussion: The title of the publication, "The OHDSI Network in Ophthalmology—The Promise of Observational Health Data," suggests that the article focuses on leveraging observational health data within the OHDSI network to address ophthalmology-related research questions. This likely involves generating clinical evidence about disease natural history, treatment utilization, or outcomes in ophthalmology. While the publication could touch on aspects of data standards, methodological research, or open-source development as part of the broader OHDSI framework, the emphasis appears to be on applying the network's capabilities to produce clinical evidence specific to ophthalmology.
+
+Final category: 4. **Clinical evidence generation**

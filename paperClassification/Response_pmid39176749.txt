@@ -1,0 +1,6 @@
+**Discussion:**  
+The publication focuses on the process of transforming clinical data stored in entity-attribute-value (EAV) data models into the OMOP Common Data Model (CDM). This transformation is a critical step in ensuring that data can be standardized and used effectively within the OHDSI ecosystem. The paper discusses lessons learned from this process and provides insights into the challenges and strategies for performing such transformations. This aligns closely with the activities of maintaining and applying the OMOP CDM, as well as establishing conventions for extract-transform-load (ETL) processes and data quality assessment. These activities fall under the category of **Open community data standards**, which is focused on ensuring that data is standardized and interoperable within the OHDSI framework.
+
+While the paper may touch on methodological aspects (e.g., transformation functions) or software tools used in the ETL process, its primary focus is on the practical application and lessons learned in converting data to the OMOP CDM, which is central to the open community data standards category.
+
+**Final category:** 1. **Open community data standards**

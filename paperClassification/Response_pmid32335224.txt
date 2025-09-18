@@ -1,0 +1,6 @@
+**Discussion:**  
+The publication titled "Deep phenotyping: Embracing complexity and temporality-Towards scalability, portability, and interoperability" appears to focus on the concept of deep phenotyping, which involves detailed characterization of patient data, including temporal aspects and complex relationships. The emphasis on scalability, portability, and interoperability suggests that the work may involve methodological advancements or standards for data representation and analysis. If the publication discusses how to standardize data or improve interoperability using the OMOP common data model or OHDSI vocabularies, it could fall under **Open community data standards**. Alternatively, if the focus is on developing new analytic approaches or evaluating methods for deep phenotyping, it would align with **Methodological research**. If the publication describes software tools or frameworks to enable deep phenotyping, it could belong to **Open source development**. Finally, if the study uses deep phenotyping to generate clinical evidence, it might fit into **Clinical evidence generation**.
+
+Given the title and journal, the publication likely emphasizes methodological advancements or frameworks for deep phenotyping, which aligns most closely with **Methodological research**.
+
+**Final category:** 2. Methodological research

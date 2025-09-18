@@ -1,0 +1,3 @@
+Discussion: The publication focuses on mapping national vocabularies to international standards using OHDSI Standardized Vocabularies, which are integral to the OMOP Common Data Model (CDM). It emphasizes semantic interoperability and provides guidelines for vocabulary mapping to support the ETL process. This aligns closely with the activities of maintaining and enhancing the OHDSI standardized vocabularies and conventions for data transformation and quality assessment. While the work indirectly supports clinical evidence generation by enabling international observational studies, its primary focus is on the foundational data standards and processes that underpin such studies.
+
+Final category: **1. Open community data standards**

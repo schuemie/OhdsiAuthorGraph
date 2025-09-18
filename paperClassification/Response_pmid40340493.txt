@@ -1,0 +1,3 @@
+Discussion: This publication focuses on generating clinical evidence by analyzing primary care records to evaluate the burden of hand trauma surgery in terms of antibiotic and opioid prescriptions. The study uses a large cohort to characterize disease natural history (post-surgical infection rates and pain management) and treatment utilization (antibiotic and opioid prescriptions). The findings aim to inform clinical practice and guide future research in hand trauma surgery. This aligns most closely with the **Clinical evidence generation** category, as the study is centered on producing evidence related to treatment outcomes and adverse events.
+
+Final category: 4. Clinical evidence generation

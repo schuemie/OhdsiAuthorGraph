@@ -1,0 +1,3 @@
+Discussion: The publication focuses on electronic health record (EHR) phenotyping, emphasizing the importance of fidelity in terms of richness and freedom from bias. It discusses methodological advancements, such as temporal directions, abstract representations, deep learning, nonlinear dynamics, and combining mechanistic models with empirical data. The emphasis on studying bias explicitly and improving representations suggests a focus on developing and evaluating analytic approaches to improve scientific best practices in informatics and epidemiology. This aligns closely with the goals of methodological research within the OHDSI community.
+
+Final category: 2. **Methodological research**

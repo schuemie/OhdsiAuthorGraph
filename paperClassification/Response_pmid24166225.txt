@@ -1,0 +1,5 @@
+Discussion: This publication focuses on evaluating the empirical performance of the case-control method in the context of drug safety analysis using large-scale observational healthcare data. The study involves assessing the operating characteristics of the method, including its predictive accuracy, bias, and confidence interval properties, across multiple databases and simulated datasets. The primary goal is to determine the suitability of the case-control method for risk identification and analysis in drug safety. This aligns closely with **methodological research**, as the study seeks to empirically evaluate and understand the strengths and limitations of a specific analytic approach (case-control method) in epidemiology and statistics.
+
+While the study indirectly contributes to clinical evidence generation by addressing drug safety, its focus is not on generating clinical evidence or testing specific clinical hypotheses. Instead, it is centered on evaluating the methodology itself. Therefore, the most appropriate category is **methodological research**.
+
+Final category: 2

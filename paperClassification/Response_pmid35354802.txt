@@ -1,0 +1,5 @@
+Discussion: This publication focuses on developing a novel algorithm, DLMM, for distributed linear mixed models that enables collaborative multi-site analyses without sharing individual patient data. The emphasis is on the methodological innovation of achieving lossless results while adhering to privacy regulations. The study demonstrates the algorithm's application in a real-world healthcare context, but the primary contribution lies in the development and evaluation of the algorithm itself. This aligns closely with the goals of **Methodological research**, as it involves creating and empirically validating an analytic approach to address challenges in multi-site data analysis.
+
+While the study uses the algorithm to generate clinical evidence, the focus is not primarily on the evidence generation but rather on the methodology enabling such studies. Therefore, the most appropriate category is **Methodological research**.
+
+Final category: 2

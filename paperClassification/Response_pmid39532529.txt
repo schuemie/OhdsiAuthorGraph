@@ -1,0 +1,10 @@
+**Discussion:**  
+This publication focuses on creating a reproducible framework for generating disease phenotypes using real-world data mapped to the OMOP Common Data Model. It describes a structured 14-step phenotyping process, the use of bespoke R packages for codelist generation and cohort creation, and diagnostic checks to validate the cohorts. The emphasis on phenotyping methods and tools suggests a focus on methodological rigor and reproducibility in observational studies. Additionally, the use of OMOP-mapped databases and standardized processes aligns with OHDSI's goals of ensuring consistency and reliability in evidence generation.
+
+The publication could potentially fall into two categories:  
+1. **Methodological research**: The paper outlines a structured framework for phenotyping, which involves developing and evaluating analytic approaches to ensure scientific best practices. The focus on reproducibility and traceability aligns with methodological research.  
+2. **Clinical evidence generation**: The study generates cohorts for pancreatic cancer and systemic lupus erythematosus, performs diagnostic checks, and compares findings to published literature, which contributes to evidence generation.  
+
+However, the primary focus of the publication is on the development and application of a reproducible phenotyping framework, rather than directly testing clinical hypotheses or estimating treatment effects. This aligns more closely with **methodological research**, as the paper emphasizes the process and tools for reliable phenotype generation rather than the clinical insights derived from the cohorts.
+
+**Final category:** 2. **Methodological research**

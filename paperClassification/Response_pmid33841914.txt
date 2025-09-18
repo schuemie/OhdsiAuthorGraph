@@ -1,0 +1,3 @@
+Discussion: The publication discusses the need for an academic discipline focused on medical device science, emphasizing the importance of systematic evaluation, methodology development, and comprehensive assessment of medical devices. This aligns with the goals of methodological research, as it seeks to develop and evaluate analytic approaches for assessing medical devices rigorously. While the article does not directly involve clinical evidence generation, open source development, or community data standards, its focus on improving evaluation methods and establishing best practices in the medical device sector strongly suggests it falls under the category of methodological research.
+
+Final category: 2. Methodological research

@@ -1,0 +1,5 @@
+Discussion: This publication focuses on generating clinical evidence by conducting a retrospective cohort study to explore racial/ethnic differences in post-acute sequelae of SARS-CoV-2 infection (PASC) among children and adolescents. The study uses real-world data to characterize disease natural history and treatment outcomes, specifically examining how symptoms and conditions vary across racial/ethnic groups and severity of illness. This aligns with the **Clinical evidence generation** category, as the primary goal is to produce evidence related to disease progression and outcomes in a specific population.
+
+While the study may indirectly rely on standardized data models or analytic methods, its primary focus is not on developing data standards, methodological research, or open-source tools. Instead, it is centered on answering clinical questions and generating insights about COVID-19's long-term effects in pediatric populations.
+
+Final category: 4. Clinical evidence generation

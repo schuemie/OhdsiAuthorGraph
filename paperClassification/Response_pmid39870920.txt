@@ -1,0 +1,5 @@
+Discussion: This publication focuses on benchmarking a method for estimating external model performance using limited statistical characteristics, which is a methodological approach to address challenges in predictive modeling and external validation. The study evaluates the feasibility and accuracy of the proposed method across multiple data sources, emphasizing the development and empirical evaluation of analytic approaches. This aligns closely with the goals of methodological research within the OHDSI community, as it seeks to establish scientific best practices in statistics and informatics.
+
+While the study indirectly supports clinical evidence generation by improving model deployment processes, its primary focus is on the methodological aspect of validating predictive models. It does not directly involve conducting network studies or generating clinical evidence. Similarly, the study does not pertain to open community data standards or open source development, as it does not involve maintaining data standards or creating software tools.
+
+Final category: 2. **Methodological research**

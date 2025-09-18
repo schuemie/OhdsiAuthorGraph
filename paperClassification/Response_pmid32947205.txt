@@ -1,0 +1,3 @@
+Discussion: This publication focuses on generating clinical evidence by analyzing trends in antipsychotic medication use across multiple countries using the OHDSI common data model. The study examines incidence, prevalence, and prescription patterns of antipsychotic medications, providing insights into treatment utilization and variations in clinical practice across nations. The use of the common data model facilitates standardized data analysis, but the primary focus is on producing evidence related to disease treatment and medication usage patterns. This aligns most closely with the **Clinical evidence generation** category, as the study aims to characterize treatment utilization and trends in prescribing practices.
+
+Final category: 4. Clinical evidence generation

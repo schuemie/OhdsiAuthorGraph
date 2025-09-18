@@ -1,0 +1,6 @@
+**Discussion:**  
+The publication focuses on expanding the OMOP Common Data Model (CDM) to support perinatal research, including the development of new tables and variables for pregnancy and infant data. This work involves creating a structured approach to capture perinatal data within the OMOP-CDM framework, ensuring interoperability with existing tables, and enabling network studies. The development of a diagnostics package for quality control further supports the implementation and assessment of the expansion.  
+
+Given the focus on enhancing the OMOP-CDM to accommodate perinatal research, this publication aligns most closely with the **Open community data standards** category. The work involves maintaining and extending the OMOP-CDM, adhering to its ontological framework principles, and ensuring standardized vocabularies and conventions for data quality assessment. While the publication also facilitates clinical evidence generation by enabling future network studies, its primary contribution is the development and implementation of a standardized data model expansion.  
+
+**Final category:** 1. **Open community data standards**

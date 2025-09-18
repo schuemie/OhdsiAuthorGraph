@@ -1,0 +1,3 @@
+Discussion: This publication focuses on generating clinical evidence regarding the real-world use of finerenone in people with chronic kidney disease and type 2 diabetes in Japan. The study uses retrospective cohort data from two hospital-based databases converted to the OMOP common data model to assess baseline characteristics and the occurrence of hyperkalemia after finerenone initiation. The primary goal is to characterize the clinical use of finerenone and provide early evidence on its safety and utilization in real-world settings. This aligns most closely with the **Clinical evidence generation** category, as the study aims to produce evidence about treatment utilization and outcomes in a specific patient population.
+
+Final category: 4. Clinical evidence generation

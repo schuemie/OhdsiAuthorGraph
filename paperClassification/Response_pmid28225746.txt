@@ -1,0 +1,3 @@
+Discussion: This publication investigates the risk of falls and fractures among older adults receiving atypical antipsychotics, using an emulation analysis and evaluating alternative confounding control strategies. The study focuses on generating clinical evidence by analyzing real-world data to test hypotheses about the safety of atypical antipsychotics and their association with adverse outcomes. While the study incorporates methodological aspects, such as confounding control strategies, its primary focus is on clinical evidence generation, as it aims to characterize the effects of a medical intervention (atypical antipsychotics) on specific outcomes (falls and fractures).
+
+Final category: 4. **Clinical evidence generation**

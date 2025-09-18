@@ -1,0 +1,5 @@
+Discussion: This publication focuses on the development and evaluation of methods for de-identifying clinical notes using a combination of rule-based approaches and machine learning techniques. The study leverages the OMOP Common Data Model to access and process clinical notes, but the primary focus is on methodological innovation in de-identification strategies, including the use of regular expressions and fine-tuning a pre-trained BERT model. The emphasis on improving performance through semi-supervised learning and validation aligns with the goals of methodological research, which seeks to advance analytic approaches and establish best practices in informatics and data processing.
+
+While the study uses data stored in the OMOP Common Data Model, it does not primarily contribute to the development or maintenance of open community data standards. Similarly, it does not focus on creating open-source software tools or generating clinical evidence through network studies. Instead, the publication is centered on methodological research to improve de-identification techniques.
+
+Final category: 2. Methodological research

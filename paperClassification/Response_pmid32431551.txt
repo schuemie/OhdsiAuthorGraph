@@ -1,0 +1,5 @@
+Discussion: This publication focuses on evaluating the effectiveness of a risk minimization measure (a Direct Healthcare Professional Communication, DHPC) in reducing the prescribing of mirabegron to patients with severe uncontrolled hypertension. The study uses observational multi-database cohort data and employs interrupted time series analyses to assess trends and changes in prescribing behavior. The primary goal is to generate clinical evidence about the impact of the DHPC on prescribing practices and patient safety. This aligns with the **Clinical evidence generation** category, as the study aims to produce evidence related to treatment utilization and safety surveillance.
+
+While the study involves methodological aspects (e.g., interrupted time series analyses), the primary focus is on generating evidence about the clinical impact of the DHPC intervention, rather than developing or evaluating new analytic methods. Additionally, the study does not involve open community data standards or open source software development.
+
+Final category: 4. **Clinical evidence generation**

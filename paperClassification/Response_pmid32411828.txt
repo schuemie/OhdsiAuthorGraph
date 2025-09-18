@@ -1,0 +1,3 @@
+Discussion: This publication focuses on comparing randomized controlled trial (RCT) populations with real-world populations derived from electronic health records, highlighting discrepancies and concerns about generalizability. The study investigates methodological aspects of how eligibility criteria in RCTs may fail to capture the appropriate real-world population, which is a critical issue in epidemiology and evidence translation. The focus on heterogeneity of treatment effect (HTE) and the evaluation of RCT eligibility criteria aligns with methodological research, as it seeks to improve scientific best practices in understanding and bridging the gap between controlled trial settings and real-world applications.
+
+Final category: 2. **Methodological research**

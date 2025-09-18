@@ -1,0 +1,3 @@
+Discussion: This publication focuses on developing a distributed algorithm for integrating heterogeneous real-world data (RWD) across multiple clinical sites while addressing privacy concerns. The emphasis is on methodological innovation, specifically the creation and evaluation of the distributed conditional logistic regression (dCLR) algorithm. The study includes simulations and real-world applications to demonstrate the algorithm's effectiveness in handling data heterogeneity and improving estimation. While the work indirectly supports clinical evidence generation by enabling multi-site analyses, its primary contribution lies in advancing analytic methods for distributed learning and statistical modeling.
+
+Final category: **Methodological research**

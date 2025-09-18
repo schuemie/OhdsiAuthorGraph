@@ -1,0 +1,4 @@
+Discussion:  
+The publication focuses on extending the self-controlled case series (SCCS) method for analyzing large-scale longitudinal observational databases (LODs) in the context of postmarketing drug safety surveillance. It introduces a regularized multiple SCCS approach to address challenges such as confounding, high dimensionality, and computational efficiency. The emphasis is on developing and empirically evaluating a statistical method to improve the accuracy and scalability of analyses in observational data. This aligns closely with the goals of methodological research, which involves creating and assessing analytic approaches to establish scientific best practices in statistics and epidemiology. While the work may indirectly contribute to clinical evidence generation by enabling better analyses of drug safety, its primary focus is on the methodological innovation itself.
+
+Final category: **2. Methodological research**

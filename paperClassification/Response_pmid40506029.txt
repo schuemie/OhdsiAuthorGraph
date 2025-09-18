@@ -1,0 +1,4 @@
+**Discussion:**  
+The publication titled "Secondary Cancer Risk in Breast Cancer with and without Radiotherapy: The Observational Health Data Sciences and Informatics (OHDSI) Cohort Study" focuses on generating clinical evidence by analyzing observational data from the OHDSI network. The study uses a retrospective comparative cohort design and propensity score matching to evaluate the risk of secondary cancer in breast cancer patients who received radiotherapy versus those who did not. This type of research aligns with the **Clinical evidence generation** category, as it involves testing a clinical hypothesis (the impact of radiotherapy on secondary cancer risk) and producing evidence related to treatment outcomes and safety surveillance. The study does not focus on developing new methodologies, software tools, or data standards, which would align it with other categories.
+
+**Final category:** 4. Clinical evidence generation

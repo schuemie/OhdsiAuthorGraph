@@ -1,0 +1,6 @@
+**Discussion:**  
+This publication focuses on evaluating the clinical outcomes of COVID-19 patients who were prescribed renin-angiotensin-aldosterone system (RAAS) inhibitors compared to those prescribed other antihypertensive drugs. The study uses real-world data from insurance claims in Korea to conduct a retrospective observational cohort analysis, employing methods such as propensity-score matching to assess the association between RAAS inhibitor use and outcomes like all-cause mortality and ventilator care. The primary goal of the study is to generate evidence about the safety and effects of RAAS inhibitors in COVID-19 patients, which directly aligns with the goal of clinical evidence generation in the OHDSI community.  
+
+While the study may involve methodological aspects (e.g., propensity-score matching) and relies on standardized data (potentially OMOP CDM), its primary focus is on producing clinical evidence to inform treatment decisions during the COVID-19 pandemic. Therefore, the most appropriate category is **Clinical evidence generation**.
+
+**Final category:** 4. Clinical evidence generation

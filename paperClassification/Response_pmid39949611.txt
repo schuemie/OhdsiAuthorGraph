@@ -1,0 +1,6 @@
+**Discussion:**  
+This publication focuses on harmonizing COVID-19 sero-surveillance data from the Nairobi Urban Health and Demographic Surveillance System into the OMOP Common Data Model (CDM). The study demonstrates the process of mapping observational health data to the OMOP CDM using OHDSI tools and designing an extract-transform-load (ETL) process. The primary emphasis is on the application of the OMOP CDM to standardize data, enabling its use for further analysis and sharing. This aligns closely with the **Open community data standards** category, as it involves maintaining and applying the OMOP CDM and standardized vocabularies, as well as implementing ETL processes to ensure data quality and interoperability.
+
+While the study uses open-source tools (which could relate to **Open source development**) and mentions the potential for analyzing the standardized data (which could relate to **Clinical evidence generation**), the core focus is on the harmonization and standardization of data into the OMOP CDM. Therefore, the most appropriate category is **Open community data standards**.
+
+**Final category:** 1. **Open community data standards**

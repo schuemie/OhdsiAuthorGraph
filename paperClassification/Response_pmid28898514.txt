@@ -1,0 +1,6 @@
+**Discussion:**  
+This publication focuses on generating clinical evidence by conducting a retrospective cohort study to evaluate the risk of lower extremity amputations in patients with type 2 diabetes mellitus treated with SGLT2 inhibitors, specifically canagliflozin, compared to other antihyperglycemic agents. The study uses real-world data from the Truven MarketScan database and employs statistical methods such as propensity score matching and Cox proportional hazards models to analyze the data. The primary goal is to produce evidence about the safety of a specific medical intervention (SGLT2 inhibitors) in a clinical context. This aligns closely with the **Clinical evidence generation** category, as the study aims to characterize treatment utilization and estimate the effects of medical interventions for safety surveillance.
+
+While the study employs methodological approaches (e.g., propensity score matching and negative control calibration), the focus is not on developing or evaluating new methodologies, which would fall under the **Methodological research** category. Similarly, the study does not involve the creation or maintenance of data standards or open-source tools, ruling out the **Open community data standards** and **Open source development** categories.
+
+**Final category:** 4. **Clinical evidence generation**

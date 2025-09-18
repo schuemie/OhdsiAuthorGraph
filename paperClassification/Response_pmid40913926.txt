@@ -1,0 +1,5 @@
+Discussion: This publication focuses on generating clinical evidence by conducting a case-control study to investigate the association between adult congenital heart disease (ACHD) and the prevalence of autoimmune conditions. The study uses a large biomedical database (All of Us) and applies standardized vocabularies (SNOMED, ICD-9-CM, ICD-10-CM) to identify diagnoses and analyze the data. The primary goal is to characterize disease natural history and comorbidities, specifically the risk of autoimmunity in ACHD individuals. This aligns with the **Clinical evidence generation** category, as the study aims to produce evidence about disease associations and outcomes.
+
+While the study uses standardized vocabularies and data from a common data model, its focus is not on developing or maintaining data standards, nor does it involve methodological research or open-source software development. The emphasis is on generating clinical insights and evidence.
+
+Final category: 4. **Clinical evidence generation**

@@ -1,0 +1,5 @@
+Discussion: This publication focuses on the empirical evaluation of methodological approaches for handling patients lost to follow-up when developing prognostic models. It investigates the impact of different strategies on model performance and provides guidelines for best practices. The study involves both synthetic and real-world data to assess the bias and performance implications of various design choices. This aligns closely with the goals of **methodological research**, as it seeks to determine scientific best practices in statistics and informatics for handling a specific challenge in cohort design and prediction modeling.
+
+While the study indirectly contributes to clinical evidence generation by improving the reliability of prognostic models, its primary focus is on evaluating and refining methodological approaches rather than generating clinical evidence itself. It does not involve the creation of open-source tools or data standards, so categories 1 and 3 are not applicable.
+
+Final category: 2. **Methodological research**

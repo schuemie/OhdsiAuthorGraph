@@ -1,0 +1,5 @@
+Discussion: This publication focuses on generating clinical evidence by conducting a multi-cohort observational study to estimate and characterize the imminent fracture risk in high-risk patients with osteoporosis. The study uses real-world data from multiple countries and databases to analyze fracture incidence rates and outcomes. The primary goal is to produce evidence about disease natural history and treatment utilization, specifically related to osteoporotic fractures and bisphosphonate treatment. This aligns closely with the **Clinical evidence generation** category, as the study aims to test clinical hypotheses and provide insights into treatment effects and patient outcomes.
+
+While the study uses standardized data and methods, it does not primarily focus on developing or maintaining data standards, methodological research, or open-source software tools. Instead, its emphasis is on generating actionable clinical evidence through observational research.
+
+Final category: 4. **Clinical evidence generation**

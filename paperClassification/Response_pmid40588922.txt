@@ -1,0 +1,3 @@
+Discussion: The publication focuses on the transformation of electronic health record (EHR) data into the OMOP Common Data Model (CDM), emphasizing the harmonization process and the use of standardized vocabularies. This aligns closely with the activities of maintaining and implementing the OMOP CDM and standardized vocabularies, which are central to the **Open community data standards** category. While the harmonized dataset could potentially be used for clinical evidence generation or predictive modeling in the future, the primary focus of the study is on the ETL process and ensuring compatibility with the OMOP CDM, which is foundational for enabling subsequent analyses.
+
+Final category: 1. **Open community data standards**

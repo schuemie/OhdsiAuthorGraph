@@ -1,0 +1,5 @@
+Discussion: This publication focuses on comparing different statistical methods for propensity score estimation in the context of clustered data, specifically examining random effects modeling versus logistic regression. The study uses Monte Carlo simulations and a registry cohort analysis to evaluate the performance of these methods in terms of bias and mean square error. The emphasis is on methodological evaluation and determining best practices for handling cluster-level covariates in propensity score estimation. This aligns closely with the goals of **Methodological research**, which involves developing and empirically evaluating analytic approaches to establish scientific best practices in statistics and epidemiology.
+
+While the study indirectly contributes to clinical evidence generation by testing methods that could be applied in clinical studies, its primary focus is on the methodological aspect rather than directly generating clinical evidence. It does not involve creating open-source software tools or maintaining data standards, so categories 1 and 3 are not applicable.
+
+Final category: 2. **Methodological research**

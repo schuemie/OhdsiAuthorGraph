@@ -1,0 +1,5 @@
+Discussion: The publication focuses on developing a federated authentication schema to enable Single Sign-On (SSO) across multiple institutions, ensuring secure and efficient user authentication in a collaborative ecosystem. This work involves creating an architecture and validating it within the EHDEN Portal, which is part of a European health project. The emphasis on designing and implementing a technical solution aligns with the creation of software tools and infrastructure to support collaborative processes. This suggests that the publication is most closely related to **open source development**, as it provides a technical framework that can be used by the community to facilitate secure authentication across multiple systems.
+
+While the publication indirectly supports clinical evidence generation by enabling collaboration across institutions, its primary focus is on the technical implementation of authentication mechanisms rather than generating clinical evidence or conducting network studies. It also does not directly address methodological research or open community data standards.
+
+Final category: **3. Open source development**

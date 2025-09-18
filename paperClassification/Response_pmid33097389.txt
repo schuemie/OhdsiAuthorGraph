@@ -1,0 +1,3 @@
+Discussion: This publication focuses on estimating stroke risk among elderly users of different types of antipsychotics using real-world data from a US health insurance claims database. The study employs statistical methods, including propensity score matching and calibrated hazard ratios, to compare stroke risks across cohorts. The primary goal is to generate clinical evidence about the safety and comparative effectiveness of antipsychotic medications in elderly populations. While the study uses methodological approaches, its primary focus is on clinical evidence generation rather than the development of new methodologies or tools, or the maintenance of data standards.
+
+Final category: **4. Clinical evidence generation**

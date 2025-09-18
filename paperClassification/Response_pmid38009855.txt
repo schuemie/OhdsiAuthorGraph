@@ -1,0 +1,3 @@
+Discussion: This publication focuses on analyzing predictors for the use of continuous glucose monitoring (CGM) in older adults with diabetes, using data from the Diabetes Prospective Follow-up Registry (DPV). The study involves generating clinical evidence about CGM utilization trends, predictors, and barriers in older adults with diabetes. It does not focus on developing data standards, methodological research, or open-source software tools. Instead, it aligns with the goal of producing clinical evidence to characterize treatment utilization and understand factors influencing medical intervention adoption. Therefore, the most appropriate category for this publication is **Clinical evidence generation**.
+
+Final category: 4

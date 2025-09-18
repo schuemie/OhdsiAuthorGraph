@@ -1,0 +1,5 @@
+Discussion: This publication focuses on generating clinical evidence by analyzing the association between hydrochlorothiazide use and nonmelanoma skin cancer in an Asian population. The study uses the OMOP common data model and a distributed research network to conduct a retrospective observational study, employing statistical methods such as Cox regression and propensity score matching. The primary goal is to test a clinical hypothesis and produce evidence about the safety of hydrochlorothiazide, specifically its potential link to skin cancer. This aligns with the **Clinical evidence generation** category, as the study aims to characterize treatment effects and safety surveillance.
+
+While the study uses the common data model and statistical methods, its focus is not on developing or evaluating data standards, methodologies, or software tools. Instead, the emphasis is on generating evidence related to a clinical question, which makes the **Clinical evidence generation** category the most appropriate.
+
+Final category: 4. Clinical evidence generation

@@ -1,0 +1,6 @@
+**Discussion:**  
+This publication focuses on evaluating methodological aspects of vaccine safety studies, specifically the impact of index date selection procedures on bias in observational cohort studies. The study investigates how different anchoring methods (arbitrary dates, visit dates, vaccination dates) affect baseline characteristics and covariate proportions in vaccinated and unvaccinated populations. The findings emphasize the importance of methodological rigor in study design to mitigate bias and ensure valid comparisons, particularly in the context of COVID-19 and influenza vaccine safety surveillance.
+
+Given the focus on evaluating and improving analytic approaches to observational study design, this publication aligns most closely with **Methodological research**. It does not primarily involve the development of open community data standards, open-source software tools, or direct clinical evidence generation through network studies. Instead, it contributes to the understanding and refinement of best practices in epidemiological methods for vaccine safety studies.
+
+**Final category:** 2. **Methodological research**

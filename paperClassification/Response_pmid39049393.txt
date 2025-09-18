@@ -1,0 +1,3 @@
+Discussion: The publication focuses on the development and use of common data models, specifically the OMOP common data model, in the context of federated learning in healthcare. It reviews existing approaches and emphasizes the importance of harmonizing electronic health record data for research purposes. This aligns closely with the activities of the OHDSI community related to maintaining and advancing open community data standards, particularly the OMOP common data model. The article does not delve into methodological research, open-source software development, or clinical evidence generation, but rather focuses on the foundational data standardization efforts that enable these other activities.
+
+Final category: 1. **Open community data standards**

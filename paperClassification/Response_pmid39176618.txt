@@ -1,0 +1,5 @@
+Discussion: The publication focuses on the use of health standards, including the OMOP common data model, in various European Health Data Space projects with cancer use cases. It emphasizes the comparison and integration of standardized models, ontologies, and terminologies across projects. This aligns closely with the **Open community data standards** category, as it involves maintaining and promoting the use of standardized data models and vocabularies, which are central to the OHDSI community's efforts in ensuring interoperability and data quality.
+
+While the publication does not directly address methodological research, open-source software development, or clinical evidence generation, it does contribute to the broader goal of harmonizing data standards, which is foundational for enabling other types of research and collaboration within the OHDSI community.
+
+Final category: 1. **Open community data standards**

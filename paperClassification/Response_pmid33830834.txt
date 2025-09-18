@@ -1,0 +1,3 @@
+Discussion: This publication focuses on generating clinical evidence by analyzing observational claims databases to characterize the natural history and outcomes of cardiac amyloidosis, specifically hospitalization and mortality rates within the first year of diagnosis. The study does not involve the development of data standards, methodological research, or open-source software tools. Instead, it is a network study aimed at producing evidence about disease progression and outcomes, which aligns with the **Clinical evidence generation** category. The study's findings contribute to understanding the burden of disease and may inform future research on risk factors and interventions.
+
+Final category: 4. Clinical evidence generation

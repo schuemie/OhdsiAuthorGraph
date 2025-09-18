@@ -1,0 +1,5 @@
+Discussion: The publication focuses on evaluating the impact of database heterogeneity on observational study results, specifically analyzing how the choice of database can influence relative risk estimates in clinical studies. This involves systematically studying methodological aspects of observational research, such as study design and database selection, and assessing their implications for scientific validity and reproducibility. The emphasis on understanding variability across databases and its effect on study outcomes aligns closely with methodological research, as it seeks to empirically evaluate analytic approaches and identify best practices in epidemiology and statistics.
+
+While the study indirectly contributes to clinical evidence generation by analyzing drug-outcome pairs, its primary focus is on methodological evaluation rather than generating new clinical evidence. It does not involve creating open-source tools or maintaining data standards, so categories 1 and 3 are not applicable.
+
+Final category: 2. **Methodological research**

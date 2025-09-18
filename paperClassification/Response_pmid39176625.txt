@@ -1,0 +1,6 @@
+**Discussion:**  
+The publication focuses on the process of mapping real-world data from the Papageorgiou General Hospital's electronic health records to the OMOP Common Data Model (CDM). This involves the Extract-Transform-Load (ETL) process, which is a critical step in ensuring that data conforms to the standardized structure and conventions of the OHDSI community. The paper also discusses the challenges and findings from this mapping process, which aligns closely with the goals of maintaining and implementing the OMOP CDM and ensuring data quality. While the paper mentions future research directions, its primary focus is on the technical and procedural aspects of data standardization and mapping.
+
+Given the emphasis on the OMOP CDM and ETL processes, this publication is most appropriately classified under the **Open community data standards** category, as it contributes to the standardization and quality assessment of real-world data within the OHDSI framework.
+
+**Final category:** 1. Open community data standards

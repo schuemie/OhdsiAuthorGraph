@@ -1,0 +1,5 @@
+Discussion: This publication focuses on comparing disease risk scores (DRS) and propensity scores (PS) across various confounding scenarios using machine learning methods. It involves a simulation study to evaluate the performance of different analytic approaches, including logistic regression, LASSO, multilayer perceptron (MLP), and XgBoost, under varying conditions such as treatment prevalence, outcome risk, and data complexity. The study aims to determine scientific best practices for estimating treatment effects and reducing bias in observational studies. This aligns closely with the goals of **methodological research**, as it empirically evaluates analytic approaches and provides insights into their strengths and limitations in different scenarios.
+
+While the study uses machine learning methods, it does not focus on developing new software tools or generating clinical evidence directly. Instead, it contributes to the understanding of methodological approaches, making **methodological research** the most appropriate category.
+
+Final category: 2. Methodological research

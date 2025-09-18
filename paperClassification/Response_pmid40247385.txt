@@ -1,0 +1,5 @@
+Discussion: This publication investigates the sensitivity of prognostic models developed using observational healthcare data to variations in databases, population phenotypes, and outcome definitions. The study involves a large-scale experiment to evaluate the stability of model performance metrics such as AUROC, Brier score, and calibration. The focus is on understanding methodological best practices for developing and validating predictive models in real-world settings, particularly in the context of observational data. This aligns closely with the goals of **methodological research**, as the study seeks to empirically evaluate analytic approaches and provide insights into best practices for model development and validation.
+
+While the study indirectly contributes to clinical evidence generation by addressing the reliability of prognostic models, its primary emphasis is on the methodology of model development and validation rather than generating specific clinical evidence. It does not focus on creating open-source tools or maintaining data standards, so categories 1 and 3 are not applicable.
+
+Final category: 2. **Methodological research**

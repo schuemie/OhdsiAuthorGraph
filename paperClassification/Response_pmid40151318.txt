@@ -1,0 +1,6 @@
+**Discussion:**  
+The publication focuses on developing a methodology for transforming HL7 Clinical Document Architecture (CDA) documents into the OMOP Common Data Model (CDM). This involves leveraging CDA Template definitions and the CDA Refined Message Information Model (R-MIM) to improve the Extract, Transform, Load (ETL) process. The study also introduces a tool, CDA Rabbit, which facilitates the generation of project files for ETL design and demonstrates its effectiveness through testing and data quality assessment. The emphasis on ETL design, semantic interoperability, and data transformation aligns closely with the goals of maintaining and improving community conventions for ETL and data quality assessment within the OHDSI framework.
+
+While the publication touches on tool development (CDA Rabbit), the primary focus is on the methodology and framework for transforming data into the OMOP CDM, which is a core aspect of ensuring adherence to open community data standards. The work does not primarily focus on methodological research (e.g., evaluating analytic approaches), open-source software development (e.g., creating general-purpose tools for analysis), or clinical evidence generation (e.g., conducting network studies to produce clinical evidence).
+
+**Final category:** 1. **Open community data standards**

@@ -1,0 +1,5 @@
+Discussion: The publication focuses on the development and evaluation of a methodological approach for causal inference in medicine, specifically leveraging cluster causal diagrams (C-DAGs). The study involves assessing the practical application of C-DAGs in simulated medical contexts and comparing their performance to traditional causal diagrams. This work aligns with the goals of methodological research, as it seeks to refine and empirically evaluate analytic approaches to improve scientific best practices in causal inference, a key area within statistics and epidemiology.
+
+While the study indirectly contributes to clinical evidence generation by addressing methods for estimating causal effects, its primary focus is on the methodology itself rather than conducting network studies or generating clinical evidence. It does not involve open community data standards or open-source software development, as the emphasis is on the theoretical and empirical evaluation of a methodological framework.
+
+Final category: 2. **Methodological research**

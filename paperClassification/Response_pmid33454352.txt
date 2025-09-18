@@ -1,0 +1,3 @@
+Discussion: This publication focuses on evaluating bias in epidemiologic studies, specifically those examining the association between acetaminophen use and cancer. The study identifies design choices that contribute to bias and empirically evaluates these choices using negative controls and cancer outcomes in a real-world database. The emphasis is on understanding methodological limitations and quantifying bias, which aligns closely with the goals of methodological research. The study does not propose new data standards, develop software tools, or generate clinical evidence directly, but rather focuses on improving the scientific rigor of observational study designs.
+
+Final category: **2. Methodological research**

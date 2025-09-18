@@ -1,0 +1,3 @@
+Discussion: This publication focuses on the use of large language models (LLMs) to automate case adjudication in observational research, specifically for validating phenotype algorithms. The study involves methodological innovation in leveraging LLMs to extract and evaluate patient data, which aligns with the development and empirical evaluation of analytic approaches. While the work indirectly supports clinical evidence generation by improving the efficiency of phenotype validation, its primary contribution lies in advancing methodological research by exploring the feasibility and performance of LLMs in this context.
+
+Final category: 2. Methodological research

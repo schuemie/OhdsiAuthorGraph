@@ -1,0 +1,5 @@
+Discussion: This publication focuses on evaluating statistical methods for detecting adverse drug reactions (ADRs) using electronic health care record data. The study compares different approaches, including cohort and case-based methods, and introduces a new method (LEOPARD) to address protopathic bias. The emphasis is on assessing the relative performance of these methods and determining best practices for drug safety signal detection. This aligns closely with the goals of **methodological research**, as the study is centered on developing and empirically evaluating analytic approaches to improve drug safety monitoring.
+
+While the study uses clinical data and generates evidence related to drug safety, its primary focus is not on conducting network studies to test clinical hypotheses or produce clinical evidence. Instead, the publication is methodological in nature, aiming to refine statistical techniques and evaluate their effectiveness.
+
+Final category: 2. Methodological research

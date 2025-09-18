@@ -1,0 +1,5 @@
+Discussion: This publication systematically evaluates the factors influencing background incidence rate calculations across multiple observational databases. The focus is on understanding how study parameters (e.g., age, sex, database choice, time-at-risk, etc.) impact the rates used in safety studies, particularly in the context of COVID-19 vaccine adverse events. The study involves empirical evaluation and meta-analysis, aiming to identify biases and improve methodological rigor in calculating incidence rates. This aligns closely with the goals of **methodological research**, as it seeks to refine and evaluate analytic approaches to ensure scientific best practices in epidemiology and statistics.
+
+While the study uses clinical data and generates insights relevant to safety surveillance, its primary contribution is methodological—providing guidance on how to appropriately calculate and interpret background incidence rates. It does not directly focus on generating clinical evidence or developing software tools, nor does it pertain to maintaining data standards.
+
+Final category: 2. Methodological research

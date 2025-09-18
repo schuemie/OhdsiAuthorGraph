@@ -1,0 +1,5 @@
+Discussion: This publication focuses on evaluating the performance of different propensity score methods in observational studies, using both synthetic and real-world data experiments. The study aims to establish a framework for assessing propensity score models and determining optimal methods for confounding control. The emphasis is on methodological evaluation, including comparisons of L1-regularized regression and high-dimensional propensity score (hdPS) approaches, as well as the use of metrics like covariate balance and bias reduction. The work contributes to the development and empirical evaluation of analytic approaches, which aligns closely with the goals of methodological research within the OHDSI community.
+
+While the study indirectly supports clinical evidence generation by improving methods for confounding control, its primary focus is on advancing statistical and epidemiological best practices. It does not directly involve conducting network studies or generating clinical evidence, nor does it focus on open community data standards or open-source software development.
+
+Final category: **Methodological research**

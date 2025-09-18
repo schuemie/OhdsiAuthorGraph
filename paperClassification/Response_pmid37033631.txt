@@ -1,0 +1,5 @@
+Discussion: This publication focuses on characterizing the treatment of thromboembolic events after COVID-19 vaccination across multiple countries using an international network cohort study. The study involves analyzing real-world data to generate clinical evidence about treatment patterns and comparing them to historical data. The primary goal is to produce evidence about the natural history of thromboembolic events and treatment utilization in the context of COVID-19 vaccination. This aligns closely with the **Clinical evidence generation** category, as the study is centered on testing clinical hypotheses and producing evidence related to disease treatment and outcomes.
+
+While the study uses standardized methods and data models (potentially related to open community data standards) and may involve methodological considerations, the primary focus is on generating clinical evidence rather than developing new methods or tools.
+
+Final category: 4. **Clinical evidence generation**

@@ -1,0 +1,3 @@
+Discussion: The publication focuses on the use of real-world evidence (RWE) in regulatory decision-making, particularly through regulator-initiated observational studies. It emphasizes the importance of transparency, reproducibility, and stakeholder collaboration in generating RWE. While the article does not directly discuss the development of data standards, methodologies, or software tools, it aligns most closely with the generation of clinical evidence, as it pertains to using observational studies to produce evidence for regulatory purposes. This falls under the category of clinical evidence generation, as it involves leveraging real-world data to inform decisions about drug safety, efficacy, and utilization.
+
+Final category: 4. Clinical evidence generation

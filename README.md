@@ -63,7 +63,6 @@ File --\> Export --\> Network to image
 
 The Matplotlib code colors authors by the type of papers they publish. For this, we need to first classify their papers by type, for which we use LLMs:
 
-1.  Run ExtractPubAbstractTitle.R. This will save the titles and abstracts as XML in the `intermediaryData` folder.
-2.  Run PaperClassification.R. This requires access to an LLM like GPT-4. This will write the classifications to the `paperClassification` folder.
-3.  Run matplotlib/PlotAuthorGraph.py. Make sure to run the pickle files (`positionsSpringForce.pkl` and `positionsNoOverlap.pkl`) first. These are caches from a previous run.
-4.  In some image editor (e.g. Gimp), combine the plot (`matplotlib/plot.png`) with the legend (`matplotlib/legend.png`).
+1.  Run PaperClassification.R. This requires access to an LLM like GPT-4. This will write the classifications to the `paperClassification` folder.
+2.  Run matplotlib/PlotAuthorGraph.py. Make sure to delete the pickle files (`positionsSpringForce.pkl` and `positionsNoOverlap.pkl`) first. These are caches from a previous run.
+3.  In some image editor (e.g. Gimp), combine the plot (`matplotlib/plot.png`) with the legend (`matplotlib/legend.png`).

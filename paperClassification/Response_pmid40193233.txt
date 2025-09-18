@@ -1,0 +1,4 @@
+**Discussion:**  
+The publication focuses on identifying gaps in the representation of Standard Automated Perimetry (SAP) data elements in standardized medical terminologies, specifically LOINC and the OMOP Common Data Model (CDM). It proposes new concepts to enhance data standards and interoperability. This work aligns closely with the **Open community data standards** category, as it involves maintaining and improving the OMOP CDM and standardized vocabularies, which are essential for ensuring consistent data representation and interoperability across healthcare systems. The study does not primarily focus on developing new methodologies, software tools, or generating clinical evidence, but rather on improving the foundational data standards that underpin these activities.
+
+**Final category:** 1. **Open community data standards**

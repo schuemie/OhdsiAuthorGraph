@@ -1,0 +1,5 @@
+Discussion: This publication focuses on analyzing clinical use patterns of dual combination therapies for hypertension across multiple countries and demographic subgroups. The study uses a large multinational cohort to characterize treatment utilization and variations in prescribing practices. The primary goal is to generate evidence about the natural history of treatment escalation and identify differences in therapeutic approaches across populations. This aligns closely with the **Clinical evidence generation** category, as the study aims to produce evidence about treatment utilization and variations, which can inform clinical decision-making and future research.
+
+While the study involves data from multiple electronic health record databases, it does not focus on developing or maintaining data standards (Category 1), methodological research (Category 2), or open-source software tools (Category 3). Instead, its emphasis is on generating clinical evidence about treatment patterns and variations, making Category 4 the most appropriate classification.
+
+Final category: 4. Clinical evidence generation

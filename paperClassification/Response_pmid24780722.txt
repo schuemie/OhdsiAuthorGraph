@@ -1,0 +1,6 @@
+**Discussion:**  
+The publication describes the development and implementation of pSCANNER, a federated network designed to integrate data from multiple healthcare systems for effectiveness research. It emphasizes the use of a common data model, privacy-preserving distributed computation, and stakeholder engagement to prioritize research questions. The focus on integrating data and enabling distributed statistical analyses aligns with the goals of creating infrastructure for clinical evidence generation. Additionally, the mention of a common data model suggests some overlap with the "Open community data standards" category, as it involves standardizing data for interoperability. However, the primary emphasis of the article is on conducting research to answer clinical questions related to conditions like congestive heart failure, Kawasaki disease, and obesity, which falls under the "Clinical evidence generation" category.
+
+While the article touches on aspects of data standards and distributed architecture, its main purpose is to describe the network's role in generating clinical evidence through stakeholder-driven research. Therefore, the most appropriate category is "Clinical evidence generation."
+
+**Final category:** 4. Clinical evidence generation

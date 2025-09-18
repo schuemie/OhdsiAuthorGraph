@@ -1,0 +1,5 @@
+Discussion: This publication focuses on evaluating epidemiological and analytical methods for vaccine safety surveillance, particularly through the EUMAEUS study design. It synthesizes existing literature to assess the strengths, weaknesses, biases, and performance metrics of various study designs, such as cohort, case-control, and self-controlled designs. The emphasis is on methodological evaluation and comparison, including simulation studies and real-world data applications, to determine the best practices for vaccine safety monitoring. This aligns closely with the goals of **methodological research**, as the study aims to empirically evaluate and refine analytic approaches for observational data in vaccine safety surveillance.
+
+While the study indirectly contributes to clinical evidence generation by improving methods for vaccine safety studies, its primary focus is on the methodological aspects rather than directly generating clinical evidence. It does not involve the creation of open-source tools or data standards, which rules out the other categories.
+
+Final category: 2. **Methodological research**

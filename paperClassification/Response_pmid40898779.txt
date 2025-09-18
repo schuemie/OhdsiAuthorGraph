@@ -1,0 +1,4 @@
+**Discussion:**  
+This publication focuses on a cross-sectional study that investigates the prevalence of endometriosis in adult female patients with hidradenitis suppurativa using data from the All of Us Research Program. The study appears to be centered on generating clinical evidence by analyzing real-world data to characterize disease associations and natural history. It does not seem to involve the development of data standards, methodological research, or open-source software tools. Instead, the primary goal is to produce clinical evidence related to the co-occurrence of two medical conditions, which aligns with the category of **Clinical evidence generation**.
+
+**Final category:** 4. Clinical evidence generation

@@ -1,0 +1,3 @@
+Discussion: The publication focuses on challenges related to estimating feature importance in clinical prediction models, particularly in the context of real-world healthcare data. It examines computational feasibility, method selection, and interpretation issues, which are methodological concerns. The emphasis on creating awareness and providing guidance to practitioners aligns with the goal of developing and evaluating analytic approaches to establish scientific best practices. This suggests the publication falls under the category of **Methodological research**, as it contributes to advancing understanding and improving methods in statistics, epidemiology, and informatics.
+
+Final category: 2. Methodological research

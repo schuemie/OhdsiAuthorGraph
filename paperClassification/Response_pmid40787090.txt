@@ -1,0 +1,5 @@
+Discussion: The publication focuses on developing a Bayesian statistical procedure to address systematic error in observational studies, specifically through posterior interval calibration using negative and positive controls. This work is centered on improving the interpretability of observational studies by refining statistical methods to account for biases and ensure nominal operating characteristics. The emphasis on proposing and evaluating a methodological approach aligns closely with the goals of methodological research within the OHDSI community, which involves advancing scientific best practices in statistics and epidemiology.
+
+While the work indirectly supports clinical evidence generation by improving the reliability of observational study results, its primary contribution is methodological in nature, as it introduces and evaluates a new statistical procedure. It does not directly involve conducting network studies or generating clinical evidence, nor does it focus on open community data standards or open-source software development.
+
+Final category: 2. Methodological research

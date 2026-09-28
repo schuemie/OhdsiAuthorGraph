@@ -104,7 +104,7 @@ links <- inner_join(
 saveRDS(authors, "intermediaryData/authors.rds")
 saveRDS(links, "intermediaryData/links.rds")
 
-# Output for Cytoscape ---------------------------------------------------------
+# Output for Matplotlib / Cytoscape --------------------------------------------
 authors <- readRDS("intermediaryData/authors.rds")
 links <- readRDS("intermediaryData/links.rds")
 

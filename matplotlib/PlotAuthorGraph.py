@@ -10,6 +10,8 @@ from fa2_modified import ForceAtlas2
 import ColorSpace
 from AvoidOverlap import avoid_overlap
 
+# !Important! Delete the pickle files if you change the graph. Otherwise, the layout will be reused and may not match
+# the new graph.
 POS_SPRINGFORCE_FILE = "positionsSpringForce.pkl"
 POS_NO_OVERLAP_FILE = "positionsNoOverlap.pkl"
 MIN_PAPER_COUNT = 2
@@ -76,6 +78,7 @@ else:
         pickle.dump(positions, file)
 
 # Draw the graph
+plt.ioff()
 plt.figure(figsize=(24, 15))
 
 # Edges

@@ -1,0 +1,5 @@
+Discussion: This publication focuses on the transformation of a real-world oncology database from the CDISC-SDTM format to the OMOP Common Data Model (CDM). The study evaluates the syntactic and semantic information loss during this transformation and assesses the statistical utility of the converted data. The work involves the application of extract, load, and transform (ELT) procedures, as well as the use of OHDSI tools and standardized terminologies. The primary focus is on ensuring the integrity and reproducibility of statistical analyses after the data conversion process.
+
+Given the content, this publication aligns most closely with the **Open community data standards** category. The study emphasizes the use of the OMOP CDM, standardized vocabularies, and ETL conventions, which are central to maintaining and applying OHDSI's community data standards. While the study involves statistical analyses to evaluate information loss, the primary goal is not methodological research or clinical evidence generation but rather the successful application and validation of data standards.
+
+Final category: 1. **Open community data standards**

@@ -1,0 +1,5 @@
+Discussion: This publication focuses on the challenges and successes of querying OMOP-transformed EHR data across different healthcare organizations. It highlights issues related to interoperability, such as patient identifiers, coding vocabularies, and mapping variations, which are directly tied to the implementation and maintenance of the OMOP common data model and standardized vocabularies. The study emphasizes the need for alignment in semantics and syntax to improve patient-level interoperability, which aligns closely with the goals of maintaining and improving community data standards.
+
+While the study involves querying data and generating insights, its primary focus is on the infrastructure and standards that enable such queries, rather than on methodological research, software development, or clinical evidence generation. Therefore, the most appropriate category is "Open community data standards."
+
+Final category: 1

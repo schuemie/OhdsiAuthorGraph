@@ -1,0 +1,3 @@
+Discussion: This publication primarily focuses on generating clinical evidence by conducting a network study to evaluate the association between endometriosis and autoimmune thyroid disease. The study uses the OMOP Common Data Model to analyze data from multiple sites, employs statistical methods like propensity score matching and meta-analysis, and aims to produce real-world evidence about disease associations. While the study leverages the OMOP CDM (which is part of the open community data standards), its primary goal is clinical evidence generation rather than the development or maintenance of data standards, methodological research, or open-source software tools.
+
+Final category: 4. **Clinical evidence generation**

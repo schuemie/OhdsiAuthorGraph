@@ -1,0 +1,6 @@
+**Discussion:**  
+This publication focuses on the challenges and methods of extracting and validating data from electronic medical records (EMRs), with a specific emphasis on the OMOP common data model (CDM) as a standardized framework. The study systematically reviews existing literature to identify optimal approaches for EMR data extraction and validation, highlighting the importance of standardization and consistent processes. The publication aligns closely with the goals of the OHDSI community, particularly in the context of data standardization and the use of the OMOP CDM.
+
+Given the focus on the OMOP CDM and the challenges of standardizing data extraction and validation processes, this publication is most relevant to the **Open community data standards** category. It directly addresses the maintenance and application of the OMOP CDM and emphasizes the need for standardized processes, which are central to this category. While the study also touches on methodological aspects and could inform future methodological research, its primary focus is on the use and improvement of data standards.
+
+**Final category:** 1. **Open community data standards**

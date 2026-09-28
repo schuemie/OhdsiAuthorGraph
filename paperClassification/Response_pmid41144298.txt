@@ -1,0 +1,4 @@
+Discussion:  
+This publication focuses on developing a novel methodological approach for transfer-learning in prediction models using Bayesian sparse logistic regression with informed priors. The primary emphasis is on creating and evaluating a statistical framework to improve prediction performance in small-sample clinical datasets by leveraging information from larger datasets. The study involves methodological innovation, including the use of hierarchical priors and Bayesian shrinkage techniques, and evaluates the approach through simulations and real-world applications. The work does not focus on creating software tools, defining data standards, or conducting network studies to generate clinical evidence. Instead, it is centered on advancing and empirically validating a new analytic method, which aligns with the goals of methodological research.
+
+Final category: **2. Methodological research**

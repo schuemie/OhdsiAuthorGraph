@@ -1,0 +1,4 @@
+Discussion:  
+This publication focuses on a comparative effectiveness study investigating the risk of diagnostic conversion from unipolar depression to bipolar disorder among users of SSRIs versus SNRIs. The study uses a retrospective cohort design and employs the OMOP-CDM framework for data standardization and analysis. The primary goal is to generate clinical evidence regarding the safety and effectiveness of these two classes of antidepressants. The study does not focus on developing new data standards, methodological approaches, or open-source tools but rather applies existing methods and tools to address a clinical question. Therefore, the most appropriate category for this publication is **Clinical evidence generation**, as it aims to produce evidence about treatment effects and safety.
+
+Final category: 4. Clinical evidence generation

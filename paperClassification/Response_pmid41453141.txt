@@ -1,0 +1,3 @@
+Discussion: The publication focuses on integrating imaging data (DICOM) with clinical data using the OMOP common data model. This suggests a focus on data standards and interoperability, which aligns with the goal of maintaining and expanding the OMOP common data model and standardized vocabularies. The integration framework discussed in the publication likely involves defining conventions and standards for harmonizing imaging data with clinical data, which is a key aspect of the "Open community data standards" category. While the work may also touch on methodological aspects or software development, the primary focus appears to be on establishing semantic interoperability through data standards.
+
+Final category: 1. **Open community data standards**

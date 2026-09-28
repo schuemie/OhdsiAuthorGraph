@@ -1,0 +1,3 @@
+Discussion: This publication primarily focuses on transforming nursing documentation data into the OMOP common data model (CDM) format, which involves standardizing the data using OHDSI vocabularies (e.g., SNOMED CT) and mapping them to the appropriate CDM tables. The study also demonstrates the utility of this transformation by generating a cohort of inpatients with nausea. While the cohort generation aspect touches on clinical evidence generation, the primary focus of the study is on the process of standardizing and converting nursing documentation data into the OMOP CDM format, which aligns with the goals of maintaining and expanding the community's data standards.
+
+Final category: 1. **Open community data standards**

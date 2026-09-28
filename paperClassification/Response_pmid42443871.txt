@@ -1,0 +1,11 @@
+**Discussion:**  
+This publication focuses on enhancing patient stratification for survival analyses by leveraging standardized data from the OMOP Common Data Model (CDM) and advanced machine learning techniques, specifically transformer-based models like BERT. The study involves harmonizing data from different sources using the OMOP CDM, applying machine learning to generate patient embeddings, and evaluating the effectiveness of these embeddings for clustering and survival analysis. The work also includes a clinical expert review to assess the clinical plausibility of the results.
+
+Given the content, the publication could potentially fall into multiple categories:  
+1. **Open community data standards**: The study uses the OMOP CDM to harmonize data from different sources, which aligns with the goal of maintaining and applying standardized data models.  
+2. **Methodological research**: The study develops and evaluates a novel methodological approach (BERT-based patient representation learning and clustering) for patient stratification and survival analysis.  
+3. **Clinical evidence generation**: The study generates evidence by conducting survival analyses on stratified patient subgroups, which could inform clinical decision-making.  
+
+However, the primary focus of the publication is on developing and evaluating a methodological approach for patient stratification and survival analysis using machine learning and standardized data. While the study leverages the OMOP CDM and generates clinical evidence, these aspects are secondary to the methodological innovation and evaluation. Therefore, the most appropriate category is **Methodological research**.
+
+**Final category:** 2. Methodological research

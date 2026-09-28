@@ -1,0 +1,3 @@
+Discussion: The publication focuses on integrating Patient-Reported Outcomes (PROs) into the OMOP Common Data Model, which is a foundational aspect of OHDSI's open community data standards. The work involves extending the OMOP CDM to accommodate new types of data, addressing vocabulary gaps, and ensuring minimal information loss. This aligns with the goal of maintaining and enhancing the OMOP CDM and standardized vocabularies to support broader data interoperability and usability. While the study may touch on methodological aspects (e.g., minimizing information loss), its primary focus is on the data model itself, making it most relevant to the "Open community data standards" category.
+
+Final category: 1

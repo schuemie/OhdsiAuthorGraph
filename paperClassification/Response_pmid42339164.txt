@@ -1,0 +1,10 @@
+Discussion:  
+This publication focuses on expanding the OMOP Common Data Model (CDM) to better support research related to extracorporeal life support (ECLS). The work involves assessing the existing OMOP CDM for its ability to capture ECLS-related data and developing a custom data model expansion (ECLS CDM) to address identified gaps. The project also introduces new concepts and database tables to improve interoperability and data quality for ECLS research. The release of the ECLS CDM as an open-source project further emphasizes its contribution to the community.
+
+Given the content, the publication could potentially fall into two categories:  
+1. **Open community data standards**: The work involves assessing and expanding the OMOP CDM, which is a core component of OHDSI's open community data standards. The focus on improving the data model to support a specific clinical domain aligns with maintaining and enhancing the OMOP CDM and standardized vocabularies.  
+3. **Open source development**: The release of the ECLS CDM as an open-source project on GitHub suggests a contribution to the development of tools or resources that can be used by the community.
+
+However, the primary focus of the publication is on the expansion and adaptation of the OMOP CDM to support a specific clinical research area (ECLS). This aligns most closely with the **Open community data standards** category, as it directly pertains to the maintenance and enhancement of the OMOP CDM and its associated conventions.
+
+Final category: **1. Open community data standards**

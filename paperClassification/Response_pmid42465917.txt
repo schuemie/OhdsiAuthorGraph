@@ -1,0 +1,6 @@
+**Discussion:**  
+This publication focuses on evaluating the application of the OMOP Common Data Model (CDM) to a multi-site repository of stroke rehabilitation research data. The study assesses the coverage of OMOP for demographics, medical history, and rehabilitation assessment data, identifying gaps in the model's ability to represent granular research-generated data. The authors also discuss challenges in mapping research data to OMOP and propose improvements, such as expanding OMOP's rehabilitation-related concepts and adapting computational tools for better mapping.
+
+The primary focus of this work aligns with the **Open community data standards** category, as it involves evaluating and potentially improving the OMOP CDM's ability to standardize and integrate research-generated data. The study does not primarily develop new analytic methods (which would fall under **Methodological research**) or create software tools (which would align with **Open source development**). While the work has implications for clinical evidence generation, its primary contribution is to the development and refinement of data standards, making **Clinical evidence generation** a less appropriate category.
+
+**Final category:** 1. **Open community data standards**

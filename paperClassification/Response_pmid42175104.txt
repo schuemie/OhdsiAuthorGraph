@@ -1,0 +1,5 @@
+Discussion: This publication focuses on the development of an automated pipeline for constructing the OMOP Common Data Model (CDM) using both structured and unstructured medical data. The emphasis is on creating a reproducible and scalable workflow for CDM construction, which aligns with the goals of enabling standardized data integration and supporting multi-institutional deployment. The use of Apache Airflow and the focus on automating the ETL process suggest a strong connection to the **Open community data standards** category, as it involves maintaining and implementing the OMOP CDM and associated conventions. However, the development of the pipeline itself also has elements of **Open source development**, as it involves creating a software tool to facilitate the ETL process.
+
+Ultimately, the primary focus of the publication is on the construction and integration of data into the OMOP CDM, which is a core aspect of maintaining and applying community data standards. While the pipeline development is a significant contribution, it serves as a means to achieve the goal of standardizing data integration.
+
+Final category: **1. Open community data standards**

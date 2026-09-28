@@ -1,0 +1,10 @@
+**Discussion:**  
+This publication focuses on the development of an HL7 FHIR® Implementation Guide (IG) for wearable data interoperability in lifestyle medicine. The work involves creating FHIR® profiles, extensions, and ConceptMaps to enable standardized data exchange across multiple vendor ecosystems. It also addresses terminology gaps by mapping custom codes to standard terminologies like LOINC, SNOMED CT, and OMOP. The study emphasizes the technical validation of the IG and its compliance with the European Health Data Space (EHDS) regulation.
+
+Given the content, the publication could potentially fall into the following categories:  
+1. **Open community data standards**: The work involves creating a framework for standardizing wearable data exchange and mapping to established terminologies, which aligns with the maintenance and extension of community data standards.  
+2. **Open source development**: The development of the FHIR® IG and associated artifacts (e.g., profiles, extensions, ConceptMaps) could be considered a form of open-source tool development, as it provides a reusable framework for the community.  
+
+However, the primary focus of the publication is on creating and validating a standardized framework for data exchange and addressing terminology gaps, which aligns most closely with **open community data standards**. The emphasis is on enabling interoperability and compliance with existing standards rather than creating software tools or conducting methodological research or clinical evidence generation.
+
+**Final category:** 1. **Open community data standards**

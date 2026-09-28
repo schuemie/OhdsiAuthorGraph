@@ -1,0 +1,6 @@
+**Discussion:**  
+This publication describes the Kineret initiative, which focuses on transforming clinical data from Israel's largest hospital network into the OMOP Common Data Model (CDM). The primary emphasis is on the adoption and implementation of the OMOP CDM to standardize and harmonize clinical data across multiple institutions. The article highlights the process of integrating data into the OMOP CDM, deploying the ATLAS platform, and enabling collaborative research through a secure, standardized infrastructure. 
+
+Given the focus on adopting and implementing the OMOP CDM as a data standard, this publication aligns most closely with the **Open community data standards** category. The work involves maintaining and applying the OMOP CDM and related tools to ensure data harmonization and quality, which are central to this category. While the initiative also facilitates research and evidence generation, the primary contribution of the publication is the establishment of a standardized data infrastructure, not the generation of clinical evidence or methodological research.
+
+**Final category:** 1. **Open community data standards**

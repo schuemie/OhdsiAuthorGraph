@@ -1,0 +1,5 @@
+Discussion: This publication focuses on comparing two data standards, OMOP and FHIR, in the context of their utility for secondary data analysis within the All of Us Research Program. The study evaluates the strengths and weaknesses of each standard, particularly in terms of data volume, healthcare encounters, and phenotype-based assessments. The emphasis on OMOP's extract-transform-load (ETL) process and its flexibility for research purposes aligns closely with the maintenance and evaluation of community data standards. The findings also highlight how FHIR can supplement OMOP by capturing patient-level data across multiple providers and health systems, which is relevant to understanding and improving data standards.
+
+While the study does not directly develop new methodologies, software tools, or generate clinical evidence, it contributes to the understanding and refinement of data standards, particularly OMOP, which is central to OHDSI's open community data standards efforts.
+
+Final category: 1. **Open community data standards**

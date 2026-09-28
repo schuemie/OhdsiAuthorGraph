@@ -1,0 +1,3 @@
+Discussion: The publication focuses on identifying and categorizing sources of bias in real-world evidence (RWE) generation, particularly in observational studies using electronic health records (EHRs). It develops a conceptual framework to understand bias across healthcare delivery, data management, and research phases. This work is primarily methodological in nature, as it aims to improve the understanding of bias and its impact on observational research, which is a critical aspect of determining scientific best practices in epidemiology and informatics. While the study indirectly supports clinical evidence generation by addressing bias in RWE studies, its primary contribution lies in advancing methodological research.
+
+Final category: 2. **Methodological research**

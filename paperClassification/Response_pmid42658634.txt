@@ -1,0 +1,11 @@
+**Discussion:**  
+The publication describes the development of the GENIE Data Model (GDM), an open-source oncology data model designed to standardize and harmonize clinical and genomic data collection for precision oncology research. The focus is on creating a scalable, interoperable framework that supports real-world evidence generation and facilitates multisite studies. The GDM incorporates standardized terminologies and mappings to existing standards, including the OMOP common data model, to ensure interoperability and consistency.
+
+Given the content of the publication, the following categories could be considered:  
+1. **Open community data standards**: The GDM aligns with this category because it involves the development of a standardized data model and mappings to existing standards like OMOP.  
+2. **Open source development**: The GDM is described as an open-source framework, which could place it in this category as it provides a tool for the community to use in data collection and harmonization.  
+3. **Clinical evidence generation**: While the GDM is designed to support real-world evidence generation, the publication itself focuses on the development of the data model rather than conducting specific clinical studies.
+
+The most appropriate category is **Open community data standards**, as the primary focus of the publication is on creating a standardized data model for harmonized data collection and interoperability, which aligns with the goals of maintaining and advancing community data standards.
+
+**Final category:** 1. **Open community data standards**

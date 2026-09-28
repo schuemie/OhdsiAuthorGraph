@@ -1,0 +1,6 @@
+Discussion:  
+The publication focuses on the role of interoperability in enabling Digital Twins (DTs) in healthcare, with a specific emphasis on how standards like HL7 FHIR, openEHR, and the OHDSI OMOP Common Data Model contribute to this goal. The paper highlights the OMOP Common Data Model's role in supporting data reuse for analysis, which aligns with the OHDSI community's focus on open community data standards. The discussion of OMOP in the context of interoperability and its comparison with other standards suggests that the paper is primarily concerned with the structural and technical aspects of data standardization and integration. This aligns most closely with the **Open community data standards** category, as the paper examines how OMOP contributes to interoperability and data reuse, which are central to maintaining and advancing the OMOP common data model and related standards.
+
+While the paper touches on technical and conceptual aspects that could relate to methodological research or open-source development, its primary focus is on the role of data standards in enabling interoperability for Digital Twins. It does not delve deeply into developing new analytic methods, software tools, or generating clinical evidence, which would align with the other categories.
+
+Final category: **1. Open community data standards**

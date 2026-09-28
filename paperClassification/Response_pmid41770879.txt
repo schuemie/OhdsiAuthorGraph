@@ -1,0 +1,8 @@
+**Discussion:**  
+This publication describes a data resource profile for prostate cancer data from the Clinical Practice Research Datalink (CPRD), which has been standardized to the OMOP common data model. The focus on standardizing data to the OMOP CDM suggests a strong alignment with the **Open community data standards** category, as it involves the use of the OMOP CDM and potentially the OHDSI standardized vocabularies. The article likely discusses the process of transforming the data into the OMOP CDM format, which is a key aspect of maintaining and applying community data standards.
+
+While the publication may also have implications for **Clinical evidence generation**, as the data could be used for future studies on prostate cancer, the primary focus appears to be on the data resource itself and its standardization. There is no explicit mention of conducting network studies or generating clinical evidence in the description provided, so this category is less likely to be the primary focus.
+
+The publication does not seem to focus on developing new analytic methods (**Methodological research**) or creating software tools (**Open source development**), so these categories are not applicable.
+
+**Final category:** 1. **Open community data standards**

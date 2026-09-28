@@ -1,0 +1,6 @@
+Discussion:  
+The SIRENA protocol describes a prospective, multicenter cohort study aimed at generating real-world evidence on the progression of type 1 diabetes (T1D) in individuals with islet autoimmunity. The study focuses on characterizing disease trajectories, identifying candidates for disease-modifying therapies, and understanding the psychosocial impact of early diagnosis. The protocol emphasizes the use of the OMOP Common Data Model for standardizing data collection and sharing with the European pre-T1D Registry. While the study leverages OHDSI's data standards, its primary focus is on generating clinical evidence about T1D progression, treatment exposure, and outcomes. This aligns most closely with the **Clinical evidence generation** category, as the study's goal is to produce evidence to inform clinical practice and public health strategies.
+
+The study does not primarily focus on developing or maintaining data standards (Category 1), advancing methodological research (Category 2), or creating open-source tools (Category 3). Instead, it applies existing standards and methodologies to conduct a network study aimed at answering clinical questions.
+
+Final category: **4. Clinical evidence generation**

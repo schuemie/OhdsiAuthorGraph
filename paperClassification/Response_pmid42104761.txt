@@ -1,0 +1,5 @@
+Discussion: This publication focuses on a comparative effectiveness study of potassium-competitive acid blockers (P-CABs) versus proton pump inhibitors (PPIs) for preventing upper gastrointestinal bleeding in patients with atherothrombotic disease on antithrombotic therapy. The study uses real-world data from a hospital-based Common Data Model (CDM) to conduct a retrospective cohort analysis. The primary goal is to generate clinical evidence about the relative safety and efficacy of these two treatments in a specific patient population. This aligns closely with the **Clinical evidence generation** category, as the study aims to produce evidence characterizing treatment utilization and estimating the effects of medical interventions (P-CABs vs. PPIs) for safety and effectiveness.
+
+While the study leverages the OMOP CDM, it does not focus on the development or maintenance of data standards, methodologies, or software tools, which would align with the other categories (1, 2, or 3). Instead, the primary emphasis is on generating clinical evidence to inform medical decision-making.
+
+Final category: 4. **Clinical evidence generation**

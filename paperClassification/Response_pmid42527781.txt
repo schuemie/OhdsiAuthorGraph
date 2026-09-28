@@ -1,0 +1,8 @@
+Discussion:  
+This publication focuses on advancing the FAIR (Findable, Accessible, Interoperable, and Reusable) principles in multimodal imaging research by leveraging the OMOP Common Data Model (CDM) and its Medical Imaging extension (MI-CDM). The study demonstrates the use of standardized data models, reproducible workflows, and automated machine learning pipelines to harmonize and analyze clinical and imaging data. It also highlights the use of OHDSI tools for defining interoperable phenotypes and storing structured, provenance-preserving records. The study's primary goal is to enable reproducible and scalable imaging research, as demonstrated through a case replication study in Alzheimer's disease.
+
+Given the focus on the OMOP MI-CDM framework, standardized data models, and reproducible workflows, this publication aligns with the **Open community data standards** category. The study emphasizes the use of the OMOP CDM and its extension for medical imaging, as well as the integration of clinical and imaging data through standardized processes, which are central to maintaining and advancing community data standards.
+
+While the study also involves methodological aspects (e.g., automated machine learning pipelines) and clinical evidence generation (e.g., replicating findings in Alzheimer's disease), these are secondary to the primary focus on operationalizing data standards and FAIR principles.
+
+Final category: **1. Open community data standards**

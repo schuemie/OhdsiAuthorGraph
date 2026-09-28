@@ -1,0 +1,5 @@
+Discussion: This publication focuses on enhancing semantic interoperability by converting OMOP CDM data into the GA4GH Beacon v2 format, which is a standard for genomic data sharing. The study evaluates a file-based approach and proposes an alternative real-time architecture for data integration. The work involves leveraging existing tools (e.g., Convert-Pheno) and developing new methods for connecting OMOP CDM data to Beacon v2. This aligns with the goal of enabling consistent and interoperable data sharing in precision medicine. While the study involves methodological aspects (evaluating approaches for data conversion) and software development (proposing an architecture for real-time access), the primary focus is on maintaining and extending data standards to enhance interoperability.
+
+The most appropriate category for this publication is **Open community data standards**, as it directly addresses the use and adaptation of the OMOP common data model to integrate with another data standard (Beacon v2) for semantic interoperability.
+
+Final category: 1. **Open community data standards**

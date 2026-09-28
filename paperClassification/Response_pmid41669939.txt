@@ -1,0 +1,5 @@
+Discussion: This publication focuses on assessing the strength of evidence provided by external comparator cohort studies using real-world data (RWD) in the context of evaluating overall survival (OS) benefits in advanced cancers. The study compares ECC studies to single-arm trials (SAT) and randomized controlled trials (RCT), analyzing how healthcare professionals and regulatory assessors perceive the reliability of evidence from these study designs. The research involves evaluating methodological approaches to evidence generation, particularly in the use of RWD for clinical studies. This aligns with the **Methodological research** category, as the study is centered on empirically evaluating analytic approaches and determining scientific best practices for using RWD in clinical evidence generation.
+
+While the study indirectly contributes to clinical evidence generation by exploring how ECC studies can be used to assess treatment effects, its primary focus is on the methodology and perceived strength of evidence rather than directly generating clinical evidence. Therefore, the most appropriate category is **Methodological research**.
+
+Final category: 2

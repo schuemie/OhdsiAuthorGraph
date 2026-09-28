@@ -1,0 +1,8 @@
+Discussion:  
+This publication focuses on developing an ontology-driven framework for mapping local radiology procedure terms to standardized codes in the LOINC/RSNA Radiology Playbook. The work involves leveraging large language models (LLMs) and ontology-based similarity scoring to improve the accuracy and scalability of the mapping process. The primary goal is to standardize heterogeneous local radiology procedure names, which supports interoperability and secondary data use in imaging research.  
+
+The content aligns with the **Open community data standards** category because it addresses the standardization of data (radiology procedure names) and contributes to the maintenance and enhancement of community conventions for data interoperability. The use of LOINC/RSNA Radiology Playbook codes and ontology-based methods directly supports the development and application of standardized vocabularies, which is a core aspect of this category.  
+
+While the publication also involves methodological innovation (e.g., using LLMs and ontology-based similarity scoring), the primary focus is on applying these methods to achieve data standardization rather than advancing general methodological research. Similarly, while the framework may involve software development, the article does not emphasize the creation of open-source tools, which would align more closely with the **Open source development** category. Finally, the work does not directly involve generating clinical evidence, so it does not fit the **Clinical evidence generation** category.  
+
+Final category: **Open community data standards**

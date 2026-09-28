@@ -1,0 +1,6 @@
+**Discussion:**  
+The publication "Cross Biobank Comparison of Phenomic Profiles" focuses on comparing phenomic profiles across two biobanks (All of Us and UK Biobank) using phenotyping algorithms from the OHDSI Phenotype Library. The study involves analyzing prevalence rates, demographic and social determinants of health (SDOH), geographic prevalence, and genome-wide association study (GWAS) results for specific diseases. This work primarily involves generating clinical evidence by leveraging existing data and phenotyping algorithms to characterize disease prevalence, risk factors, and genetic associations across different populations.
+
+Given the focus on analyzing and comparing clinical data to generate insights about disease prevalence, risk factors, and genetic associations, this publication aligns most closely with **Clinical evidence generation**. While the study uses tools and standards from the OHDSI Phenotype Library, its primary goal is not to develop new methods, software, or data standards but to produce evidence about disease characteristics and differences between biobanks.
+
+**Final category:** 4. Clinical evidence generation

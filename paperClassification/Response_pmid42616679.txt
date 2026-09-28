@@ -1,0 +1,4 @@
+Discussion:  
+The publication introduces the SMART framework, which focuses on structured, auditable, and transparent documentation for clinical AI systems. The framework integrates OMOP standards, role-based lifecycle governance, and blockchain-backed audit trails. The work involves developing a structured approach to documentation, implementing it through open-source tools, and evaluating its utility in clinical AI contexts. This suggests a focus on creating tools and frameworks that enable consistent and reproducible processes for documenting clinical AI systems. The emphasis on open-source implementation and the use of OMOP integration aligns with the goals of the OHDSI open-source development community. While the framework indirectly supports clinical evidence generation by improving the documentation of AI models, the primary focus is on the development of tools and infrastructure.
+
+Final category: **3. Open source development**

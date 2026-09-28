@@ -1,0 +1,5 @@
+Discussion: This publication focuses on the implementation of the OMOP Common Data Model (CDM) using Epic's native ETL infrastructure. It describes the process of mapping electronic health record (EHR) data to OMOP CDM tables, conducting data quality assessments, and establishing a reproducible pipeline for collaborative research. The emphasis is on the technical aspects of ETL and data quality assessment, which are central to maintaining and operationalizing the OMOP CDM. This aligns closely with the goals of the "Open community data standards" category, as it involves the application and enhancement of community conventions for ETL and data quality within the OMOP framework.
+
+While the publication indirectly supports clinical evidence generation by enabling better data for research, its primary focus is on the technical implementation and standardization of the OMOP CDM, rather than conducting network studies or generating clinical evidence. It does not primarily address methodological research or open-source software development.
+
+Final category: **1. Open community data standards**

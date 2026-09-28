@@ -1,0 +1,6 @@
+Discussion:  
+The publication describes the development and functionality of an open-source R package, **CohortCharacteristics**, designed to facilitate standardized cohort characterization in datasets mapped to the OMOP Common Data Model (CDM). The focus is on creating a software tool that enables consistent and reproducible cohort characterization across multiple databases. The article highlights the package's ability to generate descriptive statistics and its application in observational studies, demonstrating its utility in improving transparency and reproducibility in multi-database research.  
+
+Given the content, the publication aligns most closely with the **open source development** category, as it emphasizes the creation and dissemination of a software tool that codifies best practices for cohort characterization. While the study also involves generating clinical evidence (e.g., descriptive statistics and insights into prescribing patterns), the primary focus is on the development and functionality of the software package itself, rather than on conducting a network study to test clinical hypotheses or produce clinical evidence.  
+
+Final category: **3. Open source development**

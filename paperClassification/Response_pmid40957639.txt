@@ -1,0 +1,3 @@
+Discussion: This publication focuses on the validation of the transformation of CPRD databases into the OMOP Common Data Model (CDM). It evaluates the consistency and accuracy of the data transformation process, ensuring that the transformed data aligns with the original source data. This aligns closely with the activities of maintaining and assessing the OMOP CDM, standardized vocabularies, and conventions for extract-transform-load (ETL) processes. The study does not primarily focus on developing new methodologies, creating software tools, or generating clinical evidence, but rather on ensuring the quality and reliability of the data transformation process within the framework of the OMOP CDM.
+
+Final category: 1. **Open community data standards**

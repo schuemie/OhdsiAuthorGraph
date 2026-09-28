@@ -7,7 +7,7 @@ library(readr)
 library(jsonlite)
 
 # Start with list of PMIDs (in this case from JSON provided by Paul Nagy) ------
-publications <- read_csv("ohdsi 2025 lit summary pmid.csv")
+publications <- read_csv("ohdsi 2026 lit summary pmid.csv")
 pmids <- publications$pmid
 pmids <- pmids[!is.na(pmids)]
 
